@@ -1,137 +1,137 @@
-Marque,Modèle,Année,Kilométrage,Carburant,Boîte_vitesse,Puissance_fiscale,Etat_generale,Prix
-BMW,Série 4 Grand Coupé,2016,188000,Diesel,Automatique,10,1 ere Main,188000
-Peugeot,208,2016,178000,Essence,Manuelle,5,1ere main,500
-Mercedes,CLA 180,2021,3200,Essence,Automatique,7,1 ere Main,145
-MG,ZS,2022,58000,Essence,Manuelle,7,1ere main,500
-Kia,Seltos,2021,83000,Essence,Automatique,8,1ere main,500
-BMW,Série 4 Gran Coupé Pack M,2020,132000,Essence,Automatique,7,1ere main,107
-Kia,Picanto,2020,73000,Essence,Manuelle,4,1 ere Main,500
-Mercedes,Classe C 180,2018,148000,Essence,Automatique,8,Trés Bon Etat,500
-Peugeot,208,2020,96000,Essence,Manuelle,4,1 ere Main,96000
-Suzuki,Ciaz,2023,52500,Essence,Manuelle,6,1 ere Main,52500
-Toyota,Rav 4 hybride,2023,58900,Hybride,Automatique,0,1ere main,139
-Land Rover,Discovery Sport,2017,184000,Diesel,Automatique,8,1ere main,184000
-Land Rover,RANGE ROVER SPORT,2014,160000,Diesel,Manuelle,16,1ere main,157
-Honda,HR-V,2025,7300,Essence,Automatique,7,1 ere Main,7300
-Kia,Sportage,2016,126000,Essence,Automatique,8,1 ere Main,126000
-Cupra,Formentor,2024,26000,Essence,Automatique,11,1ere main,135
-Jaguar,F-Pace,2018,159000,Diesel,Manuelle,9,1ere main,125
-Nissan,Qashqai,2013,103000,Essence,Manuelle,7,1ere main,103000
-Ford,EcoSport,2020,49500,Essence,Manuelle,7,1ere main,49500
-Mazda,3,2016,112000,Essence,Manuelle,6,2ème main,112000
-Volkswagen,Tiguan,2010,184000,Essence,Manuelle,12,1 ere Main,184000
-Volkswagen,Tiguan,2010,158000,Essence,Manuelle,11,1 ere Main,158000
-Land Rover,RANGE ROVER VELAR,2017,92000,Diesel,Automatique,15,1ere main,182
-Volvo,xc60,2022,19000,Hybride,Automatique,20,1ere main,286
-Mercedes,CLA 180,2013,143000,Essence,Manuelle,7,1 ere Main,143000
-Audi,A5,2020,164000,Essence,Automatique,8,1 ere Main,164000
-MG,ZS,2020,92000,Essence,Automatique,7,1 ere Main,92000
-Seat,Leon,2017,158000,Essence,Manuelle,6,1 ere Main,900
-Jeep,Compass,2021,45000,Essence,Manuelle,8,1 ere Main,45000
-Peugeot,2008,2020,43000,Essence,Manuelle,5,1ere main,500
-Geely,GX3,2021,73000,Essence,Manuelle,6,1ere main,73000
-Volkswagen,Golf 8,2022,66000,Micro-hybride,Automatique,0,1ere main,66000
-Audi,A7,2019,63500,Essence,Automatique,23,1ere main,275
-Mercedes,Classe A 35 Amg,2022,55000,Essence,Automatique,19,1ere main,185
-Honda,City,2020,108000,Essence,Automatique,7,1 ere Main,108000
-Ford,Kuga,2019,172000,Essence,Manuelle,8,1 ere Main,172000
-Kia,Picanto,2018,79000,Essence,Manuelle,5,1 ere Main,800
-Toyota,Land Cruiser Prado,2014,230000,Diesel,Manuelle,11,1ere main,145
-Toyota,C-HR,2019,117500,Essence,Automatique,6,1 ere Main,117500
-BMW,Série 5,2021,18000,Essence,Automatique,10,1 ere Main,195
-Peugeot,2008,2017,110000,Essence,Manuelle,5,1 ere Main,110000
-Mercedes,classe E200,2015,52500,Essence,Automatique,10,1ere main,500
-Nissan,Navara,2012,237000,Diesel,Manuelle,10,2ème main,500
-Haval,H6,2022,48000,Essence,Automatique,8,1 ere Main,48000
-Volkswagen,Tiguan R Line,2020,138000,Essence,Automatique,8,2ème main,138000
-Hyundai,i20,2018,82000,Essence,Manuelle,5,2 eme main,700
-BMW,Série 1,2010,182000,Essence,Manuelle,7,2ème main,182000
-Peugeot,208,2015,172000,Essence,Manuelle,5,1 ere Main,172000
-Land Rover,Range Rover,2019,116000,Essence,Automatique,25,1 ere Main,380
-Seat,Arona,2023,27000,Essence,Automatique,6,1 ere Main,800
-Geely,GX3,2021,78000,Essence,Manuelle,6,1 ere Main,78000
-Cadillac,ATS,2014,58000,Essence,Automatique,18,1ere main,58000
-Audi,Q5 S-line quattro,2016,112000,Diesel,Automatique,8,1ere main,112000
-Land Rover,RANGE ROVER VELAR,2018,144000,Diesel,Automatique,19,1ere main,192
-Hyundai,Grand i10,2020,112000,Essence,Manuelle,5,1 ere Main,112000
-Porsche,Macan Electrique,2024,9000,Electriques,Automatique,9,1ere main,289
-Skoda,Scala,2024,48000,Essence,Automatique,6,1ere main,48000
-Land Rover,Discovery Sport,2021,52000,Diesel,Automatique,9,1 ere Main,265
-Toyota,Rav 4,2024,30000,Hybride,Automatique,9,1ere main,147
-Ford,Focus,2017,101000,Essence,Automatique,7,1ere main,500
-Peugeot,3008,2021,81000,Essence,Automatique,9,1 ere Main,81000
-Audi,A1 Sportback,2024,35000,Essence,Automatique,6,1 ere Main,35000
-Chery,Tiggo 2,2020,88000,Essence,Manuelle,6,2 eme main,88000
-Jeep,renegade,2021,85000,Essence,Manuelle,0,1ere main,85000
-Porsche,Macan,2020,100000,Essence,Automatique,16,1ere main,215
-Mercedes,Classe A 200,2018,122000,Essence,Manuelle,9,1ere main,122000
-BMW,Série 3 318i,2016,157000,Essence,Automatique,7,2ème main,3318
-Audi,A5 S-line,2020,158000,Essence,Automatique,8,1ere main,123
-Mercedes,Classe E 180,2017,88000,Essence,Automatique,9,1 ere Main,118
-Renault,Megane,2011,139000,Essence,Manuelle,7,1 ere Main,139000
-Opel,Mokka X,2018,139000,Essence,Manuelle,8,1 ere Main,500
-Kia,sportage,2021,113000,Essence,Automatique,8,1ere main,113000
-Mazda,2,2015,147500,Essence,Automatique,6,1ere main,500
-Kia,Rio,2011,136500,Essence,Manuelle,6,1ere main,500
-Geely,GX3,2021,97000,Essence,Manuelle,6,1 ere Main,97000
-Peugeot,301,2022,19500,Essence,Manuelle,5,1 ere Main,19500
-Mazda,6,2015,157000,Essence,Automatique,9,1 ere Main,157000
-Peugeot,2008,2020,55000,Essence,Manuelle,6,1 ere Main,55000
-Peugeot,301,2013,187000,Essence,Manuelle,5,1 ere Main,187000
-Hyundai,Creta,2020,137000,Essence,Automatique,7,1 ere Main,137000
-Ssangyoung,Tivoli,2018,59000,Essence,Manuelle,7,1 ere Main,59000
-Lada,Niva 4x4,2018,55000,Essence,Manuelle,7,1 ere Main,55000
-Skoda,Scala,2020,86000,Essence,Automatique,6,1ere main,86000
-Fiat,Tipo,2018,39000,Essence,Manuelle,5,1ere main,500
-Mercedes,Classe A,2021,37500,Essence,Automatique,7,1ere main,105
-Ssangyong,Tivoli,2018,61000,Essence,Automatique,8,1ere main,61000
-Toyota,Rav 4,2024,28000,Hybride,Automatique,9,1ere main,154
-Chery,Tiggo 3X,2022,68000,Essence,Automatique,6,1ere main,68000
-Peugeot,208,2018,75000,Essence,Manuelle,5,1 ere Main,500
-Geely,GX3,2021,65000,Essence,Manuelle,6,1 ere Main,65000
-Opel,Mokka,2022,30000,Essence,Automatique,7,1 ere Main,30000
-MG,ZS,2019,85000,Essence,Automatique,0,1ere main,85000
-Mercedes,Classe A,2019,86000,Diesel,Automatique,6,1 ere Main,115
-Suzuki,Vitara,2017,93000,Essence,Automatique,6,2ème main,500
-Mercedes,Classe E 200 Coupe,2014,112000,Essence,Automatique,10,1 ere Main,500
-Citroen,C3,2017,70000,Essence,Manuelle,4,1 ere Main,70000
-Dacia,Dokker,2021,164000,Diesel,Manuelle,6,1ere main,500
-BMW,X5,2007,183000,Essence,Automatique,19,1ere main,183000
-Ford,EcoSport,2022,16700,Essence,Automatique,7,1ere main,500
-Kia,Seltos,2022,87000,Essence,Automatique,8,1 ere Main,87000
-Ford,EcoSport,2022,37000,Essence,Automatique,7,1 ere Main,37000
-Nissan,QASHQAI,2017,73000,Essence,Automatique,6,1 ere Main,73000
-Mercedes,Classe C 220,2009,180000,Diesel,Manuelle,10,1 ere Main,500
-Seat,Arona,2022,39000,Essence,Manuelle,6,1 ere Main,39000
-Fiat,Tipo,2021,100000,Essence,Manuelle,5,1 ere Main,100000
-Ford,Kuga,2017,127000,Essence,Manuelle,8,1ere main,500
-MG,ZS,2022,51500,Essence,Automatique,7,1ere main,51500
-BMW,Série 4 Gran Coupé,2017,132500,Essence,Automatique,7,1ere main,132500
-Chery,Tiggo 3X,2023,13000,Essence,Automatique,6,1 ere Main,13000
-Volkswagen,Polo Sedan,2013,81000,Essence,Manuelle,5,1ere main,500
-Peugeot,2008,2017,153000,Essence,Manuelle,5,1 ere Main,153000
-Citroen,C3,2019,81000,Essence,Manuelle,4,1 ere Main,500
-Audi,A4 35 TFSI,2021,46400,Essence,Manuelle,8,1ere main,116
-Peugeot,208,2020,38500,Essence,Manuelle,4,1ere main,500
-Fiat,500,2018,112000,Essence,Automatique,4,2ème main,500
-Hyundai,I30 1.0T,2021,102000,Essence,Automatique,7,1ere main,102000
-Peugeot,2008,2016,142500,Essence,Manuelle,6,1ere main,142500
-Audi,TT,2022,42000,Essence,Automatique,15,1ere main,235
-BMW,Série 4 Gran Coupé,2017,125000,Essence,Automatique,7,1ere main,125000
-Opel,Combo Cargo,2025,750,Diesel,Manuelle,5,1ere main,10000
-Honda,CR-V,2021,110000,Essence,Automatique,11,1ere main,110000
-Honda,Civic,2020,159000,Essence,Automatique,10,1ere main,159000
-Volkswagen,Tiguan R Line,2024,6000,Essence,Automatique,8,1ere main,168
-Mercedes,CLA 250e,2021,49000,Hybride,Automatique,8,Hybride Rechargeable,162
-Ford,Mustang,2017,57000,Essence,Automatique,21,1ere main,160
-MG,ZS,2022,41000,Essence,Automatique,7,1ere main,500
-Audi,A3,2016,154000,Essence,Manuelle,6,1ere main,154000
-Kia,sportage,2021,61000,Essence,Automatique,8,1ere main,61000
-Mercedes,Classe A,2021,35500,Hybride,Automatique,8,1ere main,114
-Citroën,C3,2017,67000,Essence,Manuelle,4,1ere main,500
-Land Rover,Range Rover,2017,52000,Essence,Automatique,43,2eme main,350
-Chery,Tiggo 8,2022,49500,Essence,Automatique,9,1ere main,500
-BMW,X2,2018,38000,Essence,Automatique,7,1ere main,132
-MG,HS,2021,78000,Essence,Automatique,10,1ere main,500
-Volkswagen,Golf 7,2017,98500,Essence,Manuelle,5,2ème main,500
-Mercedes,Classe C,2022,46000,Essence,Automatique,9,1ère main,197
+Marque,Modèle,Année,Kilométrage,Carburant,Boîte_vitesse,Puissance_fiscale,Nombre_portes,Etat_generale,Prix
+BMW,Série 4 Grand Coupé,2016,188000,Diesel,Automatique,10,,1 ere Main,188000
+Peugeot,208,2016,178000,Essence,Manuelle,5,,1ere main,500
+Mercedes,CLA 180,2021,3200,Essence,Automatique,7,,1 ere Main,145
+MG,ZS,2022,58000,Essence,Manuelle,7,,1ere main,500
+Kia,Seltos,2021,83000,Essence,Automatique,8,,1ere main,500
+BMW,Série 4 Gran Coupé Pack M,2020,132000,Essence,Automatique,7,,1ere main,107
+Kia,Picanto,2020,73000,Essence,Manuelle,4,,1 ere Main,500
+Mercedes,Classe C 180,2018,148000,Essence,Automatique,8,,Trés Bon Etat,500
+Peugeot,208,2020,96000,Essence,Manuelle,4,,1 ere Main,96000
+Suzuki,Ciaz,2023,52500,Essence,Manuelle,6,,1 ere Main,52500
+Toyota,Rav 4 hybride,2023,58900,Hybride,Automatique,0,,1ere main,139
+Land Rover,Discovery Sport,2017,184000,Diesel,Automatique,8,,1ere main,184000
+Land Rover,RANGE ROVER SPORT,2014,160000,Diesel,Manuelle,16,,1ere main,157
+Honda,HR-V,2025,7300,Essence,Automatique,7,,1 ere Main,7300
+Kia,Sportage,2016,126000,Essence,Automatique,8,,1 ere Main,126000
+Cupra,Formentor,2024,26000,Essence,Automatique,11,,1ere main,135
+Jaguar,F-Pace,2018,159000,Diesel,Manuelle,9,,1ere main,125
+Nissan,Qashqai,2013,103000,Essence,Manuelle,7,,1ere main,103000
+Ford,EcoSport,2020,49500,Essence,Manuelle,7,,1ere main,49500
+Mazda,3,2016,112000,Essence,Manuelle,6,,2ème main,112000
+Volkswagen,Tiguan,2010,184000,Essence,Manuelle,12,,1 ere Main,184000
+Volkswagen,Tiguan,2010,158000,Essence,Manuelle,11,,1 ere Main,158000
+Land Rover,RANGE ROVER VELAR,2017,92000,Diesel,Automatique,15,,1ere main,182
+Volvo,xc60,2022,19000,Hybride,Automatique,20,,1ere main,286
+Mercedes,CLA 180,2013,143000,Essence,Manuelle,7,,1 ere Main,143000
+Audi,A5,2020,164000,Essence,Automatique,8,,1 ere Main,164000
+MG,ZS,2020,92000,Essence,Automatique,7,,1 ere Main,92000
+Seat,Leon,2017,158000,Essence,Manuelle,6,,1 ere Main,900
+Jeep,Compass,2021,45000,Essence,Manuelle,8,,1 ere Main,45000
+Peugeot,2008,2020,43000,Essence,Manuelle,5,,1ere main,500
+Geely,GX3,2021,73000,Essence,Manuelle,6,,1ere main,73000
+Volkswagen,Golf 8,2022,66000,Micro-hybride,Automatique,0,,1ere main,66000
+Audi,A7,2019,63500,Essence,Automatique,23,,1ere main,275
+Mercedes,Classe A 35 Amg,2022,55000,Essence,Automatique,19,,1ere main,185
+Honda,City,2020,108000,Essence,Automatique,7,,1 ere Main,108000
+Ford,Kuga,2019,172000,Essence,Manuelle,8,,1 ere Main,172000
+Kia,Picanto,2018,79000,Essence,Manuelle,5,,1 ere Main,800
+Toyota,Land Cruiser Prado,2014,230000,Diesel,Manuelle,11,,1ere main,145
+Toyota,C-HR,2019,117500,Essence,Automatique,6,,1 ere Main,117500
+BMW,Série 5,2021,18000,Essence,Automatique,10,,1 ere Main,195
+Peugeot,2008,2017,110000,Essence,Manuelle,5,,1 ere Main,110000
+Mercedes,classe E200,2015,52500,Essence,Automatique,10,,1ere main,500
+Nissan,Navara,2012,237000,Diesel,Manuelle,10,,2ème main,500
+Haval,H6,2022,48000,Essence,Automatique,8,,1 ere Main,48000
+Volkswagen,Tiguan R Line,2020,138000,Essence,Automatique,8,,2ème main,138000
+Hyundai,i20,2018,82000,Essence,Manuelle,5,,2 eme main,700
+BMW,Série 1,2010,182000,Essence,Manuelle,7,,2ème main,182000
+Peugeot,208,2015,172000,Essence,Manuelle,5,,1 ere Main,172000
+Land Rover,Range Rover,2019,116000,Essence,Automatique,25,,1 ere Main,380
+Seat,Arona,2023,27000,Essence,Automatique,6,,1 ere Main,800
+Geely,GX3,2021,78000,Essence,Manuelle,6,,1 ere Main,78000
+Cadillac,ATS,2014,58000,Essence,Automatique,18,,1ere main,58000
+Audi,Q5 S-line quattro,2016,112000,Diesel,Automatique,8,,1ere main,112000
+Land Rover,RANGE ROVER VELAR,2018,144000,Diesel,Automatique,19,,1ere main,192
+Hyundai,Grand i10,2020,112000,Essence,Manuelle,5,,1 ere Main,112000
+Porsche,Macan Electrique,2024,9000,Electriques,Automatique,9,,1ere main,289
+Skoda,Scala,2024,48000,Essence,Automatique,6,,1ere main,48000
+Land Rover,Discovery Sport,2021,52000,Diesel,Automatique,9,,1 ere Main,265
+Toyota,Rav 4,2024,30000,Hybride,Automatique,9,,1ere main,147
+Ford,Focus,2017,101000,Essence,Automatique,7,,1ere main,500
+Peugeot,3008,2021,81000,Essence,Automatique,9,,1 ere Main,81000
+Audi,A1 Sportback,2024,35000,Essence,Automatique,6,,1 ere Main,35000
+Chery,Tiggo 2,2020,88000,Essence,Manuelle,6,,2 eme main,88000
+Jeep,renegade,2021,85000,Essence,Manuelle,0,,1ere main,85000
+Porsche,Macan,2020,100000,Essence,Automatique,16,,1ere main,215
+Mercedes,Classe A 200,2018,122000,Essence,Manuelle,9,,1ere main,122000
+BMW,Série 3 318i,2016,157000,Essence,Automatique,7,,2ème main,3318
+Audi,A5 S-line,2020,158000,Essence,Automatique,8,,1ere main,123
+Mercedes,Classe E 180,2017,88000,Essence,Automatique,9,,1 ere Main,118
+Renault,Megane,2011,139000,Essence,Manuelle,7,,1 ere Main,139000
+Opel,Mokka X,2018,139000,Essence,Manuelle,8,,1 ere Main,500
+Kia,sportage,2021,113000,Essence,Automatique,8,,1ere main,113000
+Mazda,2,2015,147500,Essence,Automatique,6,,1ere main,500
+Kia,Rio,2011,136500,Essence,Manuelle,6,,1ere main,500
+Geely,GX3,2021,97000,Essence,Manuelle,6,,1 ere Main,97000
+Peugeot,301,2022,19500,Essence,Manuelle,5,,1 ere Main,19500
+Mazda,6,2015,157000,Essence,Automatique,9,,1 ere Main,157000
+Peugeot,2008,2020,55000,Essence,Manuelle,6,,1 ere Main,55000
+Peugeot,301,2013,187000,Essence,Manuelle,5,,1 ere Main,187000
+Hyundai,Creta,2020,137000,Essence,Automatique,7,,1 ere Main,137000
+Ssangyoung,Tivoli,2018,59000,Essence,Manuelle,7,,1 ere Main,59000
+Lada,Niva 4x4,2018,55000,Essence,Manuelle,7,,1 ere Main,55000
+Skoda,Scala,2020,86000,Essence,Automatique,6,,1ere main,86000
+Fiat,Tipo,2018,39000,Essence,Manuelle,5,,1ere main,500
+Mercedes,Classe A,2021,37500,Essence,Automatique,7,,1ere main,105
+Ssangyong,Tivoli,2018,61000,Essence,Automatique,8,,1ere main,61000
+Toyota,Rav 4,2024,28000,Hybride,Automatique,9,,1ere main,154
+Chery,Tiggo 3X,2022,68000,Essence,Automatique,6,,1ere main,68000
+Peugeot,208,2018,75000,Essence,Manuelle,5,,1 ere Main,500
+Geely,GX3,2021,65000,Essence,Manuelle,6,,1 ere Main,65000
+Opel,Mokka,2022,30000,Essence,Automatique,7,,1 ere Main,30000
+MG,ZS,2019,85000,Essence,Automatique,0,,1ere main,85000
+Mercedes,Classe A,2019,86000,Diesel,Automatique,6,,1 ere Main,115
+Suzuki,Vitara,2017,93000,Essence,Automatique,6,,2ème main,500
+Mercedes,Classe E 200 Coupe,2014,112000,Essence,Automatique,10,,1 ere Main,500
+Citroen,C3,2017,70000,Essence,Manuelle,4,,1 ere Main,70000
+Dacia,Dokker,2021,164000,Diesel,Manuelle,6,,1ere main,500
+BMW,X5,2007,183000,Essence,Automatique,19,,1ere main,183000
+Ford,EcoSport,2022,16700,Essence,Automatique,7,,1ere main,500
+Kia,Seltos,2022,87000,Essence,Automatique,8,,1 ere Main,87000
+Ford,EcoSport,2022,37000,Essence,Automatique,7,,1 ere Main,37000
+Nissan,QASHQAI,2017,73000,Essence,Automatique,6,,1 ere Main,73000
+Mercedes,Classe C 220,2009,180000,Diesel,Manuelle,10,,1 ere Main,500
+Seat,Arona,2022,39000,Essence,Manuelle,6,,1 ere Main,39000
+Fiat,Tipo,2021,100000,Essence,Manuelle,5,,1 ere Main,100000
+Ford,Kuga,2017,127000,Essence,Manuelle,8,,1ere main,500
+MG,ZS,2022,51500,Essence,Automatique,7,,1ere main,51500
+BMW,Série 4 Gran Coupé,2017,132500,Essence,Automatique,7,,1ere main,132500
+Chery,Tiggo 3X,2023,13000,Essence,Automatique,6,,1 ere Main,13000
+Volkswagen,Polo Sedan,2013,81000,Essence,Manuelle,5,,1ere main,500
+Peugeot,2008,2017,153000,Essence,Manuelle,5,,1 ere Main,153000
+Citroen,C3,2019,81000,Essence,Manuelle,4,,1 ere Main,500
+Audi,A4 35 TFSI,2021,46400,Essence,Manuelle,8,,1ere main,116
+Peugeot,208,2020,38500,Essence,Manuelle,4,,1ere main,500
+Fiat,500,2018,112000,Essence,Automatique,4,,2ème main,500
+Hyundai,I30 1.0T,2021,102000,Essence,Automatique,7,,1ere main,102000
+Peugeot,2008,2016,142500,Essence,Manuelle,6,,1ere main,142500
+Audi,TT,2022,42000,Essence,Automatique,15,,1ere main,235
+BMW,Série 4 Gran Coupé,2017,125000,Essence,Automatique,7,,1ere main,125000
+Opel,Combo Cargo,2025,750,Diesel,Manuelle,5,,1ere main,10000
+Honda,CR-V,2021,110000,Essence,Automatique,11,,1ere main,110000
+Honda,Civic,2020,159000,Essence,Automatique,10,,1ere main,159000
+Volkswagen,Tiguan R Line,2024,6000,Essence,Automatique,8,,1ere main,168
+Mercedes,CLA 250e,2021,49000,Hybride,Automatique,8,,Hybride Rechargeable,162
+Ford,Mustang,2017,57000,Essence,Automatique,21,,1ere main,160
+MG,ZS,2022,41000,Essence,Automatique,7,,1ere main,500
+Audi,A3,2016,154000,Essence,Manuelle,6,,1ere main,154000
+Kia,sportage,2021,61000,Essence,Automatique,8,,1ere main,61000
+Mercedes,Classe A,2021,35500,Hybride,Automatique,8,,1ere main,114
+Citroën,C3,2017,67000,Essence,Manuelle,4,,1ere main,500
+Land Rover,Range Rover,2017,52000,Essence,Automatique,43,,2eme main,350
+Chery,Tiggo 8,2022,49500,Essence,Automatique,9,,1ere main,500
+BMW,X2,2018,38000,Essence,Automatique,7,,1ere main,132
+MG,HS,2021,78000,Essence,Automatique,10,,1ere main,500
+Volkswagen,Golf 7,2017,98500,Essence,Manuelle,5,,2ème main,500
+Mercedes,Classe C,2022,46000,Essence,Automatique,9,,1ère main,197
