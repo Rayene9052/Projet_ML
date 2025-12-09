@@ -1,15 +1,23 @@
 import pandas as pd
 
-# Charger sparkauto
-df_spark = pd.read_csv("sparkauto.csv")
+df = pd.read_csv("cars_dataset_cleaned_more.csv")
 
-# Créer une colonne vide
-nombre_portes_col = pd.Series([pd.NA] * len(df_spark), name='Nombre_portes')
+before = len(df)
 
-# Insérer comme 8ème colonne (index 7)
-df_spark.insert(7, 'Nombre_portes', nombre_portes_col)
+# Supprimer prix = 0 ou prix null
+df = df[df['Prix'].notna()]
+df = df[df['Prix'] > 0]
 
-# Sauvegarder le CSV mis à jour
-df_spark.to_csv("sparkauto_fixed.csv", index=False)
+# Supprimer les valeurs irréalistes ( > 1 million DT )
+df = df[df['Prix'] <= 1_000_000]
 
-print("Colonne 'Nombre_portes' ajoutée avec succès !")
+after = len(df)
+
+print(f"Rows before: {before}")
+print(f"Rows after : {after}")
+print(f"Supprimés   : {before-after}")
+
+# Sauvegarde
+df.to_csv("cars_dataset_cleaned_more_fixed.csv", index=False)
+
+print("✔ prices cleaned & file saved.")
