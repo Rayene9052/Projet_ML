@@ -1,10 +1,9 @@
 import pandas as pd
 
-# Charger le CSV
-df = pd.read_csv("baniola_cars_features.csv")
+# Charger sparkauto
+df_spark = pd.read_csv("sparkauto.csv")
 
-# Retirer 'CV' et convertir en entier
-df['Puissance_fiscale'] = pd.to_numeric(df['Puissance_fiscale'].str.replace('CV', '', regex=False).str.strip(), errors='coerce').fillna(0).astype(int)
+# Ajouter Nombre_portes vide
+df_spark['Nombre_portes'] = pd.NA  # ou une valeur par défaut comme 0
 
-# Sauvegarder le CSV mis à jour
-df.to_csv("baniola_cars_features_fixed.csv", index=False)
+# Maintenant merge sera homogène
