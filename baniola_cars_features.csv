@@ -1,0 +1,2037 @@
+﻿Marque,Modèle,Année,Kilométrage,Carburant,Boîte_vitesse,Puissance_fiscale,Nombre_portes,Etat_generale,Prix
+Nissan,Juke,2013,180 000 km,Essence,Manuelle,7 CV,,Occasion,39500
+Suzuki,Vitara,2017,210 000 km,Essence,Automatique,6 CV,,Occasion,0
+Peugeot,406,2000,N/A,Essence,Manuelle,7 CV,,Occasion,0
+Renault,Megane,2017,230 000 km,Essence,Manuelle,7 CV,5,Occasion,0
+Suzuki,Samurai,2025,N/A,Essence,Manuelle,6 CV,2,Occasion,20000
+Toyota,Hilux,2006,462 000 km,Diesel,Manuelle,10 CV,4,Occasion,0
+Citroen,C3,2017,126 000 km,Essence,Manuelle,4 CV,4,Occasion,0
+Citroen,JUMPY,2020,120 000 km,Diesel,Manuelle,6 CV,4,Occasion,0
+Dongfeng,S50,2022,125 000 km,Essence,Manuelle,6 CV,5,Occasion,41000
+Citroen,C3,2021,86 000 km,Essence,Manuelle,4 CV,5,Occasion,45000
+Mazda,MAZDA2,2017,245 000 km,Essence,Manuelle,6 CV,5,Occasion,33000
+Renault,Megane,2007,273 000 km,Diesel,Manuelle,5 CV,5,Occasion,18000
+Renault,Clio,2017,114 000 km,Essence,Manuelle,5 CV,4,Occasion,38000
+Ford,C MAX,2010,340 000 km,Diesel,Manuelle,6 CV,4,Occasion,24500
+Opel,Corsa,,N/A,Essence,Manuelle,4 CV,,Occasion,0
+Seat,Leon,2017,186 000 km,Essence,Manuelle,6 CV,,Occasion,43500
+Renault,Symbol,2011,240 000 km,Essence,Manuelle,5 CV,,Occasion,0
+Volkswagen,Golf 5,2007,N/A,Essence,Manuelle,5 CV,,Occasion,0
+Dacia,DUSTER,2020,N/A,Diesel,Manuelle,5 CV,,Occasion,43000
+Citroen,BERLINGO,2011,N/A,Diesel,Manuelle,,,Occasion,22500
+Citroen,DS,2016,120 000 km,Essence,Manuelle,5 CV,,Occasion,30000
+Volkswagen,Polo,,165 000 km,Essence,Manuelle,4 CV,,Occasion,21500
+Ssangyong,Tivoli,2017,190 000 km,Essence,Automatique,7 CV,5,Occasion,42000
+Renault,Clio,2002,225 000 km,Essence,Manuelle,4 CV,,Occasion,14000
+Volkswagen,Golf 6,2010,230 000 km,Essence,Manuelle,5 CV,,Occasion,37000
+Citroen,C4,,26 000 km,Diesel,Manuelle,5 CV,,Occasion,24000
+Ford,FIESTA,2011,196 000 km,Essence,Manuelle,5 CV,4,Occasion,26000
+Peugeot,208,2021,50 000 km,Essence,Manuelle,5 CV,2,Occasion,0
+Fiat,GRANDE PUNTO,2017,143 000 km,Essence,Manuelle,4 CV,5,Occasion,28000
+Renault,Clio,2020,91 000 km,Essence,Manuelle,5 CV,4,Occasion,39000
+Dacia,AUTRE,2022,80 000 km,Essence,Manuelle,5 CV,5,Occasion,75000
+Dacia,LOGAN,2011,300 000 km,Diesel,Manuelle,4 CV,4,Occasion,13000
+Dongfeng,AUTRE,2021,83 000 km,Essence,Manuelle,8 CV,5,Occasion,52000
+Volkswagen,Amarok,2011,225 000 km,Diesel,Manuelle,8 CV,4,Occasion,65000
+Volkswagen,Golf 7,2013,220 000 km,Diesel,Manuelle,,,Occasion,55000
+Mercedes,190-series,1991,530 000 km,Diesel,Manuelle,7 CV,4,Occasion,0
+Renault,Megane,2020,112 000 km,Essence,Manuelle,7 CV,4,Occasion,49000
+Citroen,JUMPY,2020,120 000 km,Diesel,Manuelle,6 CV,5,Occasion,57000
+Citroen,C3,2021,N/A,Essence,Manuelle,5 CV,,Occasion,46500
+Volkswagen,Passat,2014,152 650 km,Diesel,Manuelle,5 CV,5,Occasion,55000
+Peugeot,205,,N/A,Essence,Manuelle,4 CV,,Occasion,0
+Fiat,PUNTO,2016,150 000 km,GPL,Manuelle,4 CV,4,Occasion,13500
+Volkswagen,Polo,,196 000 km,Essence,Manuelle,5 CV,,Occasion,15900
+Isuzu,VEHI CROSS,2021,115 000 km,Diesel,Manuelle,,,Occasion,0
+Renault,Autres,,N/A,Essence,Manuelle,4 CV,,Occasion,12800
+Renault,Symbol,2013,190 000 km,Essence,Manuelle,5 CV,,Occasion,0
+Renault,Autres,2002,341 km,Diesel,Manuelle,6 CV,4,Occasion,16200
+Volkswagen,Golf 5,2008,300 km,Diesel,Manuelle,6 CV,4,Occasion,30500
+Peugeot,508,2013,242 km,Essence,Automatique,7 CV,5,Occasion,30
+Peugeot,308,2019,158 000 km,Essence,Manuelle,6 CV,4,Occasion,42000
+Kia,PICANTO,2016,133 000 km,Essence,Manuelle,5 CV,,Occasion,34000
+Citroen,NEMO,2017,206 000 km,Diesel,Manuelle,5 CV,4,Occasion,23500
+Chevrolet,SPARK,2016,124 000 km,Essence,Manuelle,5 CV,5,Occasion,26500
+Hyundai,I10,2015,N/A,Essence,Manuelle,4 CV,,Occasion,28000
+Renault,Megane,2020,112 000 km,Essence,Manuelle,7 CV,4,Occasion,49000
+Toyota,Aygo,2022,57 000 km,Essence,Manuelle,5 CV,4,Occasion,36500
+Volkswagen,Touareg,2004,150 000 km,Essence,Automatique,plus CV,5,Occasion,10000
+Mercedes,Classe A,2006,209 000 km,Essence,Manuelle,6 CV,4,Occasion,20000
+Citroen,BERLINGO,2010,295 000 km,Diesel,Manuelle,5 CV,4,Occasion,35500
+Peugeot,208,2017,129 000 km,Essence,Manuelle,5 CV,,Occasion,0
+Volkswagen,Polo,2004,204 000 km,Essence,Manuelle,5 CV,,Occasion,0
+Nissan,Juke,2010,160 700 km,Essence,Manuelle,7 CV,5,Occasion,41900
+Nissan,X-trail,2017,122 300 km,Diesel,Manuelle,7 CV,5,Occasion,62000
+Fiat,126,2015,N/A,Diesel,Manuelle,4 CV,2,Occasion,18000
+Mitsubishi,Lancer,2010,216 000 km,Essence,Automatique,9 CV,4,Occasion,25000
+Toyota,Aygo,2022,57 000 km,Essence,Manuelle,5 CV,4,Occasion,36500
+Kia,RIO,2013,250 000 km,Essence,,5 CV,,Occasion,0
+Hyundai,ACCENT,,350 000 km,Essence,Manuelle,6 CV,,Occasion,29800
+Hyundai,I10,2021,143 000 km,Essence,Manuelle,5 CV,,Occasion,32500
+Renault,Megane,2012,N/A,,Manuelle,,,Occasion,29500
+Peugeot,Partner,,246 000 km,Diesel,Manuelle,,,Occasion,33500
+Kia,RIO,2017,160 000 km,Essence,Manuelle,4 CV,,Occasion,39000
+Kia,SPORTAGE,2015,143 000 km,Essence,Manuelle,8 CV,,Occasion,55000
+Citroen,BERLINGO,2011,254 000 km,Diesel,Manuelle,7 CV,3,Occasion,18000
+Hyundai,I20,2017,266 km,Essence,Manuelle,5 CV,4,Occasion,34000
+Volkswagen,Polo,,185 000 km,Essence,Manuelle,5 CV,,Occasion,0
+Toyota,Aygo,,16 000 km,Essence,Manuelle,4 CV,,Occasion,38500
+Opel,Corsa,2005,N/A,Essence,Manuelle,,,Occasion,0
+Renault,Clio,2011,203 000 km,Essence,Manuelle,5 CV,5,Occasion,0
+Seat,Ibiza,2018,73 000 km,Essence,Manuelle,4 CV,2,Occasion,58000
+Audi,A3,2015,156 000 km,Essence,Manuelle,5 CV,5,Occasion,52000
+Volkswagen,Polo,2012,186 000 km,Essence,Manuelle,,,Occasion,28900
+Peugeot,407,2007,N/A,Essence,Manuelle,5 CV,,Occasion,0
+Volkswagen,Polo,2016,51 000 km,Essence,Manuelle,5 CV,5,Occasion,52000
+Land rover,DISCOVERY SPORT,2018,168 000 km,Diesel,Manuelle,8 CV,5,Occasion,100000
+Peugeot,305,2014,25 700 km,Essence,Manuelle,5 CV,4,Occasion,20500
+Opel,Astra,2014,297 000 km,Essence,Manuelle,8 CV,5,Occasion,29000
+Bmw,316,2014,174 000 km,Essence,Automatique,7 CV,5,Occasion,60000
+Opel,Astra,,N/A,Essence,Manuelle,5 CV,,Occasion,23500
+Renault,Symbol,,N/A,Essence,Manuelle,5 CV,,Occasion,0
+Peugeot,208,2023,120 000 km,Essence,Manuelle,5 CV,,Occasion,32500
+Mercedes,Classe E,2019,120 000 km,Diesel,Automatique,10 CV,,Occasion,159000
+Isuzu,D MAX,2011,530 000 km,Diesel,,,,Occasion,65000
+Chery,Tiggo 3x,2022,12 600 km,Essence,Automatique,6 CV,5,Occasion,58000
+Citroen,C3,2007,113 000 km,Essence,Manuelle,4 CV,2,Occasion,23500
+Peugeot,208,2014,240 km,Essence,Manuelle,5 CV,4,Occasion,22500
+Renault,Clio,2003,N/A,Essence,Manuelle,4 CV,2,Occasion,0
+Suzuki,S-Presso,2022,46 000 km,Essence,Manuelle,5 CV,5,Occasion,32500
+Volkswagen,Golf 6,2012,209 000 km,Essence,Manuelle,6 CV,,Occasion,42900
+Kia,RIO,2014,163 000 km,Essence,Manuelle,5 CV,,Occasion,0
+Peugeot,301,2019,N/A,Essence,Manuelle,,4,Occasion,32000
+Isuzu,D MAX,2020,N/A,Diesel,Manuelle,,,Occasion,0
+Toyota,Hiace,2009,300 000 km,Diesel,Manuelle,10 CV,2,Occasion,18000
+Seat,Leon,2002,300 km,Diesel,Manuelle,7 CV,4,Occasion,16600
+Toyota,Yaris,2011,48 600 km,Essence,Manuelle,5 CV,5,Occasion,51000
+Volkswagen,Polo,2025,N/A,Essence,Manuelle,4 CV,2,Occasion,20800
+Opel,Corsa,2000,532 000 km,Essence,Manuelle,4 CV,4,Occasion,13500
+Peugeot,206,2010,N/A,Essence,Manuelle,5 CV,,Occasion,0
+Renault,Clio,2008,350 000 km,Essence,Manuelle,5 CV,4,Occasion,20500
+Peugeot,106,,N/A,Essence,Manuelle,4 CV,2,Occasion,0
+Isuzu,AUTRE,2000,340 000 km,Diesel,Manuelle,10 CV,,Occasion,42000
+Volkswagen,Polo,2022,116 000 km,Essence,Manuelle,4 CV,,Occasion,46000
+Kia,PICANTO,2019,76 000 km,Essence,Manuelle,4 CV,5,Occasion,35000
+Peugeot,Rifter,2018,128 000 km,Essence,Manuelle,5 CV,5,Occasion,27500
+Chevrolet,CRUZE,2017,76 000 km,Essence,Automatique,8 CV,4,Occasion,33000
+Kia,RIO,2010,N/A,Essence,Manuelle,5 CV,2,Occasion,25000
+Renault,Clio,,200 000 km,Essence,Manuelle,5 CV,,Occasion,0
+Kia,RIO,2022,93 000 km,Essence,Manuelle,5 CV,5,Occasion,52
+Renault,Clio,2005,250 000 km,Essence,Manuelle,5 CV,4,Occasion,17000
+Renault,Clio,2013,260 000 km,Diesel,Manuelle,4 CV,5,Occasion,26000
+Mazda,BT 50,2007,40 000 km,Diesel,Manuelle,10 CV,,Occasion,38500
+Audi,Q8 e-tron,2020,70 000 km,Électrique,Automatique,12 CV,2,Occasion,0
+Kia,SELTOS,2022,87 000 km,Essence,Automatique,7 CV,,Occasion,0
+Volkswagen,Golf,1995,200 km,Essence,Manuelle,7 CV,2,Occasion,10700
+Toyota,Yaris,2017,117 000 km,Essence,Manuelle,5 CV,4,Occasion,42000
+Peugeot,Autres,2013,209 000 km,Essence,Manuelle,5 CV,4,Occasion,22000
+Renault,Clio,2007,0 km,Essence,Manuelle,5 CV,4,Occasion,19800
+Renault,Symbol,2014,151 000 km,Essence,Manuelle,5 CV,4,Occasion,27000
+Renault,Clio,,N/A,Diesel,Manuelle,5 CV,,Occasion,14900
+Isuzu,D MAX,2025,0 km,Diesel,Manuelle,10 CV,2,Occasion,110
+Kia,SPORTAGE,2014,242 km,Diesel,Manuelle,7 CV,4,Occasion,53000
+Hyundai,I20,2013,185 km,Essence,Manuelle,5 CV,4,Occasion,29500
+Geely,GK-GL,2021,73 000 km,Essence,Automatique,6 CV,4,Occasion,50000
+Renault,Symbol,2016,106 000 km,Essence,Manuelle,5 CV,,Occasion,0
+Renault,Clio,2016,122 000 km,Essence,Manuelle,5 CV,,Occasion,0
+Seat,Ibiza,2021,110 000 km,Essence,Manuelle,6 CV,,Occasion,0
+Hyundai,I20,2021,116 000 km,Essence,Manuelle,5 CV,4,Occasion,47500
+Renault,Clio,2012,N/A,Essence,Manuelle,5 CV,,Occasion,0
+Volkswagen,Polo,2010,194 000 km,Essence,Manuelle,4 CV,,Occasion,0
+Renault,Twingo,2011,1 700 000 km,Essence,Manuelle,4 CV,,Occasion,25000
+Renault,Clio,2012,225 000 km,Essence,Manuelle,5 CV,2,Occasion,14000
+Fiat,DOBLO,2015,398 000 km,Diesel,Manuelle,5 CV,2,Occasion,18500
+Volkswagen,Touareg,2010,253 000 km,Diesel,Automatique,plus CV,,Occasion,49000
+Hyundai,TUCSON,2022,171 000 km,Hybride,Automatique,10 CV,5,Occasion,110000
+Citroen,C5 II,2008,400 000 km,Diesel,Manuelle,6 CV,5,Occasion,22000
+Seat,Ibiza,2017,132 000 km,Essence,Manuelle,4 CV,5,Occasion,36000
+Seat,Ibiza,2017,125 000 km,Essence,Manuelle,6 CV,,Occasion,48000
+Renault,Clio,2019,133 000 km,Essence,Manuelle,5 CV,,Occasion,0
+Citroen,C4,2017,24 000 km,Diesel,Manuelle,5 CV,,Occasion,45500
+Wallyscar,619,2023,62 000 km,Essence,Manuelle,5 CV,2,Occasion,29000
+Citroen,C4,2012,180 000 km,Essence,Manuelle,6 CV,2,Occasion,28000
+Seat,Ibiza,2020,96 000 km,Essence,Manuelle,4 CV,,Occasion,55000
+Hyundai,I10,2021,130 000 km,Essence,Manuelle,5 CV,,Occasion,0
+Renault,Clio,2022,103 000 km,Essence,Manuelle,5 CV,,Occasion,39500
+Chevrolet,CRUZE,2018,106 000 km,Essence,Manuelle,6 CV,,Occasion,0
+Isuzu,D MAX,2007,378 000 km,Diesel,Manuelle,8 CV,,Occasion,53000
+Suzuki,Swift,2022,61 000 km,Essence,Manuelle,6 CV,,Occasion,41000
+Renault,Clio,2022,N/A,Essence,Manuelle,5 CV,,Occasion,39900
+Fiat,PUNTO,2021,200 000 km,GPL,Manuelle,4 CV,4,Occasion,11500
+Renault,Trafic,2021,161 000 km,Essence,Manuelle,6 CV,,Occasion,0
+Suzuki,Swift,2022,N/A,Essence,Manuelle,5 CV,5,Occasion,0
+Ford,FOCUS,2009,N/A,Essence,Manuelle,5 CV,,Occasion,0
+Kia,PICANTO,2022,33 000 km,Essence,Automatique,4 CV,4,Occasion,50000
+Volkswagen,Amarok,2013,415 000 km,Diesel,Manuelle,7 CV,4,Occasion,48000
+Fiat,PUNTO,2017,174 km,Essence,Manuelle,4 CV,4,Occasion,26300
+Hyundai,IX35,2013,252 000 km,Diesel,Manuelle,7 CV,4,Occasion,43000
+Fiat,500 C,2021,100 km,Hybride,Manuelle,4 CV,2,Occasion,51000
+Toyota,Hilux,2017,175 000 km,Diesel,Manuelle,8 CV,4,Occasion,130000
+Peugeot,206,2010,195 000 km,Essence,Manuelle,4 CV,4,Occasion,24500
+Haval,Dargo,2019,145 000 km,Essence,Manuelle,6 CV,5,Occasion,0
+Citroen,JUMPY,2021,150 000 km,Diesel,Manuelle,5 CV,2,Occasion,53000
+Mercedes,Classe A,2017,79 214 km,Diesel,Automatique,7 CV,5,Occasion,89000
+Volkswagen,Golf,1989,0 km,Diesel,Manuelle,4 CV,2,Occasion,14000
+Peugeot,Autres,2015,320 000 km,Essence,Manuelle,5 CV,4,Occasion,18000
+Renault,Clio,2017,196 000 km,Essence,Manuelle,6 CV,4,Occasion,33900
+Fiat,PANDA,2005,341 000 km,Essence,Manuelle,5 CV,,Occasion,18500
+Volkswagen,Golf 7,2014,196 000 km,Essence,Manuelle,5 CV,5,Occasion,43500
+Volkswagen,Golf 7,2016,N/A,Essence,Manuelle,5 CV,,Occasion,0
+Ford,FIESTA,2009,200 000 km,Essence,Manuelle,5 CV,4,Occasion,270000
+Isuzu,PICKUP,1996,570 000 km,Diesel,Manuelle,4 CV,5,Occasion,45000
+Peugeot,5008,2012,190 000 km,,Manuelle,6 CV,5,Occasion,30700
+Kia,RIO,2015,255 000 km,Essence,Manuelle,5 CV,5,Occasion,35000
+Renault,Symbol,2012,330 000 km,Essence,Manuelle,5 CV,4,Occasion,25500
+Mercedes,200,2008,257 000 km,Diesel,Manuelle,8 CV,5,Occasion,43500
+Peugeot,106,,N/A,Essence,Manuelle,5 CV,5,Occasion,0
+Renault,Symbol,2010,236 000 km,Essence,Manuelle,5 CV,2,Occasion,25800
+Volkswagen,Tiguan,2015,190 000 km,Essence,,9 CV,5,Occasion,65000
+Chery,Tiggo 3x,2022,105 000 km,Essence,Automatique,6 CV,5,Occasion,45500
+Fiat,PUNTO,2008,N/A,Essence,Manuelle,5 CV,5,Occasion,0
+Geely,GK-GL,2020,140 km,Essence,Manuelle,6 CV,4,Occasion,32000
+Renault,Clio,2018,125 000 km,Diesel,Automatique,4 CV,2,Occasion,42000
+Renault,Symbol,2009,114 000 km,Essence,Manuelle,5 CV,5,Occasion,0
+Citroen,C3,,190 000 km,Essence,Manuelle,5 CV,,Occasion,0
+Opel,Agila,2015,160 000 km,Diesel,Manuelle,4 CV,2,Occasion,30000
+Citroen,BERLINGO,2019,160 000 km,Diesel,Manuelle,6 CV,5,Occasion,47000
+Fiat,PUNTO EVO,2013,184 000 km,Essence,Manuelle,4 CV,,Occasion,0
+Hyundai,ELANTRA,2017,N/A,Essence,Manuelle,,5,Occasion,39000
+Fiat,PALIO WEEKEND,2007,170 000 km,Essence,Manuelle,,,Occasion,0
+Citroen,NEMO,2012,184 000 km,Essence,Manuelle,5 CV,4,Occasion,0
+Bmw,520,2003,300 km,Essence,Automatique,11 CV,4,Occasion,22500
+Kia,RIO,2021,100 000 km,Essence,Manuelle,5 CV,5,Occasion,52000
+Citroen,C4,2005,292 000 km,Essence,Manuelle,6 CV,4,Occasion,0
+Volkswagen,Jetta,2011,18 000 km,Essence,Manuelle,7 CV,4,Occasion,38000
+Renault,Clio,2020,91 000 km,Essence,Manuelle,5 CV,4,Occasion,40000
+Suzuki,Swift,2019,151 000 km,Essence,Manuelle,5 CV,5,Occasion,36000
+Volkswagen,Golf 6,2012,209 000 km,Essence,Manuelle,5 CV,5,Occasion,45000
+Hyundai,I10,,134 km,Essence,Manuelle,4 CV,,Occasion,28000
+Suzuki,S-Presso,2021,78 000 km,Essence,Manuelle,4 CV,5,Occasion,31500
+Peugeot,2008,2020,12 500 km,Essence,Manuelle,6 CV,5,Occasion,0
+Kia,PICANTO,2018,117 000 km,Essence,Manuelle,4 CV,5,Occasion,37800
+Kia,PICANTO,2013,190 000 km,Essence,Automatique,5 CV,,Occasion,0
+Mazda,MAZDA6,2015,190 000 km,Essence,Automatique,9 CV,5,Occasion,41000
+Peugeot,2008,2017,32 500 km,Essence,Manuelle,5 CV,5,Occasion,45000
+Volkswagen,Golf 6,2013,288 000 km,Diesel,Manuelle,5 CV,5,Occasion,0
+Volkswagen,Polo,2022,85 000 km,Essence,Manuelle,5 CV,5,Occasion,0
+Peugeot,107,2011,270 km,Essence,Manuelle,4 CV,4,Occasion,23000
+Renault,Autres,2016,141 000 km,Essence,Manuelle,4 CV,5,Occasion,35000
+Kia,RIO,2021,8 000 km,Essence,Manuelle,5 CV,5,Occasion,0
+Opel,Corsa,2017,130 000 km,Essence,Manuelle,5 CV,5,Occasion,0
+Peugeot,106,,N/A,Essence,Manuelle,4 CV,5,Occasion,0
+Volkswagen,Caddy,2013,200 000 km,Essence,Manuelle,7 CV,,Occasion,32000
+Volkswagen,Tiguan,,99 000 km,Essence,Manuelle,6 CV,5,Occasion,95000
+Renault,R19,,N/A,Essence,Manuelle,5 CV,5,Occasion,0
+Peugeot,Autres,1987,N/A,Diesel,Manuelle,8 CV,2,Occasion,0
+Fiat,PUNTO,,N/A,Essence,Manuelle,5 CV,5,Occasion,0
+Chery,A3,2017,181 000 km,Essence,Manuelle,5 CV,4,Occasion,28000
+Renault,Clio,2023,65 241 km,Essence,Manuelle,5 CV,5,Occasion,42000
+Citroen,C3,2007,N/A,Essence,Manuelle,4 CV,5,Occasion,19800
+Renault,Kangoo,2001,345 000 km,Diesel,Manuelle,7 CV,2,Occasion,9000
+Audi,80,1992,200 km,Essence,Manuelle,7 CV,5,Occasion,13000
+Volkswagen,Passat,2007,220 000 km,Essence,Automatique,12 CV,4,Occasion,20000
+Citroen,C5,2011,290 000 km,Diesel,Manuelle,6 CV,5,Occasion,30000
+Citroen,AUTRE,2015,155 000 km,Essence,Manuelle,5 CV,5,Occasion,0
+Citroen,BERLINGO,2009,221 000 km,Diesel,Manuelle,7 CV,5,Occasion,0
+Mercedes,Classe C,2018,186 000 km,Diesel,Automatique,6 CV,5,Occasion,122000
+Volkswagen,Caddy,2002,250 000 km,Diesel,Manuelle,8 CV,3,Occasion,14000
+Citroen,JUMPY,2010,314 000 km,Diesel,Manuelle,7 CV,4,Occasion,24000
+Skoda,Fabia,2022,100 000 km,Essence,Manuelle,5 CV,5,Occasion,39500
+Volkswagen,Passat,2010,200 000 km,Essence,Manuelle,6 CV,5,Occasion,35000
+Peugeot,206,2008,N/A,Essence,Manuelle,6 CV,5,Occasion,15000
+Citroen,C3,2018,94 000 km,Essence,Manuelle,4 CV,5,Occasion,36000
+Ford,KA,2015,221 000 km,Essence,Manuelle,4 CV,5,Occasion,26500
+Renault,Clio,2007,N/A,Essence,Manuelle,5 CV,5,Occasion,0
+Hyundai,I10,2023,35 000 km,Essence,Manuelle,5 CV,5,Occasion,0
+Volkswagen,Golf,2012,210 000 km,Essence,Manuelle,5 CV,5,Occasion,0
+Volkswagen,Polo,2001,N/A,Essence,Manuelle,4 CV,5,Occasion,0
+Volkswagen,Golf,,N/A,Essence,Manuelle,,5,Occasion,0
+Citroen,C3,2020,100 000 km,Essence,Manuelle,4 CV,5,Occasion,0
+Peugeot,3008,2018,179 000 km,Diesel,Automatique,6 CV,4,Occasion,75000
+Kia,SPORTAGE,2009,0 km,Diesel,Automatique,4 CV,5,Occasion,2000
+MG,MG RX8,2022,130 000 km,Essence,Automatique,9 CV,5,Occasion,80000
+Dacia,SANDERO,2015,181 000 km,Essence,Manuelle,5 CV,,Occasion,0
+Ford,FIESTA,2015,200 000 km,Essence,Manuelle,,5,Occasion,0
+Hyundai,VELOSTER,2013,188 000 km,Essence,Automatique,8 CV,3,Occasion,36000
+Suzuki,Celerio,2023,35 400 km,Essence,Manuelle,4 CV,4,Occasion,38500
+Toyota,RAV4,2023,58 800 km,Hybride,Automatique,9 CV,5,Occasion,138000
+Volkswagen,Golf 7,2017,116 000 km,Essence,Manuelle,6 CV,5,Occasion,72000
+Toyota,Autres,2021,154 000 km,Diesel,Manuelle,4 CV,2,Occasion,65000
+Dacia,DUSTER,2015,78 000 km,Essence,Automatique,9 CV,5,Occasion,40000
+Peugeot,508,2011,0 km,Diesel,Automatique,6 CV,5,Occasion,26000
+Fiat,PUNTO,1996,0 km,Essence,Manuelle,4 CV,4,Occasion,13000
+Hyundai,I10,2017,94 000 km,Essence,Manuelle,4 CV,5,Occasion,29000
+Mini,AUTRE,2006,200 000 km,Essence,Manuelle,7 CV,2,Occasion,25500
+Mercedes,GLC,2015,37 000 km,Diesel,Automatique,9 CV,5,Occasion,149000
+Volkswagen,Polo,,294 000 km,Essence,Manuelle,5 CV,,Occasion,29500
+Peugeot,207,2011,103 000 km,Diesel,Manuelle,5 CV,5,Occasion,9000
+Renault,Clio,2004,N/A,Essence,Manuelle,4 CV,,Occasion,0
+Mercedes,Classe A,2019,69 600 km,Essence,Manuelle,7 CV,5,Occasion,105000
+Mahindra,KUV 100,2019,130 000 km,Essence,Manuelle,5 CV,5,Occasion,27000
+Seat,Ibiza,2020,118 000 km,Essence,Manuelle,5 CV,5,Occasion,43800
+Toyota,Yaris,2015,174 000 km,Essence,Manuelle,5 CV,5,Occasion,38000
+Citroen,BERLINGO,2012,267 km,Diesel,Manuelle,5 CV,3,Occasion,32000
+Peugeot,308,2009,203 000 km,Essence,Manuelle,6 CV,4,Occasion,25000
+Renault,Clio,2023,43 000 km,Essence,Automatique,4 CV,5,Occasion,33500
+Citroen,BERLINGO,2006,218 000 km,Diesel,Manuelle,4 CV,2,Occasion,0
+Opel,Kadett,,N/A,Essence,Manuelle,,,Occasion,5500
+Fiat,500,2017,150 000 km,Essence,Manuelle,4 CV,,Occasion,0
+Volkswagen,Polo,2000,N/A,Essence,Manuelle,,5,Occasion,13200
+Volkswagen,Polo,2019,198 000 km,Essence,Manuelle,4 CV,4,Occasion,40000
+Fiat,PANDA,2022,130 000 km,Essence,Manuelle,4 CV,5,Occasion,37000
+Hyundai,I20,2021,164 000 km,Essence,Manuelle,5 CV,5,Occasion,0
+Fiat,FIORINO,2022,190 000 km,Diesel,Manuelle,5 CV,3,Occasion,31000
+Peugeot,308,2008,195 000 km,Essence,Automatique,5 CV,5,Occasion,26500
+Opel,Corsa,2023,N/A,Essence,Manuelle,5 CV,5,Occasion,33800
+Citroen,C3,2009,N/A,Essence,Manuelle,5 CV,5,Occasion,0
+Volkswagen,Polo,2022,104 000 km,Essence,Manuelle,5 CV,5,Occasion,0
+Volkswagen,Polo,2024,20 000 km,Essence,Manuelle,6 CV,5,Occasion,62000
+Mahindra,KUV 100,2022,51 000 km,Essence,Manuelle,4 CV,2,Occasion,30000
+Volkswagen,Polo,2011,294 800 km,Essence,Manuelle,4 CV,2,Occasion,0
+Chery,Tiggo,2019,160 000 km,Essence,Manuelle,8 CV,4,Occasion,50000
+Kia,AUTRE,2020,71 000 km,Essence,Automatique,8 CV,5,Occasion,84000
+Mercedes,Classe C,2010,140 000 km,Diesel,Manuelle,8 CV,5,Occasion,27000
+Citroen,C1,2018,90 000 km,Essence,Manuelle,4 CV,5,Occasion,30000
+MG,MG RX8,2019,170 000 km,Essence,Automatique,7 CV,5,Occasion,48000
+MG,MG RX8,2018,117 000 km,Essence,Automatique,9 CV,4,Occasion,52000
+Renault,Clio,2010,188 000 km,Essence,Manuelle,4 CV,2,Occasion,0
+Renault,Clio,2010,250 km,Essence,Manuelle,4 CV,5,Occasion,29000
+Renault,Kangoo,2003,N/A,Essence,Manuelle,5 CV,5,Occasion,0
+Ford,FOCUS,2004,17 500 km,Essence,Manuelle,6 CV,5,Occasion,17500
+Mercedes,Classe A,2016,120 000 km,Essence,Automatique,6 CV,5,Occasion,58000
+Toyota,Yaris,2024,20 km,Hybride,Automatique,5 CV,4,Occasion,102
+Renault,Megane,2009,203 000 km,Diesel,Manuelle,5 CV,5,Occasion,26000
+Kia,SPORTAGE,2012,79 000 km,Essence,Manuelle,8 CV,5,Occasion,0
+Ford,FIESTA,2014,220 000 km,Essence,Manuelle,5 CV,5,Occasion,27000
+Peugeot,208,2015,113 000 km,Essence,Manuelle,5 CV,5,Occasion,30000
+Renault,Clio,2019,189 000 km,Essence,Manuelle,5 CV,4,Occasion,41500
+Fiat,GRANDE PUNTO,2009,310 000 km,Essence,Manuelle,5 CV,5,Occasion,23000
+Audi,A4,2003,127 000 km,Essence,Manuelle,7 CV,5,Occasion,23000
+Land rover,EVOQUE,2013,165 000 km,Essence,Automatique,11 CV,4,Occasion,85000
+Ford,ECOSPORT,2020,233 000 km,Essence,Automatique,6 CV,5,Occasion,38000
+Hyundai,I10,2023,N/A,Essence,Manuelle,5 CV,5,Occasion,0
+Hyundai,I10,2023,92 km,Essence,Manuelle,5 CV,5,Occasion,35500
+Ford,FOCUS,2010,194 000 km,Essence,Manuelle,5 CV,5,Occasion,0
+Kia,RIO,2017,153 000 km,Essence,Manuelle,5 CV,5,Occasion,38000
+Kia,RIO,2017,220 000 km,Essence,Manuelle,5 CV,5,Occasion,39500
+Chery,Tiggo,2022,79 000 km,Essence,Automatique,9 CV,5,Occasion,72000
+Fiat,DOBLO,2016,500 000 km,Diesel,Manuelle,5 CV,2,Occasion,24000
+Fiat,AUTRE,2015,270 km,Essence,Manuelle,5 CV,4,Occasion,19000
+Chevrolet,AVEO,2008,159 000 km,Essence,Manuelle,5 CV,5,Occasion,22000
+Volkswagen,Polo,2018,144 000 km,Essence,Manuelle,4 CV,5,Occasion,43000
+Volkswagen,Passat,2008,128 000 km,Essence,Manuelle,7 CV,5,Occasion,43000
+Peugeot,Expert,2001,99 999 km,Diesel,Manuelle,7 CV,2,Occasion,13000
+Kia,PICANTO,2020,98 000 km,Essence,Manuelle,4 CV,4,Occasion,34500
+Ssangyong,Tivoli Xlv,2017,94 000 km,Essence,Automatique,8 CV,5,Occasion,0
+Peugeot,Autres,2019,146 000 km,,Manuelle,5 CV,5,Occasion,24800
+Mazda,MAZDA2,2016,145 000 km,Essence,Manuelle,6 CV,5,Occasion,0
+Hyundai,I20,2015,230 000 km,Essence,Manuelle,4 CV,5,Occasion,29500
+Mercedes,Classe C,2015,245 000 km,Essence,Automatique,,,Occasion,89000
+Volkswagen,Polo,2007,202 000 km,Essence,Manuelle,5 CV,5,Occasion,0
+Renault,Clio,2020,90 000 km,Essence,Manuelle,5 CV,4,Occasion,39500
+Fiat,PUNTO,1998,297 000 km,Essence,Manuelle,4 CV,5,Occasion,0
+Mercedes,Autres,1994,350 000 km,Essence,Manuelle,8 CV,5,Occasion,0
+Volkswagen,Polo,2008,N/A,Essence,Manuelle,5 CV,,Occasion,22000
+Chevrolet,AVEO,2022,88 000 km,Essence,Automatique,6 CV,5,Occasion,40000
+Volkswagen,Golf 7,2015,1 000 km,Essence,Manuelle,6 CV,5,Occasion,43000
+Mazda,BT 50,2008,352 000 km,Diesel,Manuelle,10 CV,4,Occasion,37000
+Renault,Clio,2023,59 000 km,Essence,Manuelle,5 CV,5,Occasion,1
+MG,MG RX8,2020,117 000 km,Essence,Automatique,7 CV,5,Occasion,58000
+Renault,Clio,2021,N/A,Diesel,Manuelle,5 CV,5,Occasion,0
+Peugeot,106,2000,N/A,Essence,Manuelle,4 CV,3,Occasion,0
+Renault,Clio,2013,160 500 km,Essence,,,5,Occasion,35000
+Citroen,C5,2012,192 000 km,Essence,Automatique,,5,Occasion,0
+Dacia,SANDERO,2021,N/A,Essence,Manuelle,,5,Occasion,34500
+Fiat,PUNTO,2003,N/A,Essence,Manuelle,,5,Occasion,10500
+Audi,Q5,2014,32 000 km,Diesel,Manuelle,8 CV,5,Occasion,119000
+Citroen,C3,2010,18 000 km,Essence,Manuelle,5 CV,4,Occasion,18000
+Peugeot,206,1998,280 km,Essence,Manuelle,4 CV,4,Occasion,11000
+Porsche,Macan,2020,80 000 km,Essence,Automatique,,5,Occasion,260000
+Hyundai,I10,2021,83 000 km,Essence,Manuelle,5 CV,5,Occasion,0
+Bmw,SERIE 1 II,2012,168 000 km,Essence,Manuelle,7 CV,,Occasion,43000
+Renault,Clio,2021,130 000 km,Essence,Manuelle,4 CV,5,Occasion,0
+Peugeot,206,2001,240 000 km,Essence,Manuelle,4 CV,,Occasion,0
+Kia,RIO,2022,81 000 km,Essence,Manuelle,5 CV,5,Occasion,49500
+Fiat,AUTRE,2000,270 km,Essence,Manuelle,5 CV,4,Occasion,19000
+Volkswagen,Golf 6,,147 000 km,Essence,Manuelle,6 CV,5,Occasion,1111
+Ford,FIESTA,2014,122 000 km,Essence,Manuelle,5 CV,5,Occasion,25500
+Ford,ECOSPORT,2019,N/A,Essence,Manuelle,,5,Occasion,0
+Bmw,SERIE 1 II,2021,68 000 km,Diesel,Manuelle,6 CV,4,Occasion,98000
+Peugeot,206,2011,190 000 km,Essence,Manuelle,,5,Occasion,0
+Ford,FIESTA,2015,85 km,Essence,Manuelle,5 CV,5,Occasion,35
+Renault,Clio,2021,128 km,Essence,Manuelle,5 CV,4,Occasion,39
+Kia,CERATO,2007,282 km,Diesel,Manuelle,6 CV,5,Occasion,26
+Volkswagen,Tiguan,2014,185 800 km,Diesel,Automatique,8 CV,5,Occasion,70000
+Volkswagen,Polo,1997,444 km,Essence,Manuelle,4 CV,5,Occasion,13500
+Opel,Astra,2019,132 314 km,Diesel,Manuelle,7 CV,5,Occasion,44500
+Peugeot,Boxer,2007,14 500 km,Diesel,Manuelle,7 CV,2,Occasion,14500
+Volkswagen,Golf 8,2022,136 000 km,Hybride,Automatique,8 CV,5,Occasion,103
+Ford,FIESTA,2014,121 000 km,Essence,Manuelle,5 CV,5,Occasion,25500
+Fiat,500,2012,1 km,Essence,Manuelle,4 CV,2,Occasion,1
+Isuzu,D MAX,2016,137 000 km,Diesel,Automatique,8 CV,5,Occasion,100000
+Peugeot,208,2018,80 000 km,Essence,Manuelle,5 CV,5,Occasion,0
+Fiat,TIPO,2000,300 000 km,Essence,Manuelle,4 CV,5,Occasion,9800
+MG,MG RX8,2021,92 km,Essence,Manuelle,7 CV,5,Occasion,59
+Citroen,C3,2006,190 000 km,Essence,Manuelle,4 CV,5,Occasion,20000
+Opel,Mokka,2013,156 000 km,Essence,Manuelle,7 CV,5,Occasion,41000
+Fiat,PALIO WEEKEND,2000,198 000 km,Essence,Manuelle,5 CV,5,Occasion,1111111
+Fiat,GRANDE PUNTO,2010,291 km,Essence,Manuelle,5 CV,5,Occasion,24000
+Fiat,PUNTO,2003,290 000 km,Essence,Manuelle,5 CV,5,Occasion,12000
+Hyundai,I20,2020,138 000 km,Essence,Manuelle,5 CV,5,Occasion,42000
+Hyundai,I20,2020,88 000 km,Essence,Manuelle,5 CV,5,Occasion,53000
+Renault,Clio,2002,330 000 km,Diesel,Manuelle,4 CV,5,Occasion,11500
+Renault,Clio,1997,393 km,Essence,Manuelle,5 CV,5,Occasion,11200
+Citroen,AUTRE,2018,174 000 km,Essence,Manuelle,5 CV,5,Occasion,25000
+Mahindra,KUV 100,2019,110 000 km,Essence,Manuelle,5 CV,5,Occasion,23500
+Fiat,GRANDE PUNTO,2010,291 000 km,Essence,Manuelle,5 CV,5,Occasion,24000
+Volkswagen,Polo,2009,227 000 km,Essence,Manuelle,4 CV,5,Occasion,24300
+Peugeot,208,2016,150 000 km,Essence,Automatique,5 CV,5,Occasion,25000
+Kia,PICANTO,2018,126 000 km,Essence,Manuelle,4 CV,5,Occasion,35000
+Renault,Clio,2021,110 000 km,Essence,Manuelle,5 CV,5,Occasion,36500
+Renault,Clio,2017,145 000 km,Essence,Manuelle,5 CV,5,Occasion,32000
+Volkswagen,Polo,1998,400 000 km,Essence,Manuelle,5 CV,5,Occasion,8500
+Volkswagen,Golf,1990,228 532 km,Diesel,Manuelle,4 CV,5,Occasion,10300
+Peugeot,308,2011,317 000 km,Essence,Manuelle,6 CV,5,Occasion,23800
+Chevrolet,SPARK,2011,280 km,Essence,Manuelle,5 CV,5,Occasion,23
+Citroen,C3,2010,179 000 km,Essence,Manuelle,5 CV,5,Occasion,27800
+Ford,FIESTA,2012,218 000 km,Essence,Manuelle,5 CV,5,Occasion,25000
+Citroen,BERLINGO,2014,147 000 km,Diesel,Manuelle,5 CV,3,Occasion,0
+Citroen,BERLINGO,2002,300 km,Diesel,Manuelle,8 CV,3,Occasion,12500
+Peugeot,206,2006,258 000 km,Essence,Manuelle,5 CV,5,Occasion,19700
+Renault,Autres,2010,2 200 000 km,Essence,Manuelle,5 CV,5,Occasion,22000
+Volkswagen,Golf,2017,97 000 km,Essence,Automatique,6 CV,5,Occasion,64000
+Peugeot,206,2011,217 000 km,Essence,Manuelle,6 CV,5,Occasion,19500
+Fiat,GRANDE PUNTO,2008,212 000 km,Essence,Manuelle,5 CV,5,Occasion,5
+Jeep,PATRIOT,2009,280 000 km,Diesel,Manuelle,9 CV,5,Occasion,11111
+Hyundai,I10,2019,98 700 km,Essence,Manuelle,5 CV,5,Occasion,36000
+Renault,Clio,2015,187 km,Essence,Manuelle,5 CV,5,Occasion,0
+Peugeot,307,2003,430 000 km,Diesel,Manuelle,8 CV,3,Occasion,18000
+Chery,Tiggo,2020,71 000 km,Essence,Manuelle,6 CV,5,Occasion,43000
+Renault,R19,1995,250 000 km,LPG,Manuelle,4 CV,5,Occasion,0
+Volkswagen,Golf,2000,281 000 km,Essence,Manuelle,6 CV,3,Occasion,13000
+Kia,PICANTO,2024,4 400 km,Essence,Manuelle,5 CV,5,Occasion,56000
+Mahindra,KUV 100,2020,49 900 km,Essence,Manuelle,5 CV,5,Occasion,29000
+Mazda,MAZDA2,2014,176 000 km,Essence,Manuelle,5 CV,5,Occasion,26000
+Ford,FIESTA,2015,112 000 km,Essence,Manuelle,5 CV,5,Occasion,34
+Isuzu,D MAX,2019,108 km,Diesel,Manuelle,8 CV,3,Occasion,60
+Renault,Clio,2014,200 000 km,Diesel,Manuelle,5 CV,5,Occasion,35900
+Mahindra,KUV 100,2020,34 000 km,Essence,Manuelle,5 CV,5,Occasion,30000
+Peugeot,206,2003,160 km,Essence,Manuelle,5 CV,5,Occasion,19
+Volkswagen,Golf 3,1992,250 km,Diesel,Manuelle,6 CV,5,Occasion,0
+Peugeot,Expert,2004,400 km,Diesel,Manuelle,6 CV,5,Occasion,0
+Toyota,Hiace,2013,277 000 km,Diesel,Manuelle,8 CV,5,Occasion,23400
+Ssangyong,Tivoli,2021,82 000 km,Essence,Manuelle,6 CV,5,Occasion,63000
+Fiat,AUTRE,2007,210 km,Essence,Manuelle,5 CV,5,Occasion,16500
+Volkswagen,Golf 7,2022,9 000 km,Essence,Manuelle,8 CV,5,Occasion,80
+Renault,Clio,2019,131 000 km,Essence,Manuelle,5 CV,5,Occasion,38000
+Volkswagen,Amarok,2011,230 000 km,Diesel,Manuelle,7 CV,5,Occasion,57000
+Fiat,FIORINO,2022,59 000 km,Diesel,Manuelle,5 CV,3,Occasion,39000
+Haval,H6,2019,90 000 km,Essence,Automatique,9 CV,5,Occasion,76500
+Renault,Clio,2020,69 900 km,Essence,Manuelle,4 CV,5,Occasion,51200
+Renault,Clio,2021,93 000 km,Essence,Manuelle,5 CV,5,Occasion,10
+Ssangyong,Tivoli,2021,65 000 km,Essence,Manuelle,6 CV,5,Occasion,62000
+Renault,Clio,2018,81 000 km,Essence,Manuelle,4 CV,5,Occasion,40500
+Renault,Fluence,2012,270 km,Essence,Manuelle,7 CV,5,Occasion,28500
+Kia,RIO,2022,40 000 km,Essence,Manuelle,5 CV,5,Occasion,65000
+Dacia,LOGAN MCV,2012,280 000 km,Diesel,Manuelle,4 CV,5,Occasion,28000
+Toyota,Aygo,2021,100 km,Essence,Manuelle,4 CV,5,Occasion,365000
+Skoda,Fabia,2015,273 km,Essence,Manuelle,4 CV,5,Occasion,30500
+Hyundai,I10,2016,145 000 km,Essence,Manuelle,4 CV,5,Occasion,35000
+Citroen,C3 II,2013,146 000 km,Essence,Manuelle,5 CV,5,Occasion,27500
+Renault,Clio,2010,168 000 km,Essence,Manuelle,5 CV,5,Occasion,21000
+Chevrolet,AVEO,2009,383 000 km,Essence,Manuelle,6 CV,5,Occasion,19500
+Volkswagen,Polo,2012,230 000 km,Essence,Manuelle,5 CV,5,Occasion,30000
+Kia,RIO,2016,184 000 km,Essence,Manuelle,5 CV,5,Occasion,0
+Seat,Arona,2020,81 km,Essence,Manuelle,6 CV,5,Occasion,60
+Bmw,520,2010,120 km,Diesel,Manuelle,10 CV,5,Occasion,0
+Hyundai,AUTRE,2021,88 000 km,Essence,Automatique,8 CV,5,Occasion,78
+Fiat,PALIO WEEKEND,2001,258 000 km,Essence,Manuelle,4 CV,5,Occasion,16000
+Nissan,Micra,2014,155 000 km,Essence,Manuelle,5 CV,5,Occasion,36500
+Citroen,NEMO,2017,175 000 km,Diesel,Manuelle,5 CV,5,Occasion,24000
+Ford,FOCUS,2018,179 000 km,Essence,Automatique,7 CV,5,Occasion,46000
+Renault,Kadjar,2017,190 000 km,Essence,Manuelle,7 CV,5,Occasion,57000
+Renault,Clio,2020,124 000 km,Diesel,Manuelle,4 CV,5,Occasion,46000
+Fiat,PALIO WEEKEND,2005,216 000 km,Essence,Manuelle,5 CV,5,Occasion,10500
+Audi,A3,2000,245 000 km,Essence,Manuelle,7 CV,3,Occasion,23
+Ford,FIESTA,2014,220 000 km,Essence,Manuelle,5 CV,5,Occasion,29000
+Renault,Clio,2010,197 km,Essence,Manuelle,4 CV,5,Occasion,26500
+Opel,Astra,2002,11 km,Essence,Manuelle,5 CV,5,Occasion,19500
+Citroen,C1,2014,65 km,Essence,Manuelle,4 CV,5,Occasion,27
+Audi,Q7,2006,232 000 km,Diesel,Automatique,16 CV,5,Occasion,58000
+Kia,SPORTAGE,2019,72 500 km,Diesel,Automatique,8 CV,5,Occasion,95
+Volkswagen,Touareg,2013,273 000 km,Diesel,Automatique,12 CV,5,Occasion,123
+Mercedes,Classe C,2007,250 000 km,Essence,Automatique,9 CV,5,Occasion,35000
+Ssangyong,Tivoli,2019,139 km,Essence,Manuelle,7 CV,5,Occasion,54
+Volkswagen,Polo,2012,153 000 km,Essence,Manuelle,4 CV,5,Occasion,32000
+Seat,Leon,2018,141 000 km,Diesel,Manuelle,6 CV,5,Occasion,75000
+Chery,Tiggo,2020,127 000 km,Essence,Manuelle,6 CV,5,Occasion,42500
+Suzuki,Celerio,2020,75 000 km,Essence,Manuelle,4 CV,5,Occasion,31
+Chery,A3,2022,86 000 km,Essence,Manuelle,6 CV,5,Occasion,42000
+Ford,FIESTA,2011,30 500 km,Diesel,Manuelle,4 CV,5,Occasion,35000
+Peugeot,407,2008,280 km,Diesel,Manuelle,6 CV,5,Occasion,27
+MG,MG RX8,2021,50 km,Essence,Manuelle,7 CV,5,Occasion,66500
+Peugeot,208,2018,180 000 km,Essence,Manuelle,5 CV,5,Occasion,25000
+Citroen,BERLINGO,2021,120 000 km,Diesel,Manuelle,6 CV,5,Occasion,1233
+Toyota,Land Cruiser,2021,170 000 km,Diesel,Automatique,11 CV,5,Occasion,1234
+Peugeot,Partner,2024,370 km,Diesel,Manuelle,7 CV,3,Occasion,20
+Peugeot,208,2017,158 000 km,Essence,Manuelle,4 CV,5,Occasion,29000
+Land rover,EVOQUE,2020,70 000 km,Diesel,Automatique,14 CV,5,Occasion,187000
+MG,MG ZS,2017,89 000 km,Essence,Manuelle,5 CV,5,Occasion,34000
+Citroen,C4,2012,193 000 km,Essence,Manuelle,6 CV,5,Occasion,30000
+Hyundai,I10,2021,108 000 km,Essence,Manuelle,5 CV,5,Occasion,36000
+Renault,Megane,2009,264 000 km,Diesel,Automatique,7 CV,5,Occasion,22000
+Toyota,Land Cruiser,2003,400 km,Diesel,Manuelle,17 CV,5,Occasion,60
+Volkswagen,Jetta,2011,195 km,Diesel,Manuelle,5 CV,5,Occasion,42000
+Land rover,EVOQUE,2019,170 000 km,Diesel,Automatique,10 CV,5,Occasion,125000
+Audi,Q3,2013,74 000 km,Essence,Automatique,13 CV,5,Occasion,69000
+Ford,FOCUS,2016,138 000 km,Essence,Manuelle,6 CV,5,Occasion,40500
+Peugeot,107,2010,156 000 km,Essence,Manuelle,4 CV,5,Occasion,25500
+Peugeot,206,2011,178 600 km,Essence,Manuelle,5 CV,5,Occasion,22500
+Isuzu,D MAX,2021,21 000 km,Diesel,Automatique,9 CV,5,Occasion,185000
+Citroen,BERLINGO,2016,215 000 km,Diesel,Manuelle,10 CV,5,Occasion,57000
+Kia,PICANTO,2022,29 000 km,Essence,Manuelle,5 CV,5,Occasion,44000
+Renault,Clio,1997,-14 km,Essence,Manuelle,5 CV,5,Occasion,9
+Kia,SPORTAGE,2021,59 000 km,Essence,Automatique,8 CV,5,Occasion,92000
+Hyundai,I10,2021,69 000 km,Essence,Manuelle,5 CV,5,Occasion,44200
+Opel,Astra,2006,350 km,Diesel,Manuelle,5 CV,5,Occasion,22
+Fiat,AUTRE,2007,250 km,Essence,Manuelle,5 CV,5,Occasion,16500
+Ford,KA,2015,156 000 km,Essence,Manuelle,4 CV,3,Occasion,25200
+Honda,CR-V,2021,140 000 km,Essence,Automatique,11 CV,5,Occasion,85000
+Citroen,C4,2006,0 km,Essence,Manuelle,6 CV,5,Occasion,21000
+Hyundai,I10,2021,110 000 km,Essence,Automatique,5 CV,5,Occasion,48000
+MG,MG RX8,2021,111 000 km,Essence,Automatique,7 CV,5,Occasion,65000
+Seat,Ibiza,2017,130 000 km,Essence,Manuelle,4 CV,5,Occasion,34500
+Citroen,BERLINGO,2010,0 km,Diesel,Manuelle,6 CV,5,Occasion,23
+Peugeot,308,2020,130 000 km,Diesel,Manuelle,6 CV,5,Occasion,67000
+Chevrolet,CAPTIVA,2014,216 000 km,Diesel,Automatique,11 CV,5,Occasion,45000
+Mitsubishi,Autres,2009,1 111 111 111 km,Diesel,Manuelle,10 CV,3,Occasion,31500
+Suzuki,Celerio,2023,41 000 km,Essence,Manuelle,4 CV,5,Occasion,37
+Renault,Autres,2015,160 000 km,Essence,Manuelle,5 CV,5,Occasion,32
+Hyundai,I10,2023,37 000 km,Essence,Manuelle,4 CV,5,Occasion,42000
+Audi,Q5,2016,62 606 km,Essence,Automatique,13 CV,5,Occasion,100000
+Volkswagen,Golf,2008,200 km,Essence,Manuelle,6 CV,5,Occasion,33
+Mercedes,Classe E,2015,139 000 km,Essence,Automatique,12 CV,3,Occasion,88000
+Citroen,BERLINGO,2016,203 km,Diesel,Manuelle,5 CV,3,Occasion,42700
+Peugeot,208,2015,156 000 km,Essence,Manuelle,5 CV,5,Occasion,27800
+Bmw,118,2018,126 000 km,Essence,Automatique,7 CV,5,Occasion,92000
+Renault,Espace,2001,250 000 km,Diesel,Manuelle,8 CV,5,Occasion,18000
+Mitsubishi,Autres,2023,10 000 km,Essence,Automatique,6 CV,5,Occasion,1000
+Seat,Leon,2000,500 km,Diesel,Manuelle,6 CV,5,Occasion,15
+Kia,RIO,2017,126 570 km,Essence,Manuelle,5 CV,5,Occasion,43
+Mercedes,Classe C,2020,190 000 km,Diesel,Automatique,9 CV,5,Occasion,155000
+Peugeot,207,2011,290 km,Diesel,Manuelle,5 CV,5,Occasion,28000
+Ssangyong,Tivoli,2016,179 000 km,Essence,Manuelle,7 CV,5,Occasion,41
+Nissan,Qashqai,2021,129 000 km,Essence,Automatique,6 CV,5,Occasion,65500
+Citroen,C5 II,2010,99 999 999 km,Essence,Automatique,9 CV,5,Occasion,1111111
+Ford,FOCUS,2002,1 900 km,Essence,Manuelle,6 CV,5,Occasion,17000
+Volvo,S60,2009,130 km,Essence,Automatique,11 CV,5,Occasion,42000
+Renault,Megane,2004,198 000 km,Diesel,Manuelle,5 CV,5,Occasion,18000
+Renault,Clio,2020,116 400 km,Diesel,Manuelle,4 CV,5,Occasion,48800
+Renault,Fluence,2012,264 000 km,Essence,Automatique,7 CV,5,Occasion,31000
+Peugeot,206,2006,300 km,Essence,Manuelle,4 CV,5,Occasion,18500
+Mercedes,Classe M,2008,168 000 km,Diesel,Automatique,15 CV,5,Occasion,80000
+Audi,Q5,2014,98 000 km,Essence,Automatique,14 CV,5,Occasion,73500
+Mahindra,KUV 100,2021,53 000 km,Essence,Manuelle,5 CV,5,Occasion,1
+Peugeot,Partner,2021,130 000 km,Diesel,Manuelle,5 CV,5,Occasion,43000
+Mazda,MAZDA2,2017,141 000 km,Essence,Manuelle,6 CV,5,Occasion,42500
+Volkswagen,Golf,2019,175 000 km,Essence,Automatique,6 CV,5,Occasion,64000
+Volkswagen,Passat,2016,137 880 km,Diesel,Manuelle,6 CV,5,Occasion,72000
+Renault,Captur,2014,110 000 km,Essence,Manuelle,6 CV,5,Occasion,41000
+Ford,FOCUS,2005,200 000 km,Essence,Manuelle,6 CV,5,Occasion,0
+Renault,Megane,2011,218 000 km,Essence,Manuelle,7 CV,5,Occasion,26000
+Hyundai,I10,2021,61 000 km,Essence,Manuelle,4 CV,5,Occasion,41000
+Bmw,SERIE 3 VI,2014,150 000 km,Essence,Automatique,7 CV,5,Occasion,76000
+Seat,Leon,2021,51 000 km,Essence,Manuelle,6 CV,5,Occasion,86
+Honda,CRV,2021,110 000 km,Essence,Automatique,11 CV,5,Occasion,1
+Volkswagen,Touran,2006,278 km,Essence,Manuelle,7 CV,5,Occasion,28000
+Volkswagen,Caddy,2010,376 000 km,Diesel,Manuelle,8 CV,3,Occasion,23
+Citroen,C5,2012,310 000 km,Diesel,Manuelle,6 CV,5,Occasion,40000
+Kia,PICANTO,2022,37 000 km,Essence,Manuelle,4 CV,5,Occasion,0
+Mercedes,Classe Cla,2022,59 000 km,Essence,Automatique,6 CV,5,Occasion,1234
+Peugeot,Expert,2020,232 000 km,Diesel,Manuelle,9 CV,5,Occasion,57000
+Audi,A3,2017,105 000 km,Essence,Automatique,7 CV,5,Occasion,75000
+Peugeot,Partner,2016,120 km,Essence,Manuelle,6 CV,5,Occasion,50
+Kia,RIO,2016,237 000 km,Essence,Manuelle,5 CV,5,Occasion,37500
+Citroen,DS3,2014,119 000 km,Essence,Manuelle,5 CV,3,Occasion,33000
+Peugeot,Bipper Tepee,2016,210 000 km,Essence,Manuelle,7 CV,5,Occasion,39000
+Ford,FOCUS,2016,82 000 km,Essence,Manuelle,6 CV,5,Occasion,45000
+Kia,RIO,2016,12 123 000 km,Essence,Manuelle,5 CV,5,Occasion,43000
+Volkswagen,Fox,2010,181 km,Essence,Manuelle,4 CV,3,Occasion,20
+Volkswagen,Passat CC,2011,140 km,Essence,Automatique,12 CV,5,Occasion,41
+Skoda,Octavia,2015,210 km,Essence,Automatique,7 CV,5,Occasion,39000
+Peugeot,Partner,2019,259 km,Diesel,Manuelle,5 CV,3,Occasion,33
+Fiat,FIORINO,2021,78 450 km,Diesel,Manuelle,5 CV,3,Occasion,36000
+Land rover,EVOQUE,2016,178 000 km,Diesel,Automatique,8 CV,5,Occasion,94000
+Volkswagen,Passat CC,2008,300 km,Diesel,Manuelle,7 CV,5,Occasion,31
+Kia,RIO,2020,160 000 km,Essence,Automatique,6 CV,5,Occasion,0
+Ford,FIESTA,2013,248 km,Essence,Manuelle,5 CV,5,Occasion,26000
+Isuzu,D MAX,2022,122 000 km,Diesel,Manuelle,8 CV,3,Occasion,64
+Renault,Autres,2010,182 000 km,Essence,Manuelle,5 CV,5,Occasion,21000
+Mahindra,KUV 100,2019,79 000 km,Essence,Manuelle,5 CV,5,Occasion,28000
+Kia,RIO,2022,67 600 km,Essence,Manuelle,5 CV,5,Occasion,63900
+Hyundai,I10,2021,62 000 km,Essence,Manuelle,4 CV,5,Occasion,38000
+Volkswagen,Polo,2012,189 km,Essence,Manuelle,5 CV,5,Occasion,31700
+Citroen,C5,2010,178 000 km,Essence,Automatique,9 CV,5,Occasion,27500
+Citroen,C4,2007,370 000 km,Diesel,Manuelle,6 CV,5,Occasion,25000000
+Dacia,LOGAN,2010,N/A,Diesel,Manuelle,5 CV,5,Occasion,21
+Citroen,C4,2009,241 km,Diesel,Manuelle,6 CV,5,Occasion,19
+Chery,Tiggo,2020,76 000 km,Essence,Manuelle,6 CV,5,Occasion,42000
+Peugeot,208,2020,98 500 km,Essence,Manuelle,4 CV,5,Occasion,33600
+Hyundai,I10,2015,158 000 km,Essence,Manuelle,5 CV,5,Occasion,0
+Audi,A3,2011,139 000 km,Essence,Manuelle,6 CV,5,Occasion,47000
+Kia,RIO,2023,36 000 km,Essence,Manuelle,5 CV,5,Occasion,70000
+Renault,Clio,2005,231 km,Essence,Manuelle,5 CV,5,Occasion,0
+Volkswagen,Passat,2010,151 000 km,Essence,Automatique,9 CV,5,Occasion,43000
+Peugeot,2008,2021,79 800 km,Essence,Automatique,7 CV,5,Occasion,75000
+Kia,RIO,2014,140 km,Essence,Manuelle,5 CV,5,Occasion,0
+Fiat,AUTRE,2009,300 km,Essence,Manuelle,6 CV,5,Occasion,21
+Volkswagen,Beetle,2003,292 000 km,Diesel,Manuelle,5 CV,3,Occasion,23000
+Haval,H6,2021,36 000 km,Essence,Automatique,9 CV,5,Occasion,95000
+Fiat,DOBLO,2020,83 000 km,Essence,Manuelle,6 CV,5,Occasion,47000
+Renault,Megane,2007,300 000 km,Diesel,Manuelle,6 CV,5,Occasion,15800
+Mahindra,KUV 100,2021,31 000 km,Essence,Manuelle,5 CV,5,Occasion,32000
+Fiat,UNO,2005,10 000 000 km,Essence,Manuelle,5 CV,5,Occasion,3800
+Fiat,AUTRE,2008,300 km,Essence,Manuelle,6 CV,5,Occasion,22
+Dacia,DOKKER,2016,260 000 km,Diesel,Manuelle,5 CV,5,Occasion,22000
+Mitsubishi,Pajero,1991,330 000 km,Diesel,Manuelle,10 CV,5,Occasion,36500
+Renault,Clio,2009,210 km,Essence,Manuelle,4 CV,5,Occasion,24500
+Renault,Scenic,2005,260 000 km,Diesel,Manuelle,6 CV,5,Occasion,17500
+Volkswagen,Golf,2011,200 km,Essence,Manuelle,6 CV,3,Occasion,29000
+Nissan,Qashqai,2018,148 000 km,Essence,Automatique,6 CV,5,Occasion,51000
+Fiat,DOBLO,2020,83 000 km,Essence,Manuelle,6 CV,5,Occasion,0
+Citroen,C3,2011,150 000 km,Essence,Manuelle,5 CV,5,Occasion,31000
+Peugeot,Autres,2016,179 000 km,Essence,Manuelle,5 CV,5,Occasion,26000
+Ford,FIESTA,1993,101 499 km,Diesel,Manuelle,5 CV,5,Occasion,7500
+Skoda,105,2022,49 km,Essence,Automatique,6 CV,5,Occasion,83
+Fiat,PUNTO EVO,2013,207 000 km,Essence,Manuelle,4 CV,5,Occasion,27000
+Chery,A5,2017,50 km,Essence,Automatique,7 CV,5,Occasion,42
+Dacia,DOKKER,2020,190 000 km,Diesel,Manuelle,6 CV,3,Occasion,32000
+Mahindra,KUV 100,2020,58 177 km,Essence,Manuelle,5 CV,5,Occasion,34000
+Kia,SPORTAGE,2019,97 700 km,Essence,Automatique,8 CV,5,Occasion,85000
+Toyota,Yaris,2023,31 000 km,Essence,Manuelle,4 CV,5,Occasion,55500
+Peugeot,Autres,2014,148 km,Essence,Manuelle,4 CV,5,Occasion,24
+Citroen,BERLINGO II,2020,113 000 km,Diesel,Manuelle,5 CV,5,Occasion,1
+Ford,ECOSPORT,2022,27 000 km,Essence,Manuelle,7 CV,5,Occasion,68000
+Suzuki,Celerio,2023,24 000 km,Essence,Manuelle,4 CV,5,Occasion,38000
+Kia,RIO,2016,123 000 km,Essence,Manuelle,5 CV,5,Occasion,43000
+Land rover,EVOQUE,2014,230 000 km,Essence,Automatique,15 CV,3,Occasion,95000
+Fiat,DOBLO CARGO,2015,251 000 km,Diesel,Manuelle,5 CV,3,Occasion,19000
+Fiat,DUCATO,2016,177 000 km,Diesel,Manuelle,8 CV,3,Occasion,44000
+Peugeot,Bipper Tepee,2017,150 km,Diesel,Manuelle,6 CV,3,Occasion,27000
+Volkswagen,Golf 6,2012,200 000 km,Essence,Manuelle,5 CV,5,Occasion,0
+Kia,RIO,2022,75 000 km,Essence,Manuelle,5 CV,5,Occasion,64000
+Kia,RIO,2016,163 000 km,Essence,Automatique,6 CV,5,Occasion,34500
+Kia,SPORTAGE,2021,60 000 km,Essence,Automatique,11 CV,5,Occasion,100
+MG,MG 5,2020,82 000 km,Essence,Manuelle,6 CV,5,Occasion,43000
+Bmw,X1,2014,145 000 km,Essence,Manuelle,9 CV,5,Occasion,43
+Fiat,DOBLO,2020,83 000 km,Essence,Manuelle,6 CV,5,Occasion,0
+Chevrolet,MATIZ,2009,217 km,Essence,Manuelle,4 CV,5,Occasion,0
+Opel,Corsa,1994,11 111 111 km,Essence,Manuelle,4 CV,5,Occasion,9000
+Fiat,DUCATO,2015,280 km,Diesel,Manuelle,8 CV,3,Occasion,40
+Bmw,320,2006,250 km,Diesel,Automatique,10 CV,5,Occasion,38000
+Hyundai,TUCSON,2017,190 000 km,Diesel,Automatique,9 CV,5,Occasion,82000
+Volkswagen,Passat,2019,15 000 km,Essence,Manuelle,7 CV,5,Occasion,1234
+Land rover,RANGE ROVER,2015,11 000 km,Essence,Automatique,+20 CV,5,Occasion,1234
+Volkswagen,Golf,2021,70 000 km,Essence,Automatique,8 CV,5,Occasion,1234
+Citroen,C3,2017,92 000 km,Essence,Manuelle,4 CV,5,Occasion,33000
+Mitsubishi,Autres,2012,300 km,Diesel,Manuelle,10 CV,5,Occasion,37
+Bmw,SERIE 3 VI,2002,262 000 km,Essence,Manuelle,9 CV,3,Occasion,29000
+Tata,TATA SUPER ACE,2019,130 000 km,Diesel,Manuelle,7 CV,3,Occasion,25000
+Peugeot,407,2009,0 km,Essence,Manuelle,9 CV,5,Occasion,0
+Peugeot,Bipper Tepee,2013,144 000 km,Essence,Manuelle,5 CV,5,Occasion,29800
+Dacia,DOKKER,2019,45 000 km,Essence,Manuelle,6 CV,5,Occasion,1234
+Fiat,500,2021,18 000 km,Essence,Manuelle,4 CV,3,Occasion,1234
+Hyundai,I10,2021,100 000 km,Essence,Manuelle,5 CV,5,Occasion,40700
+Chevrolet,TRAX,2019,79 000 km,Essence,Manuelle,8 CV,5,Occasion,49900
+Mitsubishi,Autres,2007,387 000 km,Diesel,Automatique,10 CV,3,Occasion,0
+Citroen,C4,2012,300 km,Diesel,Manuelle,5 CV,5,Occasion,30500
+Seat,Ibiza,2022,40 000 km,Essence,Manuelle,4 CV,5,Occasion,52000
+Mercedes,Classe C,2021,42 000 km,Diesel,Automatique,9 CV,5,Occasion,111100
+Citroen,BERLINGO,2020,170 000 km,Diesel,Manuelle,4 CV,5,Occasion,47000
+Renault,Captur,2014,179 000 km,Essence,Manuelle,6 CV,5,Occasion,35500
+Seat,Ibiza,2023,35 000 km,Essence,Automatique,6 CV,5,Occasion,0
+Volkswagen,Golf,2014,188 000 km,Essence,Manuelle,5 CV,5,Occasion,47500
+Mini,AUTRE,2016,52 000 km,Diesel,Manuelle,5 CV,3,Occasion,70000
+Peugeot,307,2006,5 000 km,Essence,Manuelle,6 CV,5,Occasion,25000
+Seat,Ibiza,2014,280 km,Essence,Manuelle,5 CV,5,Occasion,280000
+Bmw,525,2006,324 km,Diesel,Automatique,11 CV,5,Occasion,33
+Bmw,318,2016,60 000 km,Essence,Automatique,7 CV,5,Occasion,75000
+BYD,F3,2023,15 800 km,Essence,Automatique,11 CV,5,Occasion,100000
+Bmw,316,2014,197 000 km,Essence,Automatique,7 CV,5,Occasion,70000
+Peugeot,Autres,2017,200 km,Essence,Manuelle,5 CV,5,Occasion,23200
+Suzuki,Autres,2020,120 000 km,Essence,Manuelle,6 CV,5,Occasion,29
+Jaguar,XF,2011,160 km,Essence,Automatique,17 CV,5,Occasion,75
+Peugeot,Partner,2019,168 000 km,Diesel,Manuelle,5 CV,3,Occasion,38000
+Tata,TATA XENON X2,2018,220 000 km,Diesel,Manuelle,7 CV,3,Occasion,27000
+Ford,FOCUS,2008,311 000 km,Essence,Manuelle,6 CV,5,Occasion,25500
+Volkswagen,Polo,2015,150 km,Essence,Manuelle,4 CV,5,Occasion,34500
+Mercedes,Classe Cla,2015,125 000 km,Diesel,Manuelle,5 CV,5,Occasion,97000
+Chery,Tiggo,2019,130 000 km,Essence,Manuelle,8 CV,5,Occasion,43500
+Peugeot,206,2009,113 000 km,Essence,Automatique,6 CV,5,Occasion,21000
+Tata,TATA XENON X2,2017,320 km,Diesel,Manuelle,7 CV,5,Occasion,24
+Mercedes,Classe Clk,2000,280 000 km,Essence,Manuelle,9 CV,3,Occasion,0
+Peugeot,505,2003,122 km,Diesel,Manuelle,10 CV,5,Occasion,9000000
+Peugeot,3008,2018,201 km,Diesel,Automatique,6 CV,5,Occasion,87
+Volkswagen,Golf 6,2011,216 km,Diesel,Manuelle,5 CV,5,Occasion,12345
+Citroen,AUTRE,2016,250 000 km,Essence,Manuelle,5 CV,5,Occasion,26000
+Kia,RIO,2021,72 000 km,Essence,Manuelle,5 CV,5,Occasion,60500
+Volkswagen,Jetta,2008,208 732 km,Essence,Manuelle,7 CV,5,Occasion,32000
+Toyota,Corolla,2013,900 km,Diesel,Manuelle,7 CV,5,Occasion,12800
+Peugeot,208,2015,170 000 km,Essence,Manuelle,4 CV,5,Occasion,27000
+Citroen,C4,2006,0 km,Essence,Manuelle,6 CV,5,Occasion,21000
+Ford,KUGA,2019,70 000 km,Essence,Manuelle,8 CV,5,Occasion,73000
+Mini,B,2010,140 000 km,Essence,Manuelle,5 CV,3,Occasion,25000
+Renault,Autres,2017,59 000 km,Essence,Automatique,8 CV,5,Occasion,58500
+Nissan,Qashqai,2010,265 000 km,Diesel,Manuelle,6 CV,5,Occasion,34500
+Renault,Megane,2009,280 000 km,Diesel,Manuelle,6 CV,5,Occasion,30500
+Renault,Megane,2009,280 000 km,Diesel,Manuelle,6 CV,5,Occasion,30500
+Kia,RIO,2015,175 000 km,Essence,Automatique,5 CV,5,Occasion,40500
+Dacia,LOGAN MCV,2018,174 000 km,Essence,Manuelle,5 CV,5,Occasion,39000
+Peugeot,2008,2017,168 km,Essence,Manuelle,5 CV,5,Occasion,38000
+Land rover,EVOQUE,2016,165 000 km,Diesel,Automatique,9 CV,5,Occasion,130000
+Hyundai,I20,2021,90 000 km,Essence,Manuelle,5 CV,5,Occasion,0
+Hyundai,I10,2021,200 km,Essence,Manuelle,5 CV,5,Occasion,35
+Peugeot,207,2011,110 000 km,Essence,Manuelle,6 CV,5,Occasion,30000
+Ford,C MAX,2009,270 km,Diesel,Manuelle,6 CV,5,Occasion,23
+Fiat,DOBLO,2013,120 000 km,Diesel,Manuelle,5 CV,3,Occasion,19000
+Bmw,SERIE 4,2016,70 000 km,Diesel,Automatique,10 CV,3,Occasion,1234
+Renault,Megane,2021,80 000 km,Diesel,Manuelle,6 CV,5,Occasion,1234
+Peugeot,308,2019,150 000 km,Diesel,Manuelle,5 CV,5,Occasion,56000
+Fiat,DOBLO,2015,197 000 km,Diesel,Manuelle,4 CV,3,Occasion,15000
+Volkswagen,Caddy,2005,1 km,Diesel,Manuelle,6 CV,3,Occasion,23000
+Ford,FOCUS,2006,360 km,Essence,Manuelle,6 CV,5,Occasion,22500
+Mercedes,Classe Cls,2007,250 000 km,Diesel,Automatique,14 CV,5,Occasion,58000
+Citroen,DS3,2015,110 km,Essence,Manuelle,5 CV,3,Occasion,36000
+Kia,PICANTO,2014,189 500 km,Essence,Manuelle,4 CV,5,Occasion,30500
+Peugeot,Expert,2008,360 km,Diesel,Manuelle,5 CV,3,Occasion,23500
+Peugeot,Expert,2008,360 km,Diesel,Manuelle,5 CV,3,Occasion,23500
+Chevrolet,AVEO,2014,180 000 km,Essence,Manuelle,5 CV,5,Occasion,23000
+Nissan,Micra,2017,155 000 km,Essence,Manuelle,5 CV,5,Occasion,30500
+Hyundai,I20,2020,180 743 km,Essence,Manuelle,5 CV,5,Occasion,45000
+Kia,RIO,2020,194 000 km,Essence,Automatique,6 CV,5,Occasion,44500
+Kia,RIO,2020,204 000 km,Essence,Manuelle,6 CV,5,Occasion,45500
+Hyundai,I10,2016,170 km,Essence,Manuelle,4 CV,5,Occasion,29900
+Chery,Tiggo,2020,89 000 km,Essence,Manuelle,6 CV,3,Occasion,40000
+Ford,FOCUS,2001,400 km,Diesel,Manuelle,7 CV,5,Occasion,14500
+Peugeot,3008,2019,185 000 km,Essence,Automatique,9 CV,5,Occasion,78000
+Mitsubishi,Pajero,1999,200 km,Diesel,Manuelle,11 CV,5,Occasion,37000
+Volkswagen,Tiguan,1987,178 000 km,Diesel,Manuelle,6 CV,3,Occasion,11000
+Tata,TATA XENON X2 DOUBLE CABINE,2016,272 000 km,Diesel,Manuelle,7 CV,5,Occasion,32000
+Hyundai,TUCSON,2022,57 000 km,Essence,Automatique,10 CV,5,Occasion,135000
+Mercedes,Classe M,2009,290 000 km,Diesel,Automatique,15 CV,5,Occasion,80000
+Ford,FOCUS,2006,22 000 km,Essence,Manuelle,6 CV,5,Occasion,150000
+Nissan,Qashqai,2018,120 000 km,Essence,Manuelle,6 CV,5,Occasion,62000
+Peugeot,407,2011,114 km,Diesel,Manuelle,6 CV,5,Occasion,30
+Renault,Clio,2022,95 km,Essence,Manuelle,6 CV,5,Occasion,123
+Tata,TATA XENON X2,2017,250 000 km,Diesel,Manuelle,7 CV,3,Occasion,25
+Volkswagen,Golf,2021,42 300 km,Essence,Manuelle,6 CV,5,Occasion,95000
+Hyundai,I10,2022,50 000 km,Essence,Manuelle,5 CV,5,Occasion,45500
+Hyundai,I20,2018,113 km,Essence,Manuelle,5 CV,5,Occasion,44
+Hyundai,I10,2022,43 000 km,LPG,Manuelle,4 CV,5,Occasion,39500
+Bmw,316,2014,197 000 km,Essence,Automatique,7 CV,5,Occasion,63000
+Peugeot,3008,2012,157 000 km,Essence,Manuelle,7 CV,5,Occasion,38000
+Ford,C MAX,2009,270 km,Diesel,Manuelle,6 CV,5,Occasion,23
+MG,MG RX8,2023,47 000 km,Essence,Automatique,9 CV,5,Occasion,68000
+Nissan,Qashqai,2020,135 000 km,Essence,Automatique,6 CV,5,Occasion,71000
+Fiat,500,2020,65 km,Essence,Manuelle,4 CV,3,Occasion,48500
+Toyota,Aygo,2022,58 000 km,Essence,Manuelle,5 CV,5,Occasion,42000
+Audi,A4,2010,215 000 km,Essence,Manuelle,9 CV,5,Occasion,37000
+Mercedes,200,2011,199 000 km,Essence,Automatique,11 CV,5,Occasion,65
+Opel,Astra,2001,326 000 km,Diesel,Manuelle,5 CV,5,Occasion,18000
+Bmw,518,2015,240 000 km,Diesel,Automatique,7 CV,5,Occasion,88000
+Fiat,DOBLO,2020,190 000 km,Diesel,Manuelle,4 CV,5,Occasion,1
+Hyundai,I10,2021,101 km,Essence,Manuelle,5 CV,5,Occasion,38
+Audi,Q3,2013,160 000 km,Diesel,Automatique,10 CV,5,Occasion,95000
+Ford,ESCORT,1994,76 000 km,Essence,Manuelle,7 CV,5,Occasion,5500
+Bmw,316,2013,139 000 km,Essence,Automatique,7 CV,5,Occasion,65000
+Peugeot,3008,2020,104 000 km,Essence,Automatique,9 CV,5,Occasion,76000
+Dacia,LOGAN,2014,236 000 km,Essence,Manuelle,5 CV,5,Occasion,1
+Volkswagen,Golf,2013,240 km,Essence,Manuelle,5 CV,5,Occasion,123
+Mercedes,Classe A,2013,220 000 km,Essence,Manuelle,7 CV,5,Occasion,63500
+Peugeot,106,2007,0 km,Essence,Manuelle,5 CV,5,Occasion,9000
+Land rover,DISCOVERY,1999,289 000 km,Diesel,Automatique,10 CV,5,Occasion,35000
+Fiat,BRAVO II,2009,470 km,Diesel,Manuelle,5 CV,5,Occasion,18700
+Peugeot,Autres,2018,105 km,Essence,Manuelle,5 CV,5,Occasion,30000
+Fiat,GRANDE PUNTO,2011,200 km,Essence,Manuelle,5 CV,3,Occasion,23000
+Peugeot,208,2019,198 000 km,Essence,Manuelle,5 CV,5,Occasion,23000
+Volkswagen,Golf,2012,146 000 km,Essence,Manuelle,6 CV,3,Occasion,55
+Citroen,BERLINGO II,2022,177 000 km,Diesel,Manuelle,5 CV,3,Occasion,42000
+Peugeot,Autres,2023,60 000 km,Diesel,Manuelle,9 CV,5,Occasion,42000
+Renault,Clio,2018,180 km,Essence,Manuelle,4 CV,5,Occasion,40000
+Chevrolet,SPARK,2012,148 000 km,Essence,Manuelle,5 CV,5,Occasion,24000
+Dacia,DOKKER,2014,247 000 km,Diesel,Manuelle,5 CV,3,Occasion,23
+Seat,Leon,2016,173 km,Essence,Manuelle,6 CV,5,Occasion,49500
+Ford,FIESTA,2019,92 000 km,Essence,Manuelle,4 CV,5,Occasion,38500
+Opel,Astra,1996,233 690 km,Diesel,Manuelle,5 CV,5,Occasion,9000
+Dacia,SANDERO,2020,132 000 km,Diesel,Manuelle,5 CV,5,Occasion,50000
+Volkswagen,Passat,2011,320 000 km,Essence,Manuelle,7 CV,5,Occasion,32000
+Dacia,LOGAN MCV,2012,150 000 km,Diesel,Manuelle,6 CV,5,Occasion,12000
+Ssangyong,Tivoli,2021,80 000 km,Essence,Manuelle,5 CV,5,Occasion,60000
+Wallyscar,IRIS,2020,146 000 km,Essence,Manuelle,4 CV,3,Occasion,25500
+Peugeot,Partner,2009,404 000 km,Diesel,Manuelle,6 CV,3,Occasion,16000
+Volkswagen,Polo,2014,190 000 km,Essence,Manuelle,5 CV,5,Occasion,32000
+Peugeot,Autres,2021,115 000 km,Diesel,Manuelle,6 CV,3,Occasion,53000
+Dacia,SANDERO,2014,155 000 km,Essence,Manuelle,5 CV,5,Occasion,38000
+Nissan,Qashqai,2016,156 000 km,Essence,Manuelle,6 CV,5,Occasion,55000
+Opel,Astra,2008,300 000 km,Diesel,Manuelle,5 CV,3,Occasion,23000
+Renault,Megane,2010,230 km,Diesel,Manuelle,6 CV,5,Occasion,32
+Renault,Clio,2005,344 000 km,LPG,Manuelle,5 CV,5,Occasion,22800
+Peugeot,Partner,2021,101 000 km,Diesel,Manuelle,5 CV,3,Occasion,45900
+Seat,Leon,2016,220 000 km,Essence,Manuelle,6 CV,5,Occasion,53000
+Peugeot,207,2007,190 000 km,Essence,Manuelle,6 CV,5,Occasion,21000
+Mini,AUTRE,2015,54 000 km,Essence,Automatique,5 CV,5,Occasion,72000
+Peugeot,308,2017,144 000 km,Essence,Manuelle,5 CV,5,Occasion,36500
+Ford,AUTRE,2014,270 000 km,Essence,Manuelle,5 CV,5,Occasion,20000
+Mazda,MAZDA3,2014,170 000 km,Essence,Manuelle,6 CV,5,Occasion,35000
+Bmw,318,2016,1 730 000 km,Essence,Automatique,7 CV,5,Occasion,70
+Volkswagen,Polo,2022,191 km,Essence,Manuelle,5 CV,5,Occasion,41
+Mercedes,Classe Gla,2021,34 225 km,Essence,Automatique,8 CV,5,Occasion,135
+Bmw,316,2010,209 000 km,Essence,Manuelle,7 CV,5,Occasion,41000
+Peugeot,308,2017,164 000 km,Diesel,Manuelle,5 CV,5,Occasion,47000
+Mazda,MAZDA3,2018,112 km,Essence,Manuelle,6 CV,5,Occasion,55
+Chevrolet,CRUZE,2013,190 000 km,Essence,Automatique,9 CV,5,Occasion,0
+Renault,Scenic,2016,300 km,Diesel,Manuelle,5 CV,5,Occasion,44000
+Toyota,Hiace,2019,792 000 km,Diesel,Manuelle,8 CV,3,Occasion,111111
+Peugeot,208,2020,125 000 km,Essence,Manuelle,5 CV,5,Occasion,31500
+Volkswagen,Golf 4,2001,450 km,Diesel,Manuelle,5 CV,5,Occasion,22
+Hyundai,I20,2020,138 000 km,Essence,Manuelle,5 CV,5,Occasion,50000
+Suzuki,Swift,2021,92 000 km,Essence,Automatique,5 CV,5,Occasion,0
+Toyota,Yaris,2018,130 000 km,Essence,Manuelle,4 CV,5,Occasion,37500
+Chevrolet,AUTRE,2021,77 250 km,Essence,Manuelle,5 CV,5,Occasion,38000
+Skoda,Fabia,2016,190 000 km,Essence,Manuelle,4 CV,5,Occasion,27000
+Volkswagen,Golf,2006,320 000 km,Essence,Manuelle,5 CV,5,Occasion,28000
+Mahindra,KUV 100,2022,50 000 km,Essence,Manuelle,5 CV,5,Occasion,35
+Mazda,CX-5,2014,200 km,Diesel,Manuelle,9 CV,5,Occasion,60
+Fiat,PANDA,2016,200 km,Essence,Manuelle,4 CV,5,Occasion,30
+Kia,RIO,2016,152 000 km,Essence,Manuelle,5 CV,5,Occasion,40000
+Fiat,GRANDE PUNTO,2013,154 000 km,Essence,Manuelle,4 CV,5,Occasion,27000
+Volkswagen,Golf 7,2017,259 000 km,Essence,Manuelle,5 CV,5,Occasion,56000
+Toyota,Yaris,2021,100 km,Essence,Manuelle,4 CV,5,Occasion,43
+Fiat,PUNTO,2007,250 km,Essence,Manuelle,5 CV,5,Occasion,18000
+Peugeot,2008,2018,150 km,Essence,Manuelle,5 CV,5,Occasion,43
+Citroen,ZX,1997,400 000 km,Essence,Manuelle,5 CV,5,Occasion,11000
+Chery,QQ,2017,100 km,Essence,Manuelle,4 CV,5,Occasion,21000
+Toyota,Yaris,2017,80 000 km,Essence,Manuelle,4 CV,5,Occasion,35000
+Geely,LC,2018,128 km,Essence,Manuelle,6 CV,5,Occasion,37
+Kia,RIO,2010,321 000 km,Essence,Manuelle,6 CV,5,Occasion,19500
+Seat,Ibiza,2020,64 000 km,Essence,Manuelle,4 CV,5,Occasion,46500
+Seat,Leon,2016,188 000 km,Essence,Manuelle,6 CV,5,Occasion,24331227
+Ford,KA,2012,124 000 km,Essence,Manuelle,4 CV,3,Occasion,25900
+Peugeot,Bipper Tepee,2017,157 000 km,Diesel,Manuelle,4 CV,5,Occasion,1000
+Peugeot,508,2015,236 000 km,Essence,Automatique,9 CV,5,Occasion,32000
+Renault,R5,1984,200 km,Essence,Manuelle,4 CV,5,Occasion,0
+Chery,QQ,2017,100 000 km,Essence,Manuelle,4 CV,5,Occasion,22
+Fiat,PANDA,2020,68 000 km,Essence,Manuelle,4 CV,5,Occasion,34000
+Volkswagen,Polo,2010,231 619 km,Essence,Manuelle,4 CV,5,Occasion,25500
+Opel,Astra,2021,65 000 km,Essence,Manuelle,6 CV,5,Occasion,123
+Opel,Corsa,1998,310 km,Essence,Manuelle,4 CV,5,Occasion,12200
+Mercedes,200,2007,310 000 km,Diesel,Manuelle,8 CV,5,Occasion,42000
+Ford,FIESTA,2014,270 000 km,Essence,Manuelle,5 CV,3,Occasion,28000
+Volkswagen,Golf,2010,180 000 km,Essence,Manuelle,5 CV,5,Occasion,42000
+Volkswagen,Golf,1990,444 km,Essence,Manuelle,6 CV,5,Occasion,6
+Peugeot,307,2003,129 000 km,Essence,Manuelle,7 CV,5,Occasion,24
+Skoda,Fabia,2017,63 000 km,Essence,Manuelle,4 CV,5,Occasion,45000
+Renault,R5,1989,400 km,Essence,Manuelle,4 CV,5,Occasion,7500
+Volkswagen,Passat,2002,280 000 km,Diesel,Manuelle,7 CV,5,Occasion,19
+Volkswagen,Golf 7,2018,118 000 km,Essence,Manuelle,5 CV,5,Occasion,77000
+Kia,RIO,2022,40 000 km,Essence,Manuelle,5 CV,5,Occasion,58500
+Audi,A5 SPORTBACK,2019,150 000 km,Essence,Automatique,8 CV,5,Occasion,100000
+Dacia,SANDERO,2018,120 km,Essence,Manuelle,4 CV,5,Occasion,35000
+Peugeot,Autres,2014,123 456 789 km,Diesel,Manuelle,5 CV,5,Occasion,21300
+Renault,Fluence,2012,205 000 km,Diesel,Manuelle,6 CV,5,Occasion,28000
+Kia,RIO,2010,190 km,Essence,Manuelle,6 CV,5,Occasion,25
+Peugeot,207,2008,230 km,Essence,Manuelle,6 CV,5,Occasion,21000
+Renault,Megane,2019,70 000 km,Essence,Automatique,6 CV,5,Occasion,65000
+Volkswagen,Golf 6,2010,340 km,Diesel,Manuelle,5 CV,5,Occasion,35800
+Peugeot,Partner,2025,0 km,Essence,Manuelle,6 CV,5,Occasion,15500
+MG,MG RX8,2019,50 000 km,Essence,Manuelle,7 CV,5,Occasion,65000
+Fiat,PANDA,2017,135 000 km,Essence,Manuelle,4 CV,5,Occasion,31000
+Volkswagen,Golf 7,2014,175 km,Essence,Manuelle,5 CV,5,Occasion,0
+MG,MG RX8,2020,63 000 km,Essence,Manuelle,7 CV,5,Occasion,400
+Volkswagen,Tiguan,2014,119 000 km,Diesel,Automatique,8 CV,5,Occasion,79000
+Nissan,Navara,2005,0 km,Diesel,Manuelle,10 CV,5,Occasion,23000
+Volkswagen,Polo,2007,243 000 km,Essence,Manuelle,5 CV,5,Occasion,25500
+Mercedes,Classe E,2000,340 000 km,Diesel,Manuelle,7 CV,5,Occasion,25000
+Citroen,C3,2011,230 000 km,Essence,Manuelle,5 CV,5,Occasion,26500
+Audi,A4,2012,176 000 km,Essence,Manuelle,7 CV,5,Occasion,45000
+Kia,RIO,2023,6 430 km,Essence,Manuelle,5 CV,5,Occasion,65000
+Skoda,Autres,2021,140 000 km,Essence,Automatique,6 CV,5,Occasion,65000
+Toyota,Hiace,2011,N/A,Diesel,Manuelle,8 CV,3,Occasion,0
+Chery,Tiggo,2020,82 km,Essence,Manuelle,6 CV,5,Occasion,39000
+Peugeot,Partner,1998,0 km,Diesel,Manuelle,6 CV,3,Occasion,0
+Kia,CERATO,2010,220 km,Essence,Manuelle,7 CV,5,Occasion,28500
+Peugeot,Partner,2000,321 000 km,Essence,Manuelle,5 CV,5,Occasion,16500
+Opel,Corsa,1998,280 000 km,Essence,Manuelle,4 CV,5,Occasion,10
+Mercedes,Classe C,1994,350 km,Essence,Manuelle,8 CV,5,Occasion,32
+Fiat,DOBLO,2022,150 000 km,Diesel,Manuelle,5 CV,3,Occasion,33500
+Citroen,C5,2002,3 030 000 000 km,Diesel,Manuelle,6 CV,5,Occasion,0
+Ford,ECOSPORT,2018,75 000 km,Essence,Manuelle,6 CV,5,Occasion,60000
+Citroen,DS3,2011,223 000 km,Essence,Manuelle,5 CV,3,Occasion,27500
+Seat,Ateca,2023,30 000 km,Essence,Automatique,8 CV,5,Occasion,115000
+Volkswagen,Polo,2010,300 km,Essence,Manuelle,4 CV,5,Occasion,1
+Chevrolet,SPARK,2011,123 000 km,Essence,Manuelle,4 CV,5,Occasion,23000
+Citroen,C5,2002,0 km,Diesel,Manuelle,6 CV,5,Occasion,0
+Citroen,C5,2002,0 km,Diesel,Manuelle,6 CV,5,Occasion,0
+Bmw,SERIE 1 II,2017,50 000 km,Essence,Automatique,7 CV,5,Occasion,90000
+Audi,A4,2016,330 000 km,Essence,Automatique,8 CV,5,Occasion,70000
+Suzuki,Autres,2020,130 km,Essence,Manuelle,6 CV,5,Occasion,53
+Audi,A4 ALLROAD,2008,220 000 km,Essence,Manuelle,9 CV,5,Occasion,33000
+Audi,A4,2013,234 111 km,Essence,Manuelle,7 CV,5,Occasion,35000
+Peugeot,206,2011,201 582 km,Essence,Manuelle,4 CV,5,Occasion,24300
+Renault,Clio,2010,11 111 km,Essence,Manuelle,6 CV,5,Occasion,17
+Fiat,AUTRE,2006,200 000 km,Essence,Manuelle,5 CV,5,Occasion,14000
+Suzuki,Swift,2017,171 000 km,Essence,Manuelle,5 CV,5,Occasion,35000
+Mercedes,Autres,2015,160 km,Essence,Manuelle,4 CV,5,Occasion,22
+Renault,Clio,2012,175 000 km,Essence,Automatique,5 CV,5,Occasion,28000
+Suzuki,Alto,2020,120 000 km,Essence,Manuelle,6 CV,5,Occasion,29
+Mercedes,Classe A,2019,48 000 km,Essence,Automatique,8 CV,5,Occasion,128
+Jaguar,XF,2013,245 000 km,Essence,Automatique,15 CV,5,Occasion,80000
+Volkswagen,Passat,2006,147 000 km,Essence,Automatique,10 CV,5,Occasion,34000
+Volkswagen,Polo,2011,210 000 km,Essence,Manuelle,5 CV,5,Occasion,32500
+Ford,FUSION,2009,1 km,Essence,Manuelle,5 CV,5,Occasion,24
+Peugeot,Bipper Tepee,2017,134 km,Diesel,Manuelle,5 CV,3,Occasion,25000
+Mini,AUTRE,2009,1 km,Essence,Manuelle,7 CV,3,Occasion,28
+Peugeot,Partner,2020,197 000 km,Diesel,Manuelle,5 CV,5,Occasion,38000
+Volkswagen,Touareg,2021,160 000 km,Diesel,Manuelle,6 CV,5,Occasion,1111
+BYD,F1,2021,120 000 km,Essence,Automatique,9 CV,5,Occasion,65000
+Nissan,Micra,2018,210 000 km,Essence,Manuelle,4 CV,5,Occasion,25200
+BYD,F3,2022,1 547 km,Essence,Automatique,11 CV,5,Occasion,134000
+Volvo,V60,2011,85 000 km,Diesel,Manuelle,9 CV,5,Occasion,60000
+Ford,FOCUS,2013,174 km,Essence,Manuelle,7 CV,5,Occasion,34
+Peugeot,Bipper Tepee,2017,134 km,Diesel,Manuelle,5 CV,3,Occasion,25000
+Mahindra,KUV 100,2020,153 000 km,Essence,Manuelle,5 CV,5,Occasion,30000
+Ford,MONDEO,1997,400 km,Diesel,Manuelle,5 CV,5,Occasion,14
+Fiat,GRANDE PUNTO,2012,230 km,Essence,Manuelle,4 CV,5,Occasion,24000
+Fiat,PANDA,2021,52 km,Essence,Manuelle,5 CV,5,Occasion,44000
+Toyota,Land Cruiser,2000,430 000 km,Diesel,Automatique,12 CV,5,Occasion,71500
+Kia,AUTRE,2022,76 000 km,Essence,Manuelle,4 CV,5,Occasion,72000
+MG,MG RX8,2019,94 000 km,Essence,Automatique,7 CV,5,Occasion,60000
+Volkswagen,Polo,2015,98 000 km,Essence,Manuelle,4 CV,5,Occasion,37000
+Volkswagen,Polo,2022,158 000 km,Essence,Manuelle,4 CV,5,Occasion,45000
+Volkswagen,Caddy,2014,390 km,Diesel,Manuelle,5 CV,3,Occasion,30
+Fiat,GRANDE PUNTO,2013,300 km,Essence,Manuelle,5 CV,5,Occasion,20
+Volkswagen,Golf,1995,135 000 km,Essence,Manuelle,5 CV,5,Occasion,9400
+Mahindra,KUV 100,2023,44 500 km,Essence,Manuelle,5 CV,5,Occasion,37300
+Opel,Astra,2016,56 000 km,Essence,Manuelle,8 CV,5,Occasion,47000
+Peugeot,308,2020,167 000 km,Diesel,Manuelle,6 CV,5,Occasion,50
+Fiat,PALIO WEEKEND,2010,350 000 km,Essence,Manuelle,5 CV,5,Occasion,12000
+Nissan,Micra,2013,177 700 km,Essence,Manuelle,5 CV,5,Occasion,26000
+Peugeot,3008,2021,141 000 km,Diesel,Manuelle,7 CV,5,Occasion,80000
+Fiat,DOBLO,2014,20 000 km,Diesel,Manuelle,5 CV,3,Occasion,19
+Toyota,Hiace,2025,2 278 km,Diesel,Manuelle,10 CV,5,Occasion,90000
+Volkswagen,Polo,1995,100 000 km,Essence,Manuelle,5 CV,5,Occasion,5800
+Volkswagen,Jetta,2013,220 000 km,Essence,Manuelle,6 CV,5,Occasion,42000
+Kia,RIO,2022,68 000 km,Essence,Manuelle,5 CV,5,Occasion,55000
+Peugeot,106,1995,320 km,Essence,Manuelle,4 CV,5,Occasion,11500
+Peugeot,508,2013,170 000 km,Essence,Automatique,7 CV,5,Occasion,32300
+Toyota,Hiace,2015,300 000 km,Diesel,Manuelle,10 CV,3,Occasion,95000
+Nissan,Navara,2010,330 km,Diesel,Manuelle,8 CV,5,Occasion,55000
+Mahindra,KUV 100,2020,105 000 km,Essence,Manuelle,5 CV,5,Occasion,28000
+Mahindra,KUV 100,2020,105 000 km,Essence,Manuelle,5 CV,5,Occasion,28000
+Renault,Clio,2013,157 000 km,Essence,Manuelle,5 CV,5,Occasion,36500
+Seat,Ibiza,2020,19 000 km,Essence,Manuelle,4 CV,5,Occasion,55000
+Mercedes,Classe Gl,2008,96 000 km,Diesel,Automatique,15 CV,5,Occasion,129000
+Dacia,LOGAN MCV,2021,5 000 km,Essence,Manuelle,5 CV,5,Occasion,50
+Citroen,C3,2006,200 000 km,Essence,Manuelle,5 CV,5,Occasion,2100000
+Volkswagen,Golf 7,2014,240 km,Essence,Manuelle,5 CV,5,Occasion,54000
+Renault,Clio,2007,192 000 km,Essence,Manuelle,5 CV,5,Occasion,0
+Chevrolet,AVEO,2012,180 km,Essence,Manuelle,5 CV,5,Occasion,27500
+Volkswagen,Golf,2003,226 000 km,Essence,Manuelle,5 CV,5,Occasion,28
+Fiat,DOBLO,2024,70 000 km,Diesel,Manuelle,5 CV,3,Occasion,41900
+Peugeot,Bipper Tepee,2014,229 000 km,Diesel,Manuelle,6 CV,5,Occasion,0
+Kia,PICANTO,2017,139 000 km,Essence,Manuelle,4 CV,5,Occasion,32000
+Audi,A4,2012,200 000 km,Essence,Manuelle,7 CV,5,Occasion,38500
+Suzuki,Autres,2022,45 000 km,Essence,Manuelle,4 CV,5,Occasion,34000
+Seat,Ibiza,2019,200 km,Essence,Manuelle,4 CV,5,Occasion,36
+Renault,Megane,2021,115 500 km,Essence,Automatique,7 CV,5,Occasion,60000
+Fiat,DOBLO CARGO,2021,121 000 km,Diesel,Manuelle,5 CV,3,Occasion,33500
+Dacia,DUSTER,2014,200 km,Diesel,Manuelle,6 CV,5,Occasion,36500
+Volkswagen,Polo,2006,188 000 km,Essence,Manuelle,4 CV,5,Occasion,0
+Kia,PICANTO,2010,188 km,Essence,Automatique,5 CV,5,Occasion,22
+Mercedes,Classe A,2019,144 000 km,Essence,Automatique,9 CV,5,Occasion,10
+Fiat,500,2018,112 000 km,Essence,Automatique,4 CV,5,Occasion,38000
+Audi,A4,2015,199 km,Essence,Manuelle,7 CV,5,Occasion,47000
+Ssangyong,Tivoli,2018,170 km,Essence,Manuelle,7 CV,5,Occasion,62000
+Bmw,316,2020,150 000 km,Diesel,Automatique,6 CV,5,Occasion,187500
+Fiat,DUCATO,1998,470 km,Diesel,Manuelle,9 CV,3,Occasion,14500
+Citroen,BERLINGO,2016,239 000 km,Diesel,Manuelle,5 CV,3,Occasion,34000
+Chery,Tiggo,2020,140 km,Essence,Manuelle,6 CV,5,Occasion,0
+Ssangyong,Rexton,2006,260 000 km,Diesel,Manuelle,11 CV,5,Occasion,33000
+Mercedes,250,1989,1 km,Diesel,Manuelle,8 CV,5,Occasion,15700
+Peugeot,3008,2020,156 000 km,Diesel,Manuelle,7 CV,5,Occasion,80000
+Kia,SPORTAGE,2013,218 200 km,Diesel,Automatique,11 CV,5,Occasion,54000
+Kia,SPORTAGE,2013,218 200 km,Diesel,Automatique,11 CV,5,Occasion,54000
+Audi,A4,2012,200 000 km,Essence,Manuelle,7 CV,5,Occasion,37500
+Renault,Latitude,2012,1 km,Diesel,Manuelle,8 CV,5,Occasion,1111111
+Volkswagen,Amarok,2016,2 040 000 km,Diesel,Manuelle,7 CV,5,Occasion,0
+Chery,Tiggo,2021,63 000 km,Essence,Manuelle,6 CV,5,Occasion,46500
+Volkswagen,Polo,2008,270 km,Essence,Manuelle,5 CV,5,Occasion,23700
+Skoda,Octavia,2020,154 000 km,Diesel,Automatique,7 CV,5,Occasion,90000
+Hyundai,IX35,2013,162 km,Diesel,Automatique,11 CV,5,Occasion,49
+Citroen,C4,2013,185 000 km,Essence,Manuelle,6 CV,5,Occasion,27500
+Opel,Corsa,2016,77 000 km,Essence,Manuelle,5 CV,5,Occasion,35000
+Chevrolet,SPARK,2016,200 000 km,Essence,Manuelle,5 CV,5,Occasion,26000
+Volkswagen,Polo,2002,187 000 km,Essence,Manuelle,5 CV,3,Occasion,13000
+Peugeot,206,2003,0 km,Essence,Manuelle,4 CV,5,Occasion,16
+Mercedes,Classe A,2013,160 000 km,Diesel,Manuelle,6 CV,5,Occasion,48000
+Peugeot,208,2019,57 km,Essence,Manuelle,4 CV,5,Occasion,30
+Volkswagen,Polo,2010,85 km,Diesel,Manuelle,5 CV,5,Occasion,21
+Volkswagen,Caddy,2020,213 000 km,Diesel,Manuelle,6 CV,3,Occasion,42500
+Volkswagen,Caddy,2001,300 km,Diesel,Manuelle,7 CV,3,Occasion,13
+Mercedes,Autres,1997,0 km,Essence,Manuelle,9 CV,5,Occasion,18
+Fiat,PALIO WEEKEND,2010,350 000 km,Essence,Manuelle,5 CV,5,Occasion,12000
+Volkswagen,Polo,2021,200 000 km,Diesel,Manuelle,5 CV,5,Occasion,65000
+Kia,RIO,2020,180 000 km,Essence,Automatique,6 CV,5,Occasion,57000
+Mitsubishi,Autres,2017,8 488 km,Diesel,Manuelle,10 CV,5,Occasion,12
+Peugeot,207,2012,170 000 km,Essence,Manuelle,5 CV,5,Occasion,27000
+Haval,H6,2019,112 000 km,Essence,Automatique,9 CV,5,Occasion,74000
+Peugeot,208,2013,132 000 km,Essence,Manuelle,5 CV,5,Occasion,27000
+Ford,KUGA,2010,188 000 km,Diesel,Manuelle,8 CV,5,Occasion,53052222
+Opel,Combo,2020,11 585 km,Diesel,Manuelle,5 CV,5,Occasion,0
+Peugeot,307,2003,0 km,Diesel,Manuelle,8 CV,3,Occasion,18000
+Opel,Corsa,2015,1 000 km,Essence,Manuelle,4 CV,3,Occasion,1000
+Audi,A4,2011,201 000 km,Diesel,Manuelle,7 CV,5,Occasion,40000
+Renault,Autres,2010,530 000 km,Essence,Manuelle,5 CV,5,Occasion,22500
+Peugeot,407,2010,310 000 km,Diesel,Manuelle,6 CV,5,Occasion,23800
+Kia,RIO,2022,67 000 km,Essence,Manuelle,5 CV,5,Occasion,63000
+Citroen,C4,2012,241 000 km,Essence,Manuelle,6 CV,5,Occasion,27000
+Peugeot,206,2007,370 km,Essence,Manuelle,6 CV,5,Occasion,18
+Citroen,C3 II,2019,117 369 km,Essence,Manuelle,4 CV,5,Occasion,33500
+Bmw,120,2016,165 000 km,Essence,Automatique,10 CV,5,Occasion,65000
+Volkswagen,Tiguan,2021,66 000 km,Essence,Automatique,8 CV,5,Occasion,118
+Renault,Clio,1997,410 000 km,Essence,Manuelle,5 CV,5,Occasion,13000
+Volkswagen,Golf 7,2018,84 000 km,Essence,Manuelle,6 CV,5,Occasion,67000
+Fiat,FIORINO,2009,250 000 km,Diesel,Manuelle,5 CV,5,Occasion,26000
+Nissan,Juke,2021,62 000 km,Essence,Automatique,6 CV,5,Occasion,55000
+Opel,Astra,2019,200 km,Essence,Manuelle,4 CV,5,Occasion,25
+Mini,AUTRE,2018,86 km,Essence,Manuelle,4 CV,5,Occasion,36
+Fiat,DOBLO,2016,243 km,Diesel,Manuelle,5 CV,3,Occasion,20000
+Hyundai,ACCENT,2014,375 000 km,Essence,Manuelle,6 CV,5,Occasion,31500
+Mahindra,KUV 100,2019,102 000 km,Essence,Manuelle,5 CV,5,Occasion,30000
+Citroen,C3,2019,116 000 km,Essence,Manuelle,4 CV,5,Occasion,35800
+Peugeot,206,2000,0 km,Essence,Manuelle,5 CV,3,Occasion,17800
+Toyota,Yaris,2017,154 000 km,Essence,Manuelle,5 CV,5,Occasion,45500
+MG,MG RX8,2021,30 000 km,Essence,Automatique,7 CV,5,Occasion,76
+Kia,RIO,2021,40 000 km,Essence,Manuelle,4 CV,5,Occasion,58500
+Seat,Ibiza,2021,140 000 km,Essence,Manuelle,5 CV,5,Occasion,43000
+Mahindra,KUV 100,2019,83 000 km,Essence,Manuelle,5 CV,5,Occasion,30500
+Volkswagen,Golf,2014,240 km,Diesel,Manuelle,5 CV,5,Occasion,36
+Suzuki,Autres,2020,52 000 km,Essence,Manuelle,4 CV,5,Occasion,31500
+Renault,Clio,2021,13 000 km,Essence,Manuelle,5 CV,5,Occasion,46500
+Peugeot,Partner,2013,290 000 km,Diesel,Manuelle,5 CV,3,Occasion,35000
+Kia,CERATO,2018,157 000 km,Essence,Automatique,7 CV,5,Occasion,62
+Kia,SPORTAGE,2011,260 000 km,Diesel,Automatique,11 CV,5,Occasion,48000
+Peugeot,206,2002,264 000 km,Essence,Manuelle,4 CV,5,Occasion,17
+Ford,FIESTA,2015,216 km,Essence,Manuelle,5 CV,5,Occasion,32
+Renault,Clio,2022,96 000 km,Essence,Manuelle,5 CV,5,Occasion,45000
+Isuzu,D MAX,2024,4 000 km,Diesel,Manuelle,8 CV,3,Occasion,0
+Bmw,116,1987,909 099 km,Essence,Manuelle,7 CV,5,Occasion,12500
+Peugeot,107,2012,169 000 km,Essence,Manuelle,4 CV,5,Occasion,24500
+MG,MG 5,2020,50 000 km,Essence,Manuelle,7 CV,5,Occasion,56000
+Renault,Autres,2023,50 000 km,Essence,Manuelle,4 CV,5,Occasion,350000
+Nissan,Juke,2011,220 000 km,Diesel,Manuelle,5 CV,5,Occasion,38000
+Chery,Tiggo,2021,105 000 km,Essence,Manuelle,6 CV,5,Occasion,45000
+Fiat,PANDA,2013,210 km,Essence,Manuelle,4 CV,5,Occasion,28
+Volkswagen,Tiguan,2024,0 km,Essence,Automatique,9 CV,5,Occasion,12
+Audi,A3,2015,255 000 km,Essence,Manuelle,5 CV,5,Occasion,1234
+Opel,Astra,2008,315 000 km,Essence,Manuelle,5 CV,5,Occasion,25
+Peugeot,106,1997,0 km,Autre,Manuelle,5 CV,5,Occasion,11
+Kia,CERATO,2017,8 600 km,Essence,Automatique,7 CV,5,Occasion,45000
+Kia,CERATO,2017,86 000 km,Essence,Automatique,7 CV,5,Occasion,50
+Kia,RIO,2015,190 000 km,Essence,Manuelle,4 CV,5,Occasion,35700
+Peugeot,Autres,2014,160 km,Essence,Manuelle,5 CV,5,Occasion,0
+Volkswagen,Passat,2009,304 000 km,Diesel,Manuelle,6 CV,5,Occasion,42000
+Volkswagen,Transporter,2015,222 000 km,Diesel,Manuelle,7 CV,5,Occasion,54000
+Lada,110,2019,80 000 km,Essence,Manuelle,7 CV,3,Occasion,26500
+Peugeot,2008,2020,92 000 km,Essence,Automatique,7 CV,5,Occasion,0
+Kia,SPORTAGE,2019,72 500 km,Diesel,Automatique,8 CV,5,Occasion,95
+Renault,Megane,2019,71 000 km,Essence,Automatique,6 CV,5,Occasion,57000
+Volvo,S40,2008,300 km,Essence,Manuelle,6 CV,5,Occasion,19500
+Volvo,S40,2008,300 km,Essence,Manuelle,6 CV,5,Occasion,19500
+Citroen,C3,2019,85 000 km,Essence,Manuelle,4 CV,5,Occasion,370000
+Audi,A2,2004,300 km,Diesel,Manuelle,5 CV,5,Occasion,18
+Volkswagen,Golf 8,2020,76 700 km,Essence,Manuelle,8 CV,5,Occasion,103000
+Citroen,C5 TOURER,2016,217 000 km,Diesel,Manuelle,7 CV,5,Occasion,45000
+Ford,AUTRE,2013,147 km,Essence,Manuelle,5 CV,5,Occasion,25
+Volkswagen,Transporter,2016,0 km,Diesel,Manuelle,7 CV,3,Occasion,30
+Volkswagen,Golf,2019,99 000 km,Essence,Manuelle,6 CV,5,Occasion,55046412
+Audi,A3,2013,241 km,Essence,Manuelle,7 CV,5,Occasion,56
+Renault,Autres,2011,252 000 km,Essence,Manuelle,5 CV,5,Occasion,25000000
+BYD,F1,2023,48 000 km,Essence,Automatique,11 CV,5,Occasion,137000
+Audi,80,1988,300 km,Diesel,Manuelle,4 CV,5,Occasion,12
+Peugeot,208,2018,43 000 km,Essence,Manuelle,5 CV,5,Occasion,35000
+Peugeot,Partner,2020,63 000 km,Diesel,Manuelle,6 CV,3,Occasion,1111
+Mercedes,Classe C,2012,237 000 km,Diesel,Automatique,9 CV,5,Occasion,70000
+Peugeot,106,1999,340 km,Essence,Manuelle,5 CV,5,Occasion,11
+Seat,Autres,2021,155 km,Essence,Automatique,8 CV,5,Occasion,95
+Volkswagen,Amarok,2012,263 000 km,Diesel,Manuelle,8 CV,5,Occasion,65000
+Ssangyong,Tivoli,2020,126 000 km,Essence,Manuelle,6 CV,3,Occasion,63000
+Audi,A4,2014,267 000 km,Essence,Automatique,7 CV,5,Occasion,0
+Mazda,BT 50,2017,140 000 km,Diesel,Manuelle,8 CV,5,Occasion,60000
+Volkswagen,Golf,2009,333 000 km,Essence,Manuelle,5 CV,5,Occasion,34
+Peugeot,308,2011,380 km,Essence,Manuelle,6 CV,5,Occasion,23500
+Peugeot,206,2001,300 000 km,Diesel,Manuelle,5 CV,5,Occasion,12000
+Chery,A5,2019,155 km,Essence,Manuelle,6 CV,5,Occasion,37000
+Mitsubishi,Autres,2022,60 000 km,Essence,Manuelle,4 CV,5,Occasion,12345
+Chery,Tiggo,2019,107 000 km,Essence,Manuelle,6 CV,5,Occasion,44000
+Ford,ESCORT,2013,139 000 km,Essence,Automatique,6 CV,5,Occasion,60000
+Mazda,BT 50,2011,0 km,Diesel,Manuelle,7 CV,5,Occasion,25
+Chevrolet,AVEO,2013,300 km,Essence,Manuelle,5 CV,5,Occasion,21500
+Citroen,C4,2014,260 000 km,Essence,Manuelle,6 CV,5,Occasion,30000
+Nissan,Navara,2010,350 000 km,Diesel,Manuelle,10 CV,5,Occasion,40000
+Mercedes,Classe Cla,2013,65 000 km,Essence,Manuelle,6 CV,5,Occasion,80000
+Kia,RIO,2017,165 000 km,Essence,Manuelle,5 CV,5,Occasion,40000
+Nissan,Navara,2010,350 000 km,Diesel,Manuelle,10 CV,5,Occasion,40000
+Volkswagen,Passat,2006,260 000 km,Essence,Manuelle,7 CV,5,Occasion,32
+Peugeot,Expert,2020,190 000 km,Diesel,Manuelle,6 CV,3,Occasion,62000
+Kia,PICANTO,2021,47 940 km,Essence,Manuelle,4 CV,5,Occasion,40900
+Volkswagen,Caddy,2020,170 km,Diesel,Manuelle,7 CV,3,Occasion,54
+Volkswagen,Caddy,2020,170 km,Diesel,Manuelle,7 CV,3,Occasion,54
+Kia,RIO,2019,70 800 km,Essence,Manuelle,5 CV,5,Occasion,52500
+Ford,FOCUS,2013,200 km,Essence,Manuelle,7 CV,5,Occasion,30
+Volkswagen,Polo,2021,167 000 km,Essence,Manuelle,5 CV,5,Occasion,44000
+Citroen,C5 II,2009,342 000 km,Diesel,Manuelle,6 CV,5,Occasion,25000
+Mercedes,230,2010,300 000 km,Diesel,Automatique,9 CV,3,Occasion,60000
+Volkswagen,Passat,2006,240 000 km,Diesel,Manuelle,6 CV,5,Occasion,28900
+Kia,RIO,2013,193 000 km,Essence,Manuelle,5 CV,5,Occasion,32
+Ford,FOCUS,2017,155 000 km,Essence,Automatique,7 CV,5,Occasion,38000
+Chevrolet,AUTRE,2019,133 000 km,Essence,Manuelle,5 CV,5,Occasion,33500
+Volkswagen,Golf,2020,93 000 km,Essence,Manuelle,6 CV,5,Occasion,79500
+Peugeot,Autres,2021,100 000 km,Diesel,Manuelle,6 CV,5,Occasion,72000
+Volkswagen,UP,2017,39 000 km,Essence,Manuelle,5 CV,5,Occasion,44
+Mercedes,Classe E,2009,257 000 km,Diesel,Manuelle,7 CV,5,Occasion,53
+Renault,Megane,2013,212 000 km,Diesel,Manuelle,5 CV,5,Occasion,33000
+Hyundai,TUCSON,2017,120 km,Essence,Automatique,11 CV,5,Occasion,90
+Ford,FIESTA,1985,300 km,Essence,Manuelle,4 CV,3,Occasion,4000
+Dacia,SANDERO,2017,137 500 km,Essence,Manuelle,5 CV,5,Occasion,39000
+Citroen,C4 CACTUS,2020,125 000 km,Essence,Manuelle,6 CV,5,Occasion,47000
+Seat,Ibiza,2022,43 000 km,Essence,Manuelle,4 CV,5,Occasion,48000
+Kia,SPORTAGE,2021,101 km,Diesel,Manuelle,7 CV,5,Occasion,97
+Opel,Mokka,2018,200 km,Essence,Automatique,9 CV,5,Occasion,0
+Ford,FIESTA,2008,135 000 km,Essence,Manuelle,5 CV,5,Occasion,20500
+Suzuki,Celerio,2018,101 000 km,Essence,Manuelle,4 CV,5,Occasion,27200
+Renault,Megane,2006,0 km,Diesel,Manuelle,5 CV,5,Occasion,0
+Peugeot,Autres,2021,200 000 km,Diesel,Manuelle,5 CV,5,Occasion,40000
+Chery,QQ,2021,62 000 km,Essence,Manuelle,4 CV,5,Occasion,25000
+Ford,FIESTA,2010,193 000 km,Essence,Manuelle,5 CV,5,Occasion,26000
+Mercedes,300,2010,263 297 km,Diesel,Automatique,14 CV,5,Occasion,123456789
+Volkswagen,Golf 7,2013,177 500 km,Essence,Manuelle,5 CV,5,Occasion,47000
+Fiat,500,2010,201 000 km,Essence,Manuelle,4 CV,3,Occasion,25000
+Peugeot,Boxer,2021,106 872 km,Diesel,Manuelle,7 CV,5,Occasion,1
+Volkswagen,Golf,1999,267 000 km,Essence,Manuelle,5 CV,5,Occasion,19500
+Toyota,RAV4,2002,315 000 km,Diesel,Manuelle,8 CV,3,Occasion,0
+Renault,Kangoo,1999,250 000 km,Diesel,Manuelle,4 CV,3,Occasion,7000
+Nissan,Qashqai,2008,280 000 km,Essence,Automatique,9 CV,5,Occasion,35000
+Kia,RIO,2018,140 km,Essence,Manuelle,5 CV,5,Occasion,50
+Citroen,C4 CACTUS,2021,139 km,Diesel,Manuelle,5 CV,5,Occasion,64
+Fiat,UNO,1995,244 000 km,Essence,Manuelle,4 CV,5,Occasion,13800
+Fiat,PUNTO EVO,2015,136 000 km,Essence,Manuelle,4 CV,5,Occasion,31500
+Alfa romeo,MITO,2011,2 400 000 km,Essence,Manuelle,5 CV,3,Occasion,26000
+Fiat,PUNTO,2002,300 km,Essence,Manuelle,5 CV,5,Occasion,0
+Renault,Megane,2011,300 000 km,Essence,Manuelle,7 CV,3,Occasion,26500
+Nissan,Autres,2004,490 km,Diesel,Manuelle,11 CV,5,Occasion,47
+Volkswagen,Transporter,2010,0 km,Diesel,Manuelle,9 CV,3,Occasion,28
+Hyundai,I20,2024,20 km,Essence,Manuelle,4 CV,5,Occasion,61000
+Peugeot,206,2008,1 111 km,Essence,Manuelle,6 CV,5,Occasion,20000
+Renault,Autres,2010,200 000 km,Essence,Manuelle,5 CV,5,Occasion,25000
+Citroen,BERLINGO,2021,90 000 km,Diesel,Manuelle,5 CV,3,Occasion,58000
+Chery,A5,2017,165 km,Essence,Manuelle,7 CV,5,Occasion,34
+Peugeot,Autres,2021,164 000 km,Diesel,Manuelle,6 CV,3,Occasion,55000
+Renault,Kangoo,2001,255 500 000 km,Diesel,Manuelle,7 CV,3,Occasion,7000
+Mazda,MAZDA3,2015,108 000 km,Essence,Manuelle,6 CV,5,Occasion,43500
+Kia,CERATO,2011,250 000 km,Essence,Automatique,7 CV,5,Occasion,32000
+Volkswagen,Golf,2014,107 000 km,Essence,Automatique,5 CV,5,Occasion,47
+Kia,CEED,2021,87 000 km,Essence,Manuelle,6 CV,5,Occasion,64000
+Renault,Clio,2010,370 km,Essence,Manuelle,5 CV,5,Occasion,23000
+Citroen,JUMPER,2019,160 km,Diesel,Manuelle,9 CV,5,Occasion,65000
+Hyundai,I10,2011,225 000 km,Essence,Manuelle,4 CV,5,Occasion,24500
+Opel,Corsa,2011,153 000 km,Essence,Manuelle,5 CV,5,Occasion,19500
+Renault,Clio,2009,257 000 km,Essence,Manuelle,4 CV,5,Occasion,27000
+Mahindra,KUV 100,2021,420 000 km,Essence,Manuelle,5 CV,5,Occasion,34000
+Peugeot,Partner,2002,400 km,Diesel,Manuelle,7 CV,3,Occasion,15000
+Renault,Autres,2011,320 000 km,Essence,Manuelle,5 CV,5,Occasion,18000
+Peugeot,Partner,2006,600 000 km,Diesel,Manuelle,7 CV,5,Occasion,15600
+Volkswagen,Amarok,2011,225 000 km,Diesel,Automatique,8 CV,5,Occasion,55000
+Peugeot,508,2013,170 000 km,Essence,Automatique,7 CV,5,Occasion,34000
+Kia,CERATO,2015,280 000 km,Essence,Automatique,8 CV,5,Occasion,40000
+Volkswagen,Amarok,2011,225 000 km,Diesel,Automatique,8 CV,5,Occasion,55000
+Opel,Corsa,1998,1 999 999 km,Essence,Manuelle,4 CV,5,Occasion,11000
+Hyundai,I10,2021,45 000 km,Essence,Manuelle,5 CV,5,Occasion,46000
+Peugeot,208,2016,61 000 km,Essence,Manuelle,5 CV,3,Occasion,390000
+Toyota,Autres,2023,17 000 km,Essence,Manuelle,4 CV,5,Occasion,38500
+Peugeot,2008,2008,250 000 km,Essence,Manuelle,6 CV,5,Occasion,19500
+Citroen,JUMPY,1996,550 994 km,Diesel,Manuelle,7 CV,5,Occasion,15000
+Seat,Leon,2016,186 000 km,Essence,Manuelle,6 CV,5,Occasion,0
+Volkswagen,Golf,2013,178 000 km,Essence,Manuelle,5 CV,5,Occasion,45000
+Nissan,Micra,2010,170 000 km,Essence,Manuelle,5 CV,5,Occasion,22000
+Peugeot,3008,2019,190 000 km,Essence,Automatique,7 CV,5,Occasion,62000
+Ford,FOCUS,2016,128 000 km,Essence,Manuelle,6 CV,5,Occasion,37000
+Ford,FOCUS,2008,300 km,Essence,Manuelle,6 CV,5,Occasion,21500
+Citroen,C4,2008,280 km,Diesel,Manuelle,6 CV,3,Occasion,17000
+Volkswagen,Polo,1999,200 000 km,Essence,Manuelle,5 CV,5,Occasion,10000
+Peugeot,307,2003,250 km,Essence,Manuelle,6 CV,5,Occasion,21
+Mercedes,Classe B,2008,300 000 km,Diesel,Automatique,7 CV,5,Occasion,33000
+Chery,A1,2020,130 000 km,Essence,Manuelle,7 CV,5,Occasion,40500
+Renault,Clio,2019,180 km,Essence,Manuelle,5 CV,5,Occasion,0
+Dacia,SANDERO,2015,185 300 km,Essence,Manuelle,5 CV,5,Occasion,35
+Land rover,RANGE ROVER,2017,118 000 km,Diesel,Automatique,6 CV,5,Occasion,270000
+Bmw,525,1989,54 848 km,Diesel,Manuelle,7 CV,5,Occasion,12
+Renault,Megane,2005,340 000 km,Diesel,Manuelle,7 CV,5,Occasion,18000
+Hyundai,TUCSON,2021,129 000 km,Hybride,Automatique,7 CV,5,Occasion,1
+Ford,ECOSPORT,2022,79 km,Essence,Manuelle,7 CV,5,Occasion,69000
+Mercedes,Classe B,2006,268 000 km,Essence,Manuelle,6 CV,5,Occasion,28
+Chery,QQ,2020,92 000 km,Essence,Manuelle,4 CV,5,Occasion,9999
+Ford,FIESTA,2010,184 000 km,Essence,Manuelle,5 CV,5,Occasion,24000
+Fiat,FIORINO,2021,180 000 km,Diesel,Manuelle,5 CV,3,Occasion,33000
+Peugeot,3008,2017,248 000 km,Diesel,Automatique,8 CV,5,Occasion,69500
+Renault,Captur,2015,58 000 km,Essence,Manuelle,6 CV,5,Occasion,42000
+Hyundai,I10,2022,53 600 km,Essence,Manuelle,4 CV,5,Occasion,39900
+Citroen,BERLINGO,2022,100 000 km,Diesel,Manuelle,5 CV,3,Occasion,50000
+Mercedes,Classe Clk,2003,296 km,Essence,Automatique,10 CV,3,Occasion,29
+Kia,RIO,2022,71 600 km,Essence,Manuelle,5 CV,5,Occasion,62000
+Kia,RIO,2011,0 km,Diesel,Manuelle,6 CV,5,Occasion,18500
+Fiat,PUNTO,1997,200 000 km,Essence,Manuelle,4 CV,3,Occasion,10500
+Seat,Ibiza,2014,780 000 km,Diesel,Manuelle,6 CV,5,Occasion,0
+Mahindra,KUV 100,2020,81 500 km,Essence,Manuelle,5 CV,5,Occasion,31500
+Renault,Clio,2005,245 km,Diesel,Manuelle,4 CV,5,Occasion,18000
+Volkswagen,Polo,2017,60 000 km,Essence,Manuelle,5 CV,5,Occasion,53000
+Volkswagen,Jetta,2011,500 km,Essence,Manuelle,7 CV,5,Occasion,29
+Ssangyong,Korando,2014,202 km,Diesel,Manuelle,11 CV,5,Occasion,32
+Renault,Clio,2023,50 km,Essence,Manuelle,4 CV,5,Occasion,35
+Kia,SPORTAGE,2015,180 000 km,Essence,Automatique,10 CV,5,Occasion,70
+Citroen,C3,2019,100 000 km,Essence,Manuelle,4 CV,5,Occasion,40000
+Seat,Leon,2018,242 000 km,Essence,Manuelle,6 CV,5,Occasion,53000
+Bmw,316,2015,170 km,Essence,Automatique,7 CV,5,Occasion,65
+Nissan,Juke,2011,294 000 km,Essence,Manuelle,7 CV,5,Occasion,38000
+Fiat,PUNTO,2005,185 000 km,Diesel,Manuelle,5 CV,5,Occasion,21000
+Kia,SPORTAGE,2020,107 000 km,Essence,Automatique,8 CV,5,Occasion,96000
+Bmw,320,2023,49 500 km,Hybride,Automatique,9 CV,5,Occasion,190000
+Peugeot,Partner,2017,244 000 km,Diesel,Manuelle,5 CV,3,Occasion,45000
+Audi,A4,2010,230 km,Essence,Manuelle,10 CV,5,Occasion,32
+Renault,Clio,2001,240 000 km,Essence,Manuelle,5 CV,3,Occasion,0
+Volkswagen,Golf 7,2013,270 km,Diesel,Manuelle,5 CV,5,Occasion,55
+Fiat,DOBLO,2021,170 000 km,Diesel,Manuelle,6 CV,5,Occasion,49000
+Citroen,BERLINGO,2015,295 999 km,Diesel,Manuelle,5 CV,3,Occasion,31500
+Citroen,C3,2016,108 000 km,Essence,Manuelle,5 CV,5,Occasion,27
+Dacia,DUSTER,2012,212 000 km,Diesel,Manuelle,5 CV,5,Occasion,39000
+Mahindra,XUV 300,2023,16 000 km,Essence,Manuelle,6 CV,5,Occasion,57000
+Peugeot,206,2010,250 000 km,Essence,Manuelle,5 CV,5,Occasion,17000
+Renault,Clio,2021,84 000 km,Essence,Manuelle,4 CV,5,Occasion,48500
+Geely,LC,2022,49 000 km,Essence,Manuelle,5 CV,5,Occasion,56000
+Hyundai,I20,2022,60 000 km,Essence,Manuelle,5 CV,5,Occasion,61500
+Volkswagen,Golf,2010,209 000 km,Essence,Automatique,7 CV,5,Occasion,40000
+Citroen,BERLINGO,2009,241 000 km,Essence,Manuelle,6 CV,5,Occasion,1
+Nissan,Micra,2017,75 000 km,Essence,Manuelle,5 CV,5,Occasion,28000
+Fiat,GRANDE PUNTO,2009,202 000 km,Essence,Manuelle,5 CV,5,Occasion,21500
+Peugeot,3008,2019,104 841 km,Essence,Automatique,9 CV,5,Occasion,68500
+Fiat,FIORINO,2017,232 000 km,Diesel,Manuelle,5 CV,3,Occasion,999999
+Fiat,PUNTO EVO,2012,180 000 km,Essence,Manuelle,4 CV,3,Occasion,23000
+Seat,Ibiza,2023,55 000 km,Essence,Automatique,6 CV,5,Occasion,72000
+Skoda,Autres,2023,33 000 km,Essence,Automatique,7 CV,5,Occasion,790000
+Renault,Kadjar,2019,82 000 km,Essence,Manuelle,7 CV,5,Occasion,61000
+Volkswagen,Amarok,2015,60 000 km,Essence,Manuelle,11 CV,5,Occasion,0
+Renault,Scenic,2004,0 km,Diesel,Manuelle,6 CV,5,Occasion,15
+Chery,Tiggo,2020,190 000 km,Essence,Manuelle,6 CV,5,Occasion,34000
+Peugeot,307,2007,380 km,Essence,Manuelle,6 CV,5,Occasion,20
+Peugeot,208,2016,150 km,Essence,Manuelle,5 CV,5,Occasion,1234
+Volkswagen,Caddy,2020,222 km,Diesel,Manuelle,7 CV,5,Occasion,1234
+Mercedes,Classe E,2011,251 000 km,Diesel,Automatique,8 CV,5,Occasion,60
+Renault,Trafic,2001,600 km,Diesel,Manuelle,10 CV,5,Occasion,8000
+Mercedes,GLC,2020,116 000 km,Diesel,Automatique,11 CV,5,Occasion,185000
+Mahindra,KUV 100,2021,76 000 km,Essence,Manuelle,5 CV,5,Occasion,31000
+Jeep,RENEGADE,2022,30 128 km,Essence,Automatique,8 CV,5,Occasion,89000
+Honda,ACTY,2018,190 000 km,Essence,Automatique,7 CV,5,Occasion,41000
+Bmw,116,2020,190 km,Essence,Manuelle,7 CV,5,Occasion,1234
+Opel,Corsa,2014,105 492 km,Essence,Manuelle,5 CV,5,Occasion,30500
+Opel,Astra,2011,165 000 km,Essence,Manuelle,6 CV,5,Occasion,35500
+Renault,Kadjar,2019,82 000 km,Essence,Manuelle,7 CV,5,Occasion,61000
+Fiat,SCUDO,2004,0 km,Diesel,Manuelle,7 CV,5,Occasion,17000
+Bmw,SERIE 5,2014,291 370 km,Diesel,Automatique,10 CV,5,Occasion,68000
+Mitsubishi,Autres,2005,750 000 km,Diesel,Manuelle,11 CV,5,Occasion,31500
+Peugeot,208,2017,129 000 km,Essence,Manuelle,4 CV,5,Occasion,27000
+Ford,FIESTA,2019,130 000 km,Essence,Manuelle,4 CV,5,Occasion,36000
+Bmw,X1,2021,66 000 km,Hybride,Automatique,6 CV,5,Occasion,130
+Mercedes,Classe A,2014,163 000 km,Essence,Manuelle,6 CV,5,Occasion,68000
+Chevrolet,AUTRE,2021,70 000 km,Essence,Manuelle,5 CV,5,Occasion,0
+Nissan,Qashqai,2008,280 000 km,Essence,Automatique,9 CV,5,Occasion,30000
+Mercedes,Classe C,2009,220 km,Essence,Manuelle,9 CV,5,Occasion,1
+Renault,Clio,2009,185 km,Essence,Manuelle,5 CV,5,Occasion,29800
+Peugeot,107,2009,20 000 km,Essence,Automatique,4 CV,5,Occasion,24
+Renault,Clio,2022,130 000 km,Essence,Manuelle,5 CV,5,Occasion,40000
+Fiat,UNO,1995,260 km,Essence,Manuelle,5 CV,5,Occasion,7000
+Kia,RIO,2021,93 000 km,Essence,Manuelle,5 CV,5,Occasion,63000
+Mercedes,200,2010,300 000 km,Diesel,Automatique,9 CV,3,Occasion,55000
+Volkswagen,Polo,2009,243 000 km,Essence,Manuelle,5 CV,5,Occasion,19000
+Ford,FIESTA,2015,158 000 km,Essence,Manuelle,5 CV,5,Occasion,33800
+Peugeot,2008,2017,123 000 km,Essence,Manuelle,5 CV,5,Occasion,45000
+Renault,Megane,2011,180 000 km,Essence,Automatique,7 CV,5,Occasion,26000
+Volkswagen,Tiguan,2021,108 km,Essence,Automatique,8 CV,5,Occasion,120
+Audi,80,1991,600 000 km,Diesel,Manuelle,4 CV,5,Occasion,4000
+MG,MG RX8,2020,102 km,Essence,Automatique,7 CV,5,Occasion,62500
+Toyota,Corolla,2020,123 000 km,Essence,Automatique,6 CV,5,Occasion,70000
+Fiat,500,2020,76 000 km,Hybride,Manuelle,4 CV,5,Occasion,56000
+Suzuki,Autres,2022,65 km,Essence,Manuelle,4 CV,5,Occasion,36
+Mercedes,Classe C,2013,285 000 km,Essence,Manuelle,9 CV,5,Occasion,56000
+Fiat,FIORINO,2022,32 000 km,Diesel,Manuelle,5 CV,3,Occasion,40000
+Peugeot,Partner,2014,1 000 km,Essence,Manuelle,6 CV,3,Occasion,19500
+Peugeot,3008,2011,230 000 km,Essence,Automatique,7 CV,5,Occasion,38
+Mercedes,Autres,2020,70 000 km,Essence,Automatique,9 CV,5,Occasion,160000
+Chery,Tiggo,2025,7 600 km,Essence,Automatique,9 CV,5,Occasion,80000
+Hyundai,I20,2013,220 000 km,Essence,Manuelle,4 CV,5,Occasion,28500
+Renault,Autres,2023,11 800 km,Essence,Manuelle,4 CV,5,Occasion,37500
+Seat,Ibiza,2018,200 000 km,Essence,Manuelle,4 CV,5,Occasion,39000
+Citroen,C3,2009,150 000 km,Essence,Manuelle,4 CV,5,Occasion,21000
+Ssangyong,Tivoli,2020,115 km,Essence,Manuelle,7 CV,5,Occasion,69000
+Volkswagen,Polo,1995,111 111 km,Essence,Manuelle,5 CV,3,Occasion,11500
+Citroen,DS5,2015,152 000 km,Essence,Automatique,9 CV,5,Occasion,42000
+Dacia,DOKKER,2019,223 000 km,Diesel,Manuelle,6 CV,5,Occasion,32000
+Renault,Autres,2022,48 000 km,Essence,Manuelle,4 CV,5,Occasion,36000
+Nissan,Qashqai,2014,156 km,Essence,Manuelle,7 CV,5,Occasion,45000
+Ford,FOCUS,2016,98 000 km,Essence,Manuelle,8 CV,5,Occasion,38000
+Kia,RIO,2010,319 000 km,Essence,Manuelle,6 CV,5,Occasion,27
+Renault,Autres,1993,1 234 km,Diesel,Manuelle,6 CV,3,Occasion,12
+Volkswagen,Polo,2012,226 000 km,Essence,Manuelle,5 CV,5,Occasion,28500
+Chery,Tiggo,2020,73 000 km,Essence,Manuelle,6 CV,5,Occasion,45000
+Volkswagen,Golf,2012,230 000 km,Essence,Manuelle,5 CV,5,Occasion,37000000
+Ssangyong,Tivoli,2017,220 000 km,Essence,Automatique,8 CV,3,Occasion,48000
+Kia,RIO,2020,50 000 km,Essence,Manuelle,5 CV,5,Occasion,49500
+Bmw,116,2011,225 km,Essence,Manuelle,7 CV,5,Occasion,42000
+Citroen,C3,2009,157 000 km,Essence,Manuelle,4 CV,5,Occasion,210000
+Peugeot,205,1995,3 000 km,Diesel,Manuelle,5 CV,5,Occasion,7000
+Suzuki,Celerio,2020,55 000 km,Essence,Automatique,4 CV,5,Occasion,37500
+Kia,RIO,2013,157 km,Essence,Manuelle,5 CV,5,Occasion,38500
+Renault,Clio,2005,326 km,Diesel,Manuelle,5 CV,3,Occasion,17000
+Peugeot,308,2021,120 km,Diesel,Manuelle,7 CV,5,Occasion,51
+Volkswagen,Polo,2019,211 000 km,Essence,Manuelle,4 CV,5,Occasion,0
+Peugeot,208,2018,71 000 km,Essence,Manuelle,5 CV,5,Occasion,39000
+Chery,A3,2016,190 000 km,Essence,Manuelle,7 CV,5,Occasion,30000
+Renault,Clio,2015,113 000 km,Essence,Manuelle,4 CV,5,Occasion,35000
+Kia,CERATO,2013,179 300 km,Essence,Automatique,8 CV,5,Occasion,36000
+Ssangyong,Actyon,2017,330 000 km,Diesel,Manuelle,10 CV,5,Occasion,0
+Peugeot,306,1999,425 000 km,Diesel,Manuelle,6 CV,5,Occasion,11000
+Citroen,C3,2009,157 000 km,Essence,Manuelle,4 CV,5,Occasion,210000
+Seat,Leon,2014,183 000 km,Essence,Manuelle,5 CV,5,Occasion,42500
+Suzuki,Celerio,2020,126 km,Essence,Manuelle,4 CV,5,Occasion,30000
+Peugeot,309,1991,300 000 km,Essence,Manuelle,4 CV,5,Occasion,7000
+Opel,Corsa,2009,240 km,Essence,Manuelle,5 CV,5,Occasion,23500
+Alfa romeo,MITO,2016,136 km,Essence,Manuelle,5 CV,3,Occasion,34000
+Opel,Crossland X,2022,40 000 km,Essence,Manuelle,5 CV,5,Occasion,53000
+Citroen,C4,2012,0 km,Essence,Manuelle,6 CV,5,Occasion,29000
+Toyota,Yaris,2012,97 000 km,Essence,Manuelle,4 CV,5,Occasion,31000
+Peugeot,3008,2012,228 km,Essence,Automatique,7 CV,5,Occasion,38
+Mitsubishi,Colt,2008,244 000 km,Diesel,Manuelle,5 CV,5,Occasion,14800
+Fiat,AUTRE,2005,217 230 km,Essence,Manuelle,5 CV,5,Occasion,18500
+Mercedes,Classe M,2007,283 km,Diesel,Automatique,15 CV,5,Occasion,62
+Peugeot,208,2016,180 000 km,Essence,Manuelle,5 CV,5,Occasion,28500
+Mahindra,KUV 100,2021,48 880 km,Essence,Manuelle,5 CV,5,Occasion,32
+Peugeot,208,2020,70 000 km,Essence,Manuelle,4 CV,5,Occasion,30
+Chery,QQ,2021,63 000 km,Essence,Manuelle,4 CV,5,Occasion,111
+Peugeot,308,2015,210 km,Diesel,Manuelle,5 CV,5,Occasion,0
+Nissan,Qashqai,2017,93 000 km,Essence,Automatique,6 CV,5,Occasion,70000000
+Fiat,PANDA,2020,84 000 km,Essence,Automatique,4 CV,5,Occasion,40000
+Renault,Clio,2021,130 km,Essence,Manuelle,4 CV,5,Occasion,39000
+Mitsubishi,Autres,2022,63 000 km,Essence,Manuelle,4 CV,5,Occasion,36000
+Citroen,BERLINGO,2015,495 km,Diesel,Manuelle,5 CV,5,Occasion,32
+Seat,Ibiza,2020,105 km,Essence,Manuelle,4 CV,5,Occasion,42
+Peugeot,308,2010,235 km,Essence,Manuelle,6 CV,5,Occasion,27000
+Seat,Autres,2021,50 000 km,Hybride,Automatique,8 CV,5,Occasion,120000
+Kia,PICANTO,2021,67 000 km,Essence,Manuelle,5 CV,5,Occasion,48000
+Renault,Clio,2021,130 km,Essence,Manuelle,4 CV,5,Occasion,39
+Volkswagen,Golf 8,2021,97 000 km,Essence,Automatique,6 CV,5,Occasion,76000
+Chevrolet,AVEO,2012,100 km,Essence,Manuelle,5 CV,5,Occasion,22
+Opel,Vectra,2001,213 000 km,Diesel,Manuelle,7 CV,5,Occasion,18000
+Renault,Megane,2012,320 km,Diesel,Manuelle,6 CV,5,Occasion,0
+Renault,Autres,2000,250 000 km,Diesel,Manuelle,7 CV,5,Occasion,17000
+Peugeot,Autres,2018,190 000 km,Diesel,Automatique,8 CV,5,Occasion,68000
+Peugeot,Partner,2006,281 000 km,Diesel,Manuelle,7 CV,3,Occasion,18000
+Renault,Megane,2006,370 000 km,Diesel,Manuelle,5 CV,5,Occasion,15
+Renault,Megane,1998,380 000 km,Essence,Manuelle,7 CV,5,Occasion,11300
+Mega,AUTRE,2021,66 000 km,Essence,Automatique,6 CV,5,Occasion,54500
+Dacia,DOKKER,2020,150 km,Diesel,Manuelle,6 CV,3,Occasion,30
+Chery,Tiggo,2020,78 800 km,Essence,Manuelle,6 CV,5,Occasion,40000
+Fiat,PUNTO,2008,1 111 111 km,Essence,Manuelle,5 CV,5,Occasion,19191991
+Toyota,Autres,2008,450 km,Diesel,Manuelle,9 CV,5,Occasion,78
+Renault,Captur,2018,82 000 km,Essence,Manuelle,5 CV,5,Occasion,54000
+Nissan,Juke,2014,210 000 km,Diesel,Manuelle,5 CV,5,Occasion,47500
+Renault,Express,2022,33 000 km,Diesel,Manuelle,6 CV,3,Occasion,43000
+Citroen,BERLINGO,2020,142 916 km,Diesel,Manuelle,6 CV,5,Occasion,0
+Peugeot,206,2003,300 km,Essence,Manuelle,4 CV,5,Occasion,16
+Kia,RIO,2020,76 km,Essence,Manuelle,5 CV,5,Occasion,57
+Peugeot,508,2013,220 000 km,Diesel,Manuelle,7 CV,5,Occasion,48000
+Mazda,CX-9,2010,177 500 km,Essence,Automatique,20 CV,5,Occasion,0
+Peugeot,308,2019,144 355 km,Diesel,Manuelle,6 CV,5,Occasion,50500
+Kia,SPORTAGE,2022,2 366 km,Essence,Manuelle,8 CV,5,Occasion,1111
+Volkswagen,Polo,2001,250 000 km,Essence,Manuelle,4 CV,5,Occasion,16500
+Volkswagen,Polo,2008,336 km,Essence,Manuelle,5 CV,5,Occasion,20
+Renault,Twingo,2017,133 km,Essence,Manuelle,5 CV,3,Occasion,23500
+Dacia,DOKKER,2019,218 000 km,Diesel,Manuelle,6 CV,3,Occasion,30000
+Citroen,C3,2009,157 000 km,Essence,Manuelle,4 CV,5,Occasion,20000
+Nissan,Juke,2013,166 000 km,Diesel,Manuelle,6 CV,5,Occasion,50000
+Renault,Captur,2016,230 000 km,Essence,Manuelle,6 CV,5,Occasion,36
+Chery,QQ,2019,67 000 km,Essence,Manuelle,4 CV,5,Occasion,22
+Ford,FIESTA,2013,228 000 km,Essence,Manuelle,5 CV,5,Occasion,23
+Volkswagen,Passat,2015,180 km,Essence,Manuelle,7 CV,5,Occasion,46
+Nissan,Qashqai,2018,163 000 km,Diesel,Manuelle,7 CV,5,Occasion,69500
+Mitsubishi,Autres,2002,349 km,Diesel,Manuelle,11 CV,5,Occasion,0
+Audi,A4,2003,262 000 km,Essence,Manuelle,7 CV,5,Occasion,20
+Fiat,TIPO,2020,92 000 km,Essence,Manuelle,6 CV,5,Occasion,42000
+Fiat,PALIO WEEKEND,2000,260 km,Essence,Manuelle,4 CV,5,Occasion,0
+Fiat,DOBLO,2009,130 km,Diesel,Manuelle,9 CV,5,Occasion,19
+Citroen,C4 CACTUS,2018,116 km,Essence,Manuelle,5 CV,5,Occasion,39
+Volkswagen,Golf,2013,325 000 km,Essence,Manuelle,5 CV,5,Occasion,45000
+Skoda,Autres,2024,22 000 km,Essence,Automatique,7 CV,5,Occasion,87999
+MG,MG 5,2024,19 000 km,Essence,Automatique,10 CV,5,Occasion,96000
+Suzuki,Celerio,2024,37 000 km,Essence,Manuelle,4 CV,5,Occasion,37
+Audi,A5,2018,156 000 km,Essence,Automatique,8 CV,5,Occasion,100
+Fiat,PUNTO,2012,350 000 km,Essence,Manuelle,5 CV,5,Occasion,19
+Fiat,FIORINO QUBO,2009,25 000 km,Diesel,Manuelle,5 CV,5,Occasion,26000
+Peugeot,Autres,2017,450 000 km,Diesel,Manuelle,5 CV,3,Occasion,8000
+Opel,Astra,2004,340 km,Diesel,Manuelle,5 CV,5,Occasion,22
+Toyota,Yaris,2021,86 000 km,Essence,Manuelle,6 CV,5,Occasion,63000
+Volkswagen,Polo,2010,263 860 km,Essence,Manuelle,4 CV,5,Occasion,24600
+Kia,RIO,2010,200 900 km,Essence,Manuelle,6 CV,5,Occasion,0
+Citroen,C3,2019,70 000 km,Diesel,Manuelle,5 CV,5,Occasion,123
+Peugeot,206,2004,276 000 km,Essence,Manuelle,4 CV,5,Occasion,14500
+Renault,Clio,2004,112 km,Essence,Manuelle,4 CV,5,Occasion,22
+Hyundai,I10,2021,43 500 km,Essence,Manuelle,4 CV,5,Occasion,41000
+Geely,GK-GL,2018,190 000 km,Diesel,Manuelle,7 CV,5,Occasion,47500
+Renault,Autres,2010,220 000 km,Essence,Manuelle,5 CV,5,Occasion,25
+Volkswagen,Golf,2019,135 000 000 km,Essence,Manuelle,7 CV,5,Occasion,65
+Ford,FIESTA,2019,155 000 km,Essence,Manuelle,4 CV,5,Occasion,35500
+Mercedes,AMG GT,2017,113 000 km,Essence,Automatique,8 CV,5,Occasion,1
+Peugeot,3008,2016,231 000 km,Essence,Automatique,9 CV,5,Occasion,50000
+Land rover,RANGE ROVER SPORT,2016,135 000 km,Diesel,Automatique,20 CV,5,Occasion,187000
+Citroen,C4,2018,10 000 km,Essence,Automatique,7 CV,5,Occasion,35000
+Datsun,AUTRE,2014,50 km,Essence,Automatique,+20 CV,3,Occasion,120
+Mercedes,Classe E,2009,165 000 km,Essence,Automatique,11 CV,5,Occasion,58000
+Fiat,DOBLO,2021,86 480 km,Diesel,Manuelle,5 CV,5,Occasion,38000
+Ford,RANGER,2017,135 km,Diesel,Manuelle,7 CV,5,Occasion,65
+Peugeot,407,2005,277 km,Essence,Manuelle,9 CV,5,Occasion,20000
+Peugeot,5008,2018,110 000 km,Diesel,Manuelle,7 CV,5,Occasion,110000
+Peugeot,508,2021,125 600 km,Hybride,Automatique,10 CV,5,Occasion,130000
+Peugeot,208,2013,100 000 km,Essence,Manuelle,5 CV,5,Occasion,26000
+Fiat,PUNTO,2008,221 km,Essence,Manuelle,5 CV,5,Occasion,17800
+Isuzu,D MAX,2017,25 000 km,Diesel,Manuelle,8 CV,3,Occasion,1
+Isuzu,D MAX,2017,25 000 km,Diesel,Manuelle,8 CV,3,Occasion,1
+Opel,Astra,2001,400 km,Essence,Manuelle,5 CV,5,Occasion,19000
+Fiat,AUTRE,2009,70 000 km,Essence,Manuelle,4 CV,3,Occasion,22000
+Renault,Captur,2016,230 000 km,Essence,Manuelle,6 CV,5,Occasion,36000
+Chery,QQ,2017,65 600 km,Essence,Manuelle,4 CV,5,Occasion,0
+Dacia,LOGAN,2012,271 000 km,Diesel,Manuelle,6 CV,3,Occasion,14900
+Citroen,C3 II,2018,195 km,Essence,Manuelle,4 CV,5,Occasion,36
+Volkswagen,Golf 2,1989,220 km,Essence,Manuelle,7 CV,3,Occasion,8
+Audi,80,1990,240 000 km,Essence,Manuelle,7 CV,5,Occasion,12000
+Fiat,500,2012,202 000 km,Essence,Manuelle,4 CV,5,Occasion,30000
+Ds,DS5,2015,213 000 km,Diesel,Manuelle,7 CV,5,Occasion,1
+Hyundai,I20,2022,53 000 km,Essence,Automatique,5 CV,5,Occasion,69000
+Kia,RIO,2012,190 km,Essence,Manuelle,5 CV,5,Occasion,34000
+Audi,A4,2014,240 000 km,Essence,Automatique,7 CV,5,Occasion,44000
+Audi,Q5,2018,128 000 km,Diesel,Manuelle,10 CV,5,Occasion,0
+Volkswagen,Passat CC,2015,230 000 km,Essence,Automatique,9 CV,5,Occasion,59000
+Audi,A4,2005,250 000 km,Essence,Manuelle,7 CV,5,Occasion,26000000
+Renault,Captur,2015,183 000 km,Essence,Manuelle,6 CV,5,Occasion,36500
+MG,MG 5,2017,92 000 km,Essence,Manuelle,6 CV,5,Occasion,39000
+Volkswagen,Tiguan,2015,68 000 km,Essence,Automatique,9 CV,5,Occasion,75000
+Peugeot,208,2016,150 000 km,Essence,Manuelle,5 CV,5,Occasion,28000
+Peugeot,406,1998,0 km,Essence,Automatique,7 CV,5,Occasion,0
+Fiat,PANDA,2009,252 000 km,Essence,Manuelle,4 CV,5,Occasion,23000
+Ford,FIESTA,2014,156 000 km,Essence,Manuelle,5 CV,5,Occasion,31500
+Kia,RIO,2011,230 km,Essence,Manuelle,6 CV,5,Occasion,24000
+Kia,CERATO,2011,230 km,Essence,Automatique,7 CV,3,Occasion,32
+Honda,CIVIC,2018,41 400 km,Essence,Manuelle,8 CV,5,Occasion,73000
+Jeep,RENEGADE,2020,75 000 km,Essence,Automatique,8 CV,5,Occasion,100000
+Renault,Megane,2007,251 000 km,Diesel,Manuelle,6 CV,5,Occasion,22500
+Mercedes,Classe E,2010,310 000 km,Diesel,Manuelle,7 CV,5,Occasion,64000
+Volkswagen,Polo,2004,345 km,Essence,Manuelle,4 CV,5,Occasion,15500
+Citroen,C4 CACTUS,2018,80 km,Essence,Manuelle,5 CV,5,Occasion,39000
+Citroen,SAXO,1999,300 km,Essence,Manuelle,5 CV,5,Occasion,11500
+Renault,Megane,2020,186 000 km,Diesel,Automatique,6 CV,5,Occasion,58500
+Mazda,MAZDA2,2005,236 000 km,Diesel,Manuelle,4 CV,5,Occasion,13649
+Iveco,DAILY,2023,93 000 km,Diesel,Manuelle,10 CV,5,Occasion,40000
+Peugeot,Autres,2022,160 km,Diesel,Manuelle,6 CV,5,Occasion,80000
+Toyota,RAV4,1999,195 km,Essence,Manuelle,9 CV,3,Occasion,25
+Mercedes,Classe C,2019,150 000 km,Diesel,Manuelle,7 CV,5,Occasion,999
+Nissan,Qashqai,2019,100 km,Essence,Automatique,6 CV,5,Occasion,65
+Fiat,GRANDE PUNTO,2013,140 000 km,Essence,Manuelle,4 CV,5,Occasion,28800
+Citroen,AUTRE,2013,181 000 km,Essence,Manuelle,4 CV,5,Occasion,28000
+Mahindra,KUV 100,2019,166 km,Essence,Manuelle,5 CV,5,Occasion,26000
+Renault,Megane,2009,185 000 km,Diesel,Manuelle,5 CV,5,Occasion,28900
+Peugeot,205,1999,330 000 km,Essence,Manuelle,4 CV,5,Occasion,6500
+Mahindra,KUV 100,2021,37 000 km,Essence,Manuelle,5 CV,5,Occasion,37000
+Audi,A4,2014,210 000 km,Essence,Automatique,7 CV,5,Occasion,51000
+Mahindra,KUV 100,2019,125 000 km,Essence,Manuelle,5 CV,5,Occasion,27500
+Dacia,DOKKER,2016,340 000 km,Diesel,Manuelle,6 CV,3,Occasion,24000
+Bmw,118,2012,137 000 km,Diesel,Automatique,11 CV,3,Occasion,80
+Audi,A3 SPORTBACK,2011,259 000 km,Diesel,Manuelle,7 CV,5,Occasion,43900
+Ford,KA,2015,176 000 km,Essence,Manuelle,4 CV,3,Occasion,24500
+Renault,Scenic,2012,158 000 km,Essence,Manuelle,6 CV,5,Occasion,37000
+Ford,FIESTA,2006,231 000 km,Essence,Manuelle,5 CV,5,Occasion,21500
+MG,MG 5,2022,50 000 km,Essence,Manuelle,5 CV,5,Occasion,52000
+Ford,MONDEO,2007,144 km,Diesel,Manuelle,7 CV,5,Occasion,43
+Toyota,RAV4,2019,180 000 km,Essence,Automatique,9 CV,5,Occasion,5000
+Mercedes,GLC,2022,50 000 km,Diesel,Automatique,11 CV,5,Occasion,250000
+Citroen,AUTRE,2019,164 km,Essence,Manuelle,5 CV,5,Occasion,30
+Peugeot,308,2012,216 000 km,Essence,Manuelle,6 CV,5,Occasion,0
+Audi,A4,2010,234 000 km,Essence,Manuelle,7 CV,5,Occasion,39500
+Kia,RIO,2011,213 km,Essence,Manuelle,6 CV,5,Occasion,22
+Peugeot,2008,2014,203 000 km,Essence,Manuelle,5 CV,5,Occasion,37500
+Dacia,DUSTER,2015,200 km,Diesel,Manuelle,6 CV,5,Occasion,60000
+Kia,PICANTO,2011,197 km,Essence,Manuelle,4 CV,5,Occasion,23
+Mitsubishi,Pajero,1999,520 km,Diesel,Manuelle,9 CV,5,Occasion,38000
+Kia,AUTRE,2021,96 000 km,Essence,Automatique,8 CV,5,Occasion,90000
+Bmw,SERIE 5,1997,270 000 km,Essence,Manuelle,10 CV,5,Occasion,17
+Jeep,COMPASS,2012,155 000 km,Diesel,Manuelle,10 CV,5,Occasion,65000
+Hyundai,IX35,2012,225 000 km,Diesel,Manuelle,6 CV,5,Occasion,45000
+Mazda,MAZDA6,2017,173 km,Essence,Manuelle,8 CV,5,Occasion,45
+Jeep,COMPASS,2012,155 000 km,Diesel,Manuelle,10 CV,5,Occasion,65000
+Nissan,Qashqai,2015,126 000 km,Essence,Automatique,6 CV,5,Occasion,58000
+Isuzu,AUTRE,2025,1 000 km,Diesel,Manuelle,9 CV,5,Occasion,20
+Peugeot,208,2017,60 000 km,Essence,Manuelle,5 CV,5,Occasion,0
+Peugeot,206,2008,165 416 km,Essence,Manuelle,6 CV,5,Occasion,22000
+Citroen,C4 II,2014,156 000 km,Essence,Manuelle,6 CV,5,Occasion,32000
+Toyota,Corolla,1998,370 km,Essence,Manuelle,4 CV,5,Occasion,14000
+Citroen,C5,2011,210 000 km,Essence,Automatique,9 CV,5,Occasion,29500
+Chery,Tiggo,2022,29 000 km,Essence,Automatique,6 CV,5,Occasion,52
+Hyundai,I10,2022,66 000 km,Essence,Manuelle,5 CV,5,Occasion,44000
+Kia,PICANTO,2023,46 000 km,Essence,Manuelle,4 CV,5,Occasion,41000
+Volkswagen,Golf,2018,177 000 km,Essence,Automatique,6 CV,5,Occasion,59000
+Isuzu,D MAX,2025,0 km,Diesel,Manuelle,10 CV,3,Occasion,115000
+Mercedes,Classe Cla,2016,224 000 km,Diesel,Manuelle,5 CV,5,Occasion,90000
+Audi,A3,2018,252 km,Essence,Manuelle,6 CV,5,Occasion,59
+Toyota,Hiace,2024,2 600 km,Diesel,Manuelle,11 CV,5,Occasion,24000
+Fiat,PALIO WEEKEND,2007,270 000 km,Essence,Manuelle,4 CV,5,Occasion,16200
+Citroen,C3 PLURIEL,2009,230 km,Essence,Automatique,7 CV,3,Occasion,0
+Citroen,DS4,2012,196 952 km,Diesel,Manuelle,6 CV,5,Occasion,25000
+Citroen,C3,2019,105 000 km,Essence,Automatique,6 CV,5,Occasion,38000
+Mitsubishi,Montero,2002,116 000 km,Essence,Automatique,16 CV,5,Occasion,30000
+Volkswagen,Scirocco,2010,287 000 km,Essence,Automatique,9 CV,3,Occasion,31
+Volkswagen,Golf 7,2021,78 000 km,Essence,Automatique,6 CV,5,Occasion,68000
+Volkswagen,Golf,2008,320 km,Diesel,Manuelle,6 CV,5,Occasion,27600
+Suzuki,Swift,2022,112 000 km,Essence,Manuelle,5 CV,5,Occasion,35000
+Renault,Scenic,2005,217 km,Diesel,Manuelle,7 CV,5,Occasion,26
+Kia,RIO,2015,190 000 km,Essence,Manuelle,5 CV,5,Occasion,38000
+Dacia,SANDERO,2017,82 000 km,Essence,Manuelle,5 CV,5,Occasion,0
+Hyundai,I10,2023,17 000 km,Essence,Manuelle,5 CV,5,Occasion,49000
+Volkswagen,Golf,2011,267 000 km,Essence,Manuelle,7 CV,5,Occasion,37000
+Seat,Ibiza,2019,255 km,Essence,Manuelle,4 CV,5,Occasion,48
+Peugeot,208,2012,160 km,Essence,Manuelle,4 CV,5,Occasion,25
+Hyundai,I10,2017,146 000 km,Essence,Manuelle,5 CV,5,Occasion,30
+Peugeot,106,1997,300 km,Essence,Manuelle,4 CV,3,Occasion,12000
+Fiat,UNO,2005,10 km,Diesel,Manuelle,5 CV,5,Occasion,99805746
+Audi,Q5,2010,350 000 km,Diesel,Automatique,10 CV,5,Occasion,75000
+Chery,Tiggo,2020,145 000 km,Essence,Manuelle,6 CV,5,Occasion,42500
+Renault,Autres,2003,245 000 km,Essence,Manuelle,7 CV,5,Occasion,18300
+Mahindra,KUV 100,2022,60 000 km,Essence,Manuelle,5 CV,5,Occasion,33000
+Renault,Megane,2013,154 157 km,Essence,Manuelle,6 CV,5,Occasion,39000
+MG,MG 5,2022,75 000 km,Hybride,Automatique,8 CV,5,Occasion,97000
+Ford,FIESTA,2016,162 km,Essence,Manuelle,5 CV,5,Occasion,31
+Suzuki,Celerio,2020,90 km,Essence,Manuelle,4 CV,5,Occasion,29990
+Hyundai,AUTRE,2020,60 000 km,Essence,Manuelle,7 CV,5,Occasion,77000
+Volkswagen,Golf 6,2010,100 km,Diesel,Manuelle,5 CV,5,Occasion,40
+Fiat,TIPO,2020,101 500 km,Essence,Manuelle,5 CV,5,Occasion,44500
+Geely,MK-GL,2019,54 500 km,Essence,Manuelle,6 CV,5,Occasion,42000
+Volkswagen,Caddy,2021,200 km,Diesel,Manuelle,6 CV,5,Occasion,79
+Hyundai,SONATA,2010,144 000 km,Essence,Automatique,11 CV,5,Occasion,55000
+Seat,Leon,2019,113 000 km,Essence,Manuelle,6 CV,5,Occasion,55000
+Mercedes,Classe Cla,2017,164 000 km,Diesel,Manuelle,7 CV,5,Occasion,72000
+Jeep,RENEGADE,2018,200 km,Essence,Automatique,8 CV,5,Occasion,75
+Peugeot,407,2006,260 km,Essence,Manuelle,9 CV,5,Occasion,17
+Toyota,Aygo,2021,76 000 km,Essence,Manuelle,4 CV,5,Occasion,0
+Bmw,118,2010,289 km,Diesel,Manuelle,7 CV,5,Occasion,32500
+Mercedes,Classe A,1998,300 000 km,Essence,Manuelle,7 CV,5,Occasion,16000
+Renault,Megane,2020,75 000 km,Diesel,Automatique,11 CV,5,Occasion,110000
+Mercedes,Classe C,2004,226 km,Essence,Manuelle,12 CV,5,Occasion,25
+Volkswagen,Polo,2016,220 000 km,Essence,Manuelle,4 CV,5,Occasion,35000
+Citroen,C3,2008,277 km,Essence,Manuelle,4 CV,5,Occasion,20000
+Audi,A4,2012,207 000 km,Essence,Manuelle,7 CV,5,Occasion,39000
+Peugeot,407,2006,404 km,Diesel,Manuelle,6 CV,5,Occasion,23
+Mahindra,KUV 100,2020,28 000 km,Essence,Manuelle,5 CV,5,Occasion,35000
+Toyota,Yaris,2013,250 000 km,Essence,Manuelle,5 CV,5,Occasion,31000
+Kia,SPORTAGE,2011,240 000 km,Diesel,Automatique,11 CV,5,Occasion,50
+Mahindra,KUV 100,2023,106 000 km,Essence,Manuelle,5 CV,5,Occasion,25500
+Ford,FIESTA,2010,247 km,Essence,Manuelle,5 CV,5,Occasion,25500
+Kia,SPORTAGE,2019,30 000 km,Diesel,Automatique,8 CV,5,Occasion,112000
+Suzuki,Baleno,2018,112 000 km,Essence,Automatique,5 CV,5,Occasion,39
+Ford,AUTRE,2013,203 000 km,Essence,Manuelle,5 CV,5,Occasion,23000
+Dacia,SANDERO,2023,19 000 km,Essence,Automatique,6 CV,5,Occasion,62000
+Citroen,C3,2021,140 000 km,Diesel,Manuelle,5 CV,5,Occasion,55000
+Alfa romeo,MITO,2010,162 000 km,Essence,Manuelle,5 CV,3,Occasion,26500
+Volkswagen,Golf,2015,250 km,Diesel,Manuelle,7 CV,5,Occasion,60000
+Peugeot,308,2011,183 000 km,Diesel,Manuelle,6 CV,5,Occasion,32000
+Kia,PICANTO,2020,53 000 km,Essence,Manuelle,4 CV,5,Occasion,38000
+Toyota,Hiace,2014,728 000 km,Diesel,Manuelle,8 CV,3,Occasion,35800
+Land rover,EVOQUE,2021,15 000 km,Diesel,Manuelle,8 CV,5,Occasion,200000
+Kia,SPORTAGE,2020,65 000 km,Essence,Automatique,7 CV,5,Occasion,98000
+Kia,SPORTAGE,2022,2 366 km,Essence,Manuelle,8 CV,5,Occasion,200000
+Fiat,500,2022,70 000 km,Essence,Manuelle,4 CV,3,Occasion,47000
+Volkswagen,Golf 6,2011,229 km,Essence,Manuelle,5 CV,5,Occasion,41500000
+Ford,MUSTANG,2023,30 000 km,Electrique,Automatique,6 CV,5,Occasion,185000
+Peugeot,Expert,2021,174 000 km,Diesel,Manuelle,7 CV,3,Occasion,58000
+Citroen,C4 PICASSO II,2014,230 000 km,Diesel,Manuelle,6 CV,5,Occasion,65000
+Suzuki,Swift,2019,178 000 km,Essence,Manuelle,5 CV,5,Occasion,33000
+Volkswagen,Polo,2004,200 km,Essence,Manuelle,4 CV,5,Occasion,19500
+Toyota,Yaris,2015,197 000 km,Essence,Manuelle,5 CV,5,Occasion,34000
+Renault,Autres,2016,268 000 km,Essence,Manuelle,5 CV,5,Occasion,666
+Skoda,Fabia,2021,80 000 km,Essence,Manuelle,4 CV,5,Occasion,43000
+Ford,FIESTA,2019,151 000 km,Essence,Manuelle,4 CV,5,Occasion,38000
+Renault,Clio,2021,80 km,Diesel,Manuelle,5 CV,5,Occasion,47500
+Chevrolet,CRUZE,2014,125 000 km,Essence,Manuelle,7 CV,5,Occasion,33
+Peugeot,2008,2022,52 000 km,Essence,Manuelle,6 CV,5,Occasion,0
+Citroen,C15,1992,25 km,Diesel,Manuelle,6 CV,3,Occasion,6000
+Volkswagen,Amarok,2012,292 000 km,Diesel,Manuelle,8 CV,5,Occasion,55000
+Renault,Clio,2004,200 000 km,Essence,Manuelle,5 CV,5,Occasion,17000
+Renault,Clio,2007,204 000 km,Essence,Manuelle,5 CV,5,Occasion,29000
+Mazda,BT 50,1999,456 666 km,Diesel,Manuelle,10 CV,5,Occasion,1
+Ford,FOCUS,2017,240 000 km,Essence,Manuelle,6 CV,5,Occasion,37000
+Fiat,GRANDE PUNTO,2012,276 km,Essence,Manuelle,5 CV,5,Occasion,24500
+Volkswagen,Caddy,2000,400 km,Diesel,Manuelle,8 CV,3,Occasion,12300
+Volkswagen,Polo,2008,337 km,Essence,Manuelle,5 CV,5,Occasion,0
+Chevrolet,CRUZE,2014,125 000 km,Essence,Manuelle,7 CV,5,Occasion,0
+Renault,Trafic,2021,140 000 km,Diesel,Manuelle,6 CV,3,Occasion,74000
+Renault,Megane,2005,365 km,Essence,Manuelle,6 CV,5,Occasion,17000
+Chery,Tiggo,2020,60 000 km,Essence,Manuelle,6 CV,5,Occasion,40500
+Opel,Corsa,1999,250 km,Essence,Manuelle,4 CV,5,Occasion,10500
+Chevrolet,CRUZE,2014,125 000 km,Essence,Manuelle,7 CV,5,Occasion,33
+Peugeot,3008,2012,202 000 km,Diesel,Manuelle,6 CV,5,Occasion,43000
+Seat,Leon,2015,153 000 km,Essence,Manuelle,6 CV,3,Occasion,42500
+Volkswagen,Passat,2020,90 000 km,Hybride,Automatique,8 CV,5,Occasion,120000
+Bmw,320,2023,49 000 km,Hybride,Automatique,9 CV,5,Occasion,11111
+Mahindra,KUV 100,2022,48 000 km,Essence,Manuelle,5 CV,5,Occasion,0
+Volkswagen,Passat,2005,280 km,Essence,Manuelle,7 CV,5,Occasion,25000
+Nissan,Micra,2018,108 000 km,Essence,Manuelle,5 CV,5,Occasion,32000
+Isuzu,D MAX,2025,0 km,Diesel,Manuelle,8 CV,3,Occasion,115
+Bmw,116,2010,228 km,Diesel,Manuelle,6 CV,5,Occasion,34800
+Ssangyong,Tivoli,2022,75 000 km,Essence,Manuelle,6 CV,5,Occasion,69
+Peugeot,208,2019,135 km,Essence,Manuelle,4 CV,5,Occasion,31
+Hyundai,GALLOPER,1997,0 km,Diesel,Manuelle,10 CV,5,Occasion,35
+Peugeot,2008,2024,9 000 km,Essence,Automatique,7 CV,5,Occasion,84000
+Fiat,DOBLO CARGO,2016,334 km,Diesel,Manuelle,5 CV,5,Occasion,17500
+Citroen,AX,1989,300 000 km,Essence,Manuelle,4 CV,5,Occasion,5300
+Peugeot,208,2014,192 000 km,Essence,Manuelle,5 CV,5,Occasion,25000
+Opel,Kadett,1986,200 000 km,Essence,Manuelle,6 CV,3,Occasion,6300
+Hyundai,VELOSTER,2017,127 km,Essence,Automatique,8 CV,3,Occasion,55
+Peugeot,508,2021,190 000 km,Diesel,Automatique,7 CV,5,Occasion,130000
+Peugeot,Autres,2017,129 000 km,Essence,Manuelle,5 CV,5,Occasion,27500
+Seat,Ibiza,2016,130 000 km,Essence,Manuelle,4 CV,5,Occasion,33
+Peugeot,206,2008,225 000 km,Essence,Manuelle,6 CV,5,Occasion,19
+Kia,RIO,2019,150 000 km,Essence,Manuelle,5 CV,5,Occasion,46000
+Mazda,MAZDA2,2016,220 000 km,Essence,Manuelle,6 CV,5,Occasion,31000
+Jeep,COMPASS,2020,135 000 km,Diesel,Manuelle,6 CV,5,Occasion,119000
+Volkswagen,Passat,2013,236 000 km,Diesel,Manuelle,7 CV,5,Occasion,42000
+Mahindra,KUV 100,2018,87 000 km,Essence,Manuelle,5 CV,5,Occasion,27000
+Peugeot,Partner,2003,0 km,Essence,Manuelle,6 CV,5,Occasion,22000
+Kia,SPORTAGE,2021,73 300 km,Essence,Automatique,14 CV,5,Occasion,110000
+Chevrolet,AVEO,2015,133 000 km,Essence,Manuelle,5 CV,5,Occasion,25000
+Kia,SPORTAGE,2020,102 000 km,Essence,Automatique,8 CV,5,Occasion,22286499
+Hyundai,I10,2015,164 000 km,Essence,Manuelle,5 CV,5,Occasion,28000
+Mitsubishi,Colt,2008,245 000 km,Diesel,Manuelle,4 CV,5,Occasion,14800
+Kia,PICANTO,2021,58 200 km,Essence,Manuelle,4 CV,5,Occasion,40200
+Ford,FIESTA,2004,150 km,Essence,Manuelle,5 CV,5,Occasion,18000
+Kia,SPORTAGE,2017,111 000 km,Essence,Automatique,8 CV,5,Occasion,73
+Chevrolet,AVEO,2011,220 000 km,Essence,Manuelle,5 CV,5,Occasion,19700
+Peugeot,308,2016,150 000 km,Diesel,Manuelle,6 CV,5,Occasion,46000
+Ford,FIESTA,2016,98 000 km,Essence,Manuelle,5 CV,5,Occasion,38000
+Toyota,Corolla,2021,120 km,Essence,Automatique,6 CV,5,Occasion,63
+Citroen,JUMPY,2015,442 000 km,Diesel,Manuelle,5 CV,3,Occasion,25000
+Kia,PICANTO,2021,59 000 km,Essence,Manuelle,4 CV,5,Occasion,40
+Audi,A4,2006,230 000 km,Diesel,Manuelle,7 CV,5,Occasion,30000
+Suzuki,Celerio,2024,20 000 km,Essence,Automatique,4 CV,5,Occasion,49500
+Geely,MK-GS,2018,89 012 km,Essence,Manuelle,6 CV,5,Occasion,42000
+Citroen,C4 PICASSO,2009,318 000 km,Diesel,Automatique,6 CV,5,Occasion,24000
+Chevrolet,AVEO,2010,300 000 km,Essence,Manuelle,5 CV,3,Occasion,15000
+Renault,Megane,2011,54 000 km,Essence,Manuelle,7 CV,3,Occasion,36000
+Nissan,Qashqai,2015,111 000 km,Essence,Automatique,6 CV,5,Occasion,50000
+Honda,CIVIC,2019,54 km,Essence,Automatique,7 CV,5,Occasion,76000
+Kia,SPORTAGE,2020,62 000 km,Essence,Automatique,11 CV,5,Occasion,110
+Citroen,C4 II,2018,111 000 km,Essence,Manuelle,6 CV,5,Occasion,37500
+Ford,FOCUS,2012,429 km,Essence,Manuelle,6 CV,5,Occasion,26
+Fiat,PUNTO,1998,0 km,Essence,Manuelle,4 CV,5,Occasion,14500
+Peugeot,106,1997,0 km,Essence,Manuelle,4 CV,5,Occasion,13500
+Fiat,PUNTO,1997,0 km,Essence,Manuelle,5 CV,5,Occasion,14500
+Bmw,316,2004,225 000 km,Essence,Manuelle,7 CV,5,Occasion,28000
+Renault,Clio,2021,18 200 km,Essence,Manuelle,5 CV,3,Occasion,48
+MG,MG 5,2017,111 000 km,Essence,Manuelle,6 CV,5,Occasion,41500
+Fiat,500,2012,202 km,Essence,Manuelle,4 CV,3,Occasion,30000
+Ford,FIESTA,2006,204 000 km,Essence,Manuelle,5 CV,5,Occasion,20500
+Chevrolet,CRUZE,2014,125 000 km,Essence,Manuelle,7 CV,5,Occasion,32
+Citroen,C5,2012,315 000 km,Essence,Automatique,7 CV,5,Occasion,32
+MG,MG 5,2022,100 km,Essence,Automatique,6 CV,5,Occasion,3333
+Geely,GK-GL,2019,78 km,Essence,Manuelle,6 CV,5,Occasion,0
+Volkswagen,CC,2019,81 000 km,Essence,Manuelle,6 CV,5,Occasion,82000
+Peugeot,206,2001,300 000 km,Diesel,Manuelle,5 CV,5,Occasion,93653053
+MG,MG RX8,2021,53 000 km,Essence,Manuelle,7 CV,5,Occasion,61000
+Bmw,SERIE 1 II,2020,119 000 km,Essence,Automatique,8 CV,5,Occasion,81000
+Renault,Autres,2016,370 km,Essence,Manuelle,5 CV,5,Occasion,22500
+Peugeot,5008,2016,250 km,Diesel,Manuelle,6 CV,5,Occasion,43000
+Suzuki,Swift,2017,162 km,Essence,Manuelle,5 CV,5,Occasion,31500
+Bmw,SERIE 4,2015,138 000 km,Essence,Automatique,10 CV,5,Occasion,98000
+Chery,QQ,2020,38 000 km,Essence,Manuelle,4 CV,5,Occasion,24900
+Fiat,FIORINO,2019,89 000 km,Diesel,Manuelle,5 CV,3,Occasion,31000
+Peugeot,207,2012,190 000 km,Essence,Manuelle,5 CV,5,Occasion,28500
+Bmw,SERIE 3 VI,2013,148 000 km,Essence,Automatique,7 CV,5,Occasion,61000
+MG,MG 5,2022,84 000 km,Hybride,Automatique,8 CV,5,Occasion,97490
+Peugeot,Autres,2013,105 000 km,Essence,Manuelle,5 CV,5,Occasion,25000
+Suzuki,Swift,2018,170 000 km,Essence,Manuelle,4 CV,5,Occasion,34000
+Kia,RIO,2010,3 000 km,Essence,Manuelle,6 CV,5,Occasion,22000
+Mahindra,KUV 100,2020,77 km,Essence,Manuelle,5 CV,5,Occasion,26200
+Peugeot,308,2016,145 000 km,Diesel,Manuelle,6 CV,5,Occasion,44000
+Volkswagen,Tiguan,2015,128 500 km,Essence,Automatique,9 CV,5,Occasion,75000
+Toyota,C-HR,2022,51 000 km,Essence,Automatique,6 CV,5,Occasion,93000
+Peugeot,206,2008,225 000 km,Essence,Manuelle,6 CV,5,Occasion,19
+Citroen,JUMPY,2019,5 000 km,Diesel,Manuelle,6 CV,5,Occasion,90
+Peugeot,Autres,2017,116 000 km,Essence,Manuelle,5 CV,5,Occasion,26800
+Volkswagen,Tiguan,2018,113 km,Essence,Automatique,8 CV,5,Occasion,95800
+Citroen,C3 II,2012,265 000 km,Essence,Manuelle,5 CV,5,Occasion,25500
+MG,MG 5,2017,260 000 km,Essence,Manuelle,6 CV,5,Occasion,30000
+Chery,QQ,2021,48 000 km,Essence,Manuelle,4 CV,5,Occasion,24500
+Kia,PICANTO,2021,26 km,Essence,Automatique,4 CV,5,Occasion,48000
+Volkswagen,Jetta,2008,272 000 km,Essence,Manuelle,7 CV,5,Occasion,32000
+Renault,Autres,2016,370 km,Essence,Manuelle,5 CV,5,Occasion,22000
+Haval,H6,2021,100 000 km,Essence,Automatique,9 CV,5,Occasion,78
+Citroen,C3,2003,207 000 km,Essence,Manuelle,5 CV,5,Occasion,23000
+Isuzu,D MAX,2018,150 000 km,Diesel,Manuelle,6 CV,5,Occasion,140000
+Citroen,C4,2008,252 000 km,Essence,Automatique,7 CV,5,Occasion,28000
+Renault,Megane,2013,200 km,Diesel,Manuelle,6 CV,5,Occasion,24
+Ford,FIESTA,2016,167 000 km,Essence,Manuelle,5 CV,5,Occasion,36000
+Seat,Arona,2019,178 000 km,Essence,Manuelle,6 CV,5,Occasion,47000
+Mercedes,Classe A,2020,91 000 km,Hybride,Automatique,8 CV,5,Occasion,115000
+Volkswagen,Golf 5,2004,2 600 km,Diesel,Manuelle,6 CV,5,Occasion,27500
+Volkswagen,Golf 5,2004,2 800 km,Diesel,Manuelle,6 CV,5,Occasion,27580
+Chery,Tiggo,2020,80 300 km,Essence,Automatique,9 CV,5,Occasion,58000
+Seat,Leon,2010,300 000 km,Essence,Manuelle,6 CV,5,Occasion,28000
+Opel,Zafira,2015,179 000 km,Diesel,Manuelle,7 CV,5,Occasion,60000
+Haval,H2,2020,45 000 km,Essence,Manuelle,6 CV,5,Occasion,40000
+Citroen,C3,2020,58 000 km,Essence,Manuelle,4 CV,5,Occasion,36500
+Audi,A3 SPORTBACK,2008,250 km,Essence,Manuelle,6 CV,5,Occasion,35000
+Renault,Express,1994,500 km,Essence,Manuelle,7 CV,3,Occasion,12
+Peugeot,308,2019,145 km,Diesel,Manuelle,7 CV,5,Occasion,0
+Seat,Arona,2022,110 km,Essence,Manuelle,6 CV,5,Occasion,77
+Kia,SORENTO,2010,207 km,Diesel,Automatique,12 CV,5,Occasion,52
+Alfa romeo,159,2011,240 km,Essence,Manuelle,9 CV,5,Occasion,29
+Volkswagen,Tiguan,2015,128 500 km,Essence,Automatique,9 CV,5,Occasion,75000
+Peugeot,207,2009,200 km,Diesel,Manuelle,5 CV,5,Occasion,22800
+Peugeot,207,2009,200 km,Diesel,Manuelle,5 CV,5,Occasion,22800
+Volkswagen,Tiguan,2022,89 280 km,Hybride,Automatique,8 CV,5,Occasion,145000
+Peugeot,206,2000,280 km,Essence,Manuelle,4 CV,5,Occasion,11900
+Chevrolet,AUTRE,2007,220 000 km,Essence,Manuelle,5 CV,5,Occasion,15
+Chevrolet,AVEO,2007,218 000 km,Essence,Manuelle,5 CV,3,Occasion,15000
+Citroen,C3,2024,19 500 km,Essence,Manuelle,4 CV,5,Occasion,45000
+Volvo,240,2021,77 500 km,Essence,Manuelle,6 CV,5,Occasion,50000
+Kia,RIO,2021,34 900 km,Essence,Manuelle,5 CV,5,Occasion,64000
+Mazda,MAZDA3,2017,278 000 km,Essence,Manuelle,6 CV,5,Occasion,43000
+Peugeot,3008,2022,167 000 km,Diesel,Automatique,7 CV,5,Occasion,87000
+Nissan,Patrol,1991,300 000 km,Diesel,Manuelle,17 CV,5,Occasion,1
+Kia,PICANTO,2022,59 000 km,Essence,Manuelle,10 CV,5,Occasion,41000
+Nissan,Juke,2014,93 000 km,Essence,Automatique,7 CV,5,Occasion,42000
+Citroen,C3,2017,90 000 km,Essence,Manuelle,4 CV,5,Occasion,33
+Mahindra,XUV 300,2023,59 300 km,Essence,Manuelle,6 CV,5,Occasion,42000
+Fiat,DOBLO CARGO,2013,400 km,Diesel,Manuelle,5 CV,3,Occasion,18000
+Kia,PICANTO,2015,53 000 km,Essence,Automatique,5 CV,5,Occasion,39
+Ford,FIESTA,2004,190 000 km,Essence,Manuelle,5 CV,5,Occasion,19500
+Peugeot,208,2018,44 000 km,Essence,Manuelle,5 CV,5,Occasion,29000
+Mercedes,Classe C,2025,40 km,Hybride,Automatique,9 CV,5,Occasion,295
+Ford,FOCUS,2017,138 km,Essence,Automatique,7 CV,5,Occasion,0
+Volkswagen,Golf 8,2023,30 000 km,Essence,Manuelle,7 CV,5,Occasion,119000
+Chevrolet,AUTRE,2005,200 000 km,Essence,Manuelle,5 CV,3,Occasion,13
+Ford,FIESTA,2008,230 000 km,Essence,Manuelle,5 CV,5,Occasion,23500
+Renault,Megane,2005,260 000 km,Diesel,Manuelle,5 CV,5,Occasion,20500
+Suzuki,Swift,2021,117 000 km,Essence,Manuelle,5 CV,5,Occasion,38500
+Peugeot,308,2014,130 000 km,Essence,Manuelle,5 CV,5,Occasion,38000
+Fiat,GRANDE PUNTO,2016,131 440 km,Essence,Manuelle,4 CV,3,Occasion,29000
+Renault,Clio,1996,230 km,Essence,Manuelle,5 CV,5,Occasion,7500
+Hyundai,ELANTRA,2012,176 000 km,Essence,Automatique,7 CV,5,Occasion,41000
+Renault,Clio,2017,280 km,Essence,Manuelle,5 CV,5,Occasion,33000
+Mercedes,Classe C,2010,180 000 km,Diesel,Automatique,10 CV,5,Occasion,46
+Citroen,C4,2009,400 000 km,Diesel,Manuelle,5 CV,5,Occasion,11111111
+Citroen,C4,2009,400 000 km,Diesel,Manuelle,5 CV,5,Occasion,1111
+Volkswagen,Jetta,2008,272 000 km,Essence,Manuelle,7 CV,5,Occasion,32000
+Bmw,118,2019,71 000 km,Essence,Automatique,7 CV,5,Occasion,69000
+Kia,AUTRE,2021,50 km,LPG,Automatique,8 CV,5,Occasion,65
+Renault,Autres,2009,280 km,Essence,Manuelle,7 CV,5,Occasion,25000
+Chevrolet,AVEO,2022,84 000 km,Essence,Automatique,6 CV,5,Occasion,1
+Peugeot,208,2013,210 000 km,Essence,Manuelle,4 CV,5,Occasion,24000
+Peugeot,407,2004,210 000 km,Essence,Manuelle,6 CV,5,Occasion,21000
+Volkswagen,Passat,2009,240 000 km,Diesel,Automatique,8 CV,5,Occasion,45000
+Nissan,Qashqai,2009,400 000 km,Diesel,Manuelle,6 CV,5,Occasion,0
+Nissan,Qashqai,2009,400 000 km,Diesel,Manuelle,6 CV,5,Occasion,0
+Audi,A3,2008,240 000 km,Diesel,Manuelle,6 CV,5,Occasion,38000000
+Peugeot,308,2017,30 000 km,Essence,Manuelle,5 CV,5,Occasion,42000
+Fiat,GRANDE PUNTO,2016,131 500 km,Essence,Manuelle,4 CV,5,Occasion,29000
+Fiat,DOBLO,2020,182 000 km,Diesel,Manuelle,5 CV,3,Occasion,34000
+Nissan,Navara,2015,200 000 km,Diesel,Manuelle,4 CV,5,Occasion,0
+Toyota,Autres,2021,170 km,Diesel,Manuelle,8 CV,5,Occasion,145
+Chery,Tiggo,2017,70 000 km,Essence,Manuelle,6 CV,5,Occasion,40
+Volkswagen,Golf,2013,278 km,Diesel,Manuelle,5 CV,5,Occasion,46000
+Renault,Megane,2005,365 000 km,Essence,Manuelle,6 CV,5,Occasion,16000
+Mahindra,KUV 100,2018,99 000 km,Essence,Manuelle,5 CV,5,Occasion,31000
+Mercedes,Classe C,2020,50 500 km,Essence,Automatique,10 CV,5,Occasion,163000
+Bmw,320,2006,306 000 km,Essence,Manuelle,9 CV,5,Occasion,35000
+Honda,CIVIC,2018,47 000 km,Essence,Manuelle,9 CV,5,Occasion,75
+Skoda,Fabia,2024,35 000 km,Essence,Manuelle,4 CV,5,Occasion,50000
+Kia,SOUL,2015,163 km,Essence,Automatique,11 CV,5,Occasion,62
+Porsche,Cayenne,2019,200 km,Essence,Automatique,+20 CV,5,Occasion,145
+Peugeot,2008,2017,87 km,Diesel,Manuelle,6 CV,5,Occasion,48
+Jaguar,F-PACE,2016,215 000 km,Diesel,Automatique,10 CV,5,Occasion,140000
+Opel,Kadett,1986,250 000 km,Essence,Manuelle,6 CV,3,Occasion,6000
+Fiat,GRANDE PUNTO,2016,131 600 km,Essence,Manuelle,4 CV,5,Occasion,29000
+Ford,FIESTA,2014,260 km,Essence,Manuelle,5 CV,5,Occasion,30
+Volkswagen,Polo,2005,285 000 km,Essence,Manuelle,5 CV,5,Occasion,19000
+Hyundai,TUCSON,2019,111 000 km,Diesel,Manuelle,6 CV,5,Occasion,0
+Volkswagen,Golf 5,2008,280 000 km,Essence,Manuelle,5 CV,5,Occasion,30000
+Alfa romeo,GIULIETTA,2018,94 000 km,Essence,Automatique,9 CV,5,Occasion,55500
+Volkswagen,Jetta,2009,400 000 km,Essence,Manuelle,7 CV,5,Occasion,30000
+Peugeot,Expert,2020,68 000 km,Diesel,Manuelle,5 CV,3,Occasion,57000
+Fiat,PALIO WEEKEND,2000,270 000 km,Essence,Manuelle,4 CV,5,Occasion,12000
+Nissan,Micra,2018,100 000 km,Essence,Manuelle,5 CV,5,Occasion,30000
+Mercedes,250,1985,400 km,Diesel,Manuelle,8 CV,5,Occasion,29
+Hyundai,ELANTRA,2015,210 000 km,Essence,Manuelle,7 CV,5,Occasion,37
+Renault,Clio,2009,220 000 km,Essence,Manuelle,4 CV,5,Occasion,2100000
+Volkswagen,Passat CC,2017,62 000 km,Essence,Manuelle,7 CV,5,Occasion,79000
+Audi,A4,2013,250 000 km,Essence,Manuelle,7 CV,5,Occasion,39
+Ds,DS3,2016,93 000 km,Essence,Manuelle,5 CV,3,Occasion,29000
+Renault,Captur,2015,125 000 km,Essence,Automatique,6 CV,5,Occasion,46
+Hyundai,I10,2022,51 000 km,Essence,Manuelle,4 CV,5,Occasion,41
+Kia,RIO,2021,118 000 km,Essence,Manuelle,5 CV,5,Occasion,53500
+Volkswagen,Passat,2009,345 000 km,Diesel,Manuelle,6 CV,5,Occasion,33000
+Toyota,RAV4,2010,110 000 km,Diesel,Manuelle,9 CV,5,Occasion,40000
+Peugeot,2008,2020,104 km,Essence,Manuelle,6 CV,5,Occasion,56000
+Citroen,AUTRE,2016,190 000 km,Essence,Manuelle,5 CV,5,Occasion,29000
+Mazda,MAZDA3,2017,190 000 km,Essence,Manuelle,6 CV,5,Occasion,49000
+Peugeot,207,2009,245 000 km,Essence,Manuelle,5 CV,5,Occasion,23500
+Seat,Arona,2020,55 000 km,Essence,Manuelle,6 CV,5,Occasion,68
+Chevrolet,AVEO,2019,70 km,Essence,Manuelle,5 CV,5,Occasion,39000
+Volkswagen,Golf,2013,347 000 km,Essence,Manuelle,5 CV,5,Occasion,39000
+Chery,A3,2017,220 000 km,Essence,Manuelle,6 CV,5,Occasion,28500
+Peugeot,308,2010,200 km,Essence,Manuelle,6 CV,5,Occasion,123456
+Ford,FOCUS,2016,192 000 km,Essence,Manuelle,6 CV,5,Occasion,40000
+Kia,SPORTAGE,2019,96 000 km,Essence,Automatique,8 CV,5,Occasion,95000
+Bmw,SERIE 2,2021,57 000 km,Essence,Automatique,8 CV,5,Occasion,110000
+Dacia,SANDERO,2021,120 000 km,Essence,Manuelle,5 CV,5,Occasion,36500
+Hyundai,I20,2021,1 000 km,Essence,Automatique,5 CV,5,Occasion,56000
+Ssangyong,Korando,2014,339 000 km,Diesel,Automatique,11 CV,5,Occasion,42000
+Audi,A4,2018,96 000 km,Essence,Automatique,8 CV,5,Occasion,87000
+Peugeot,Autres,2018,170 000 km,Essence,Manuelle,5 CV,5,Occasion,24300
+Kia,PICANTO,2017,155 000 km,Essence,Manuelle,4 CV,5,Occasion,29500
+Nissan,Qashqai,2008,194 km,Diesel,Automatique,10 CV,5,Occasion,123
+Volkswagen,Tiguan,2015,128 500 km,Essence,Automatique,9 CV,5,Occasion,73000
+Dacia,SANDERO,2021,130 000 km,Essence,Manuelle,5 CV,5,Occasion,36000
+Volkswagen,Polo,2005,12 345 km,Essence,Manuelle,4 CV,5,Occasion,17500
+Peugeot,Partner,2021,149 000 km,Diesel,Manuelle,5 CV,5,Occasion,47900
+Isuzu,D MAX,2016,165 km,Diesel,Manuelle,8 CV,3,Occasion,70
+Ford,FOCUS,2018,143 km,Essence,Manuelle,6 CV,5,Occasion,43250
+Renault,Clio,2024,181 000 km,Essence,Manuelle,4 CV,5,Occasion,32
+Mercedes,Classe A,2010,200 000 km,Essence,Manuelle,6 CV,5,Occasion,28000
+Volkswagen,Polo,2004,200 km,Essence,Manuelle,4 CV,5,Occasion,19500
+Bmw,116,2012,200 000 km,Essence,Manuelle,7 CV,5,Occasion,43000
+Peugeot,208,2017,129 000 km,Essence,Manuelle,4 CV,5,Occasion,27000
+Renault,Megane,2003,264 km,Essence,Manuelle,6 CV,5,Occasion,21500
+Chery,Tiggo,2023,60 000 km,Essence,Automatique,6 CV,5,Occasion,52000
+Renault,Express,2023,46 000 km,Diesel,Manuelle,5 CV,5,Occasion,45000
+Mercedes,Classe S,2010,334 174 km,Essence,Automatique,+20 CV,5,Occasion,120000
+Mercedes,Classe E,2013,317 270 km,Diesel,Automatique,12 CV,5,Occasion,80000
+Dacia,DUSTER,2021,177 938 km,Diesel,Manuelle,6 CV,5,Occasion,65000
+Dacia,DUSTER,2013,234 214 km,Essence,Manuelle,7 CV,5,Occasion,35000
+Hyundai,I10,2019,133 km,Essence,Manuelle,5 CV,5,Occasion,26500
+Isuzu,D MAX,2020,240 000 km,Diesel,Manuelle,10 CV,5,Occasion,65000
+Kia,SPORTAGE,2021,102 km,Diesel,Manuelle,7 CV,5,Occasion,92
+Peugeot,207,2012,191 000 km,Essence,Manuelle,5 CV,3,Occasion,28000
+Audi,A4,2018,96 000 km,Essence,Automatique,8 CV,5,Occasion,87000
+Jeep,GRAND CHEROKEE,2000,325 000 km,Diesel,Automatique,11 CV,5,Occasion,20
+Citroen,BERLINGO II,2020,150 km,Diesel,Manuelle,5 CV,3,Occasion,50
+Mercedes,Classe B,2007,300 000 km,Essence,Manuelle,6 CV,5,Occasion,27000
+Mahindra,XUV 300,2024,61 000 km,Essence,Manuelle,6 CV,5,Occasion,52000
+Peugeot,3008,2018,230 000 km,Essence,Automatique,9 CV,5,Occasion,62000
+Seat,Leon,2019,190 000 km,Diesel,Manuelle,6 CV,5,Occasion,62000
+Kia,RIO,2014,170 km,Essence,Manuelle,5 CV,5,Occasion,37500
+Fiat,FIORINO,2018,150 000 km,Diesel,Manuelle,5 CV,3,Occasion,32000
+Volkswagen,Golf 8,2020,127 000 km,Essence,Manuelle,8 CV,5,Occasion,87
+Citroen,AUTRE,2021,159 000 km,Diesel,Manuelle,4 CV,5,Occasion,46500
+Citroen,AX,1996,250 000 km,Essence,Manuelle,4 CV,5,Occasion,3
+MG,MG 5,2021,100 000 km,Essence,Manuelle,6 CV,5,Occasion,123
+Mercedes,AMG GT,2016,156 000 km,Diesel,Automatique,9 CV,5,Occasion,160
+Seat,Ibiza,2021,170 km,Essence,Manuelle,4 CV,5,Occasion,43
+Renault,Clio,1997,333 333 km,Essence,Manuelle,4 CV,5,Occasion,12
+Fiat,AUTRE,2004,290 000 km,Essence,Manuelle,6 CV,5,Occasion,16300
+Seat,Ateca,2021,150 000 km,Essence,Manuelle,6 CV,5,Occasion,85
+Fiat,UNO,1991,0 km,Essence,Manuelle,5 CV,5,Occasion,2
+Chery,A3,2018,120 000 km,Essence,Manuelle,6 CV,5,Occasion,30
+Renault,R19,2001,0 km,Diesel,Manuelle,6 CV,5,Occasion,9000
+Mercedes,Classe C,2023,69 000 km,Hybride,Automatique,12 CV,5,Occasion,265000
+Peugeot,206,2002,204 km,Essence,Manuelle,4 CV,5,Occasion,18
+Ford,ECOSPORT,2018,56 000 km,Essence,Manuelle,7 CV,5,Occasion,53000
+Audi,A4,2018,183 000 km,Essence,Manuelle,8 CV,5,Occasion,75000
+Hyundai,TUCSON,2023,56 000 km,Essence,Automatique,13 CV,5,Occasion,130000
+Volkswagen,Golf,2019,170 km,Diesel,Manuelle,6 CV,5,Occasion,0
+Kia,OPTIMA,2015,140 000 km,Essence,Automatique,12 CV,5,Occasion,48000
+Volkswagen,Golf,2010,206 101 km,Essence,Manuelle,7 CV,5,Occasion,36500
+Peugeot,206,2001,300 000 km,Diesel,Manuelle,5 CV,5,Occasion,93653053
+Peugeot,3008,2020,75 500 km,Essence,Automatique,7 CV,5,Occasion,88000
+Honda,AUTRE,2024,12 000 km,Essence,Automatique,6 CV,5,Occasion,73500
+Fiat,500,2021,37 000 km,Essence,Automatique,4 CV,3,Occasion,53000
+Mercedes,Classe V,2010,123 456 km,Diesel,Manuelle,7 CV,3,Occasion,23000
+Kia,SPORTAGE,2018,214 000 km,Diesel,Automatique,10 CV,5,Occasion,90000
+Peugeot,2008,2016,160 000 km,Essence,Manuelle,5 CV,5,Occasion,42500
+Ford,FOCUS,2017,126 000 km,Essence,Automatique,7 CV,5,Occasion,37000
+Peugeot,308,2012,187 000 km,Essence,Manuelle,6 CV,5,Occasion,28000
+Renault,Kadjar,2021,81 000 km,Essence,Automatique,7 CV,5,Occasion,70
+Mahindra,KUV 100,2019,42 000 km,Essence,Manuelle,5 CV,5,Occasion,27900
+Toyota,Yaris,2024,15 200 km,Essence,Automatique,4 CV,5,Occasion,74500
+Opel,Insignia,2013,275 km,Essence,Manuelle,11 CV,5,Occasion,27000
+Peugeot,206,2007,350 000 km,Essence,Manuelle,5 CV,5,Occasion,13
+Chevrolet,CRUZE,2018,132 000 km,Essence,Manuelle,7 CV,5,Occasion,35800
+Volvo,Xc90,2010,269 000 km,Diesel,Automatique,12 CV,5,Occasion,0
+Volkswagen,Golf,2011,300 km,Diesel,Manuelle,5 CV,5,Occasion,38
+Fiat,PALIO WEEKEND,2000,270 000 km,Essence,Manuelle,4 CV,5,Occasion,10500
+Volkswagen,Polo,2003,300 km,Essence,Manuelle,4 CV,5,Occasion,18500
+Audi,Q5,2019,84 000 km,Diesel,Automatique,11 CV,5,Occasion,245000
+Citroen,JUMPY,2017,247 000 km,Diesel,Manuelle,7 CV,3,Occasion,55000
+Peugeot,3008,2010,250 km,Diesel,Manuelle,6 CV,5,Occasion,0
+Mini,B,2009,260 000 km,Essence,Manuelle,5 CV,3,Occasion,24000
+MG,MG RX8,2019,170 000 km,Essence,Automatique,7 CV,5,Occasion,50000
+Peugeot,208,2020,80 400 km,Essence,Manuelle,5 CV,5,Occasion,31500
+Opel,Corsa,2015,300 km,Essence,Manuelle,5 CV,5,Occasion,23000
+Chevrolet,AVEO,2015,0 km,Essence,Manuelle,5 CV,5,Occasion,24000
+Opel,Autres,1997,330 km,Essence,Manuelle,4 CV,5,Occasion,12500
+Chevrolet,AUTRE,2019,120 000 km,Essence,Manuelle,5 CV,5,Occasion,34500
+Audi,Q5,2010,362 000 km,Diesel,Automatique,10 CV,5,Occasion,68000
+Citroen,C4,2013,224 000 km,Essence,Manuelle,5 CV,5,Occasion,30500
+Renault,Megane,2003,219 000 km,Diesel,Manuelle,5 CV,5,Occasion,19000
+Volkswagen,Polo,2007,277 000 km,Essence,Manuelle,4 CV,5,Occasion,22500
+Dacia,DOKKER,2014,253 000 km,Diesel,Manuelle,6 CV,3,Occasion,26900
+Volkswagen,Polo,2007,278 000 km,Essence,Manuelle,4 CV,5,Occasion,22500
+Kia,CERATO,2010,180 000 km,Essence,Manuelle,5 CV,5,Occasion,29000
+Suzuki,Celerio,2023,30 000 km,Essence,Manuelle,4 CV,5,Occasion,39000
+Bmw,116,2013,170 000 km,Essence,Automatique,7 CV,5,Occasion,42000
+Mercedes,Classe C,2004,230 km,Essence,Manuelle,12 CV,5,Occasion,19000
+Mercedes,200,2010,230 000 km,Essence,Automatique,11 CV,5,Occasion,0
+Opel,Corsa,1982,210 km,Essence,Manuelle,4 CV,5,Occasion,3100
+Opel,Zafira,2013,127 560 km,Diesel,Manuelle,9 CV,5,Occasion,30000
+Fiat,500,2020,1 km,Diesel,Manuelle,6 CV,3,Occasion,0
+Kia,RIO,2014,256 000 km,Essence,Manuelle,5 CV,5,Occasion,36000
+Citroen,C4,2014,200 000 km,Essence,Manuelle,6 CV,5,Occasion,25000
+Peugeot,207,2010,165 000 km,Essence,Manuelle,6 CV,5,Occasion,24000
+Peugeot,2008,2021,81 000 km,Essence,Manuelle,7 CV,5,Occasion,1000
+Mahindra,KUV 100,2021,76 km,Essence,Manuelle,5 CV,5,Occasion,31
+Peugeot,106,1999,330 000 km,Essence,Manuelle,4 CV,5,Occasion,13
+Fiat,FREEMONT,2012,228 000 km,Diesel,Manuelle,8 CV,5,Occasion,33000
+Peugeot,208,2022,29 000 km,Essence,Manuelle,4 CV,5,Occasion,45000
+Ford,KUGA,2017,125 000 km,Essence,Automatique,11 CV,5,Occasion,72
+Volkswagen,Golf,2017,92 000 km,Essence,Manuelle,6 CV,5,Occasion,72000
+Citroen,ZX,1997,376 000 km,Essence,Manuelle,5 CV,5,Occasion,7900
+Mercedes,Classe Cla,2015,170 000 km,Diesel,Manuelle,7 CV,5,Occasion,78000
+Kia,RIO,2013,135 km,Essence,Manuelle,5 CV,5,Occasion,34500
+MG,MG RX8,2022,60 000 km,Essence,Automatique,9 CV,5,Occasion,750000
+Volkswagen,Polo,2010,178 000 km,Essence,Manuelle,4 CV,5,Occasion,29000
+Volkswagen,Tiguan,2015,71 000 km,Essence,Automatique,9 CV,5,Occasion,72000
+Nissan,Qashqai,2018,65 000 km,Essence,Automatique,6 CV,5,Occasion,65000
+Chery,Tiggo,2021,28 000 km,Essence,Automatique,6 CV,5,Occasion,53000
+Hyundai,AUTRE,2025,90 km,Essence,Automatique,7 CV,5,Occasion,85000
+Seat,Leon,2016,178 500 km,Essence,Manuelle,6 CV,3,Occasion,41000
+Peugeot,308,2011,76 000 km,Essence,Manuelle,6 CV,5,Occasion,32500
+Mitsubishi,Autres,2021,50 000 km,Essence,Manuelle,4 CV,5,Occasion,34000
+Peugeot,107,2011,270 km,Essence,Manuelle,4 CV,5,Occasion,24000
+Ford,FOCUS,2018,165 km,Essence,Manuelle,6 CV,5,Occasion,43
+Audi,A4,2017,188 500 km,Essence,Automatique,8 CV,5,Occasion,67500
+Citroen,C4,2007,420 000 km,Essence,Manuelle,7 CV,5,Occasion,20
+Peugeot,206,2006,230 000 km,Essence,Manuelle,5 CV,3,Occasion,16000
+Volkswagen,Golf,2016,146 000 km,Diesel,Manuelle,5 CV,5,Occasion,57000
+Seat,Ibiza,2023,19 000 km,Essence,Manuelle,6 CV,5,Occasion,80000
+Volkswagen,Golf 6,2010,298 000 km,Essence,Manuelle,7 CV,5,Occasion,41000
+Hyundai,AUTRE,2021,21 000 km,Essence,Automatique,7 CV,5,Occasion,111111
+Renault,Clio,2021,32 300 km,Essence,Manuelle,4 CV,5,Occasion,45500
+Kia,RIO,2021,150 000 km,Essence,Manuelle,5 CV,5,Occasion,48000000
+Bmw,316,2014,140 km,Essence,Automatique,7 CV,5,Occasion,58
+Peugeot,Autres,2013,237 km,Essence,Manuelle,5 CV,5,Occasion,0
+Citroen,C4,2014,140 000 km,Essence,Manuelle,6 CV,5,Occasion,32000
+Ford,FOCUS,2018,156 000 km,Essence,Automatique,7 CV,5,Occasion,36500
+Bmw,116,2016,164 000 km,Essence,Manuelle,6 CV,5,Occasion,62000
+Citroen,C3,2021,122 000 km,Diesel,Manuelle,5 CV,5,Occasion,49500
+Peugeot,508,2012,225 000 km,Essence,Automatique,7 CV,5,Occasion,1
+Audi,A4,2006,0 km,Diesel,Manuelle,9 CV,5,Occasion,30000
+Isuzu,AUTRE,2012,350 km,Diesel,Manuelle,17 CV,3,Occasion,0
+Fiat,PANDA,2012,180 km,Essence,Manuelle,4 CV,5,Occasion,25500
+Peugeot,208,2022,58 000 km,Essence,Manuelle,4 CV,5,Occasion,37000
+Hyundai,VELOSTER,2019,81 000 km,Essence,Automatique,10 CV,3,Occasion,85
+Opel,Mokka,2025,16 000 km,Essence,Automatique,7 CV,5,Occasion,25000
+Suzuki,Autres,2020,108 000 km,Essence,Automatique,6 CV,5,Occasion,48000
+Volkswagen,Polo,2011,210 km,Essence,Manuelle,4 CV,5,Occasion,28199402
+Peugeot,106,1996,0 km,Essence,Manuelle,4 CV,5,Occasion,11
+Nissan,Navara,2012,46 500 km,Diesel,Manuelle,10 CV,5,Occasion,46500
+Volkswagen,Caddy,2010,319 000 km,Diesel,Manuelle,8 CV,3,Occasion,23500
+Renault,Clio,2012,230 km,Diesel,Manuelle,6 CV,3,Occasion,23
+Mazda,CX-5,2018,118 000 km,Essence,Automatique,9 CV,5,Occasion,89000
+Volkswagen,Golf 7,2013,200 000 km,Diesel,Manuelle,5 CV,5,Occasion,48000
+Bmw,316,2014,171 000 km,Essence,Automatique,7 CV,5,Occasion,55500
+Mahindra,KUV 100,2020,60 000 km,Essence,Manuelle,5 CV,5,Occasion,31
+Peugeot,3008,2015,242 km,Diesel,Automatique,5 CV,5,Occasion,0
+Peugeot,3008,2021,145 000 km,Diesel,Manuelle,7 CV,5,Occasion,79000
+Toyota,C-HR,2022,40 000 km,Essence,Automatique,6 CV,5,Occasion,87000
+Kia,RIO,2020,124 km,Essence,Automatique,6 CV,5,Occasion,56
+Volkswagen,Passat,2013,200 000 km,Essence,Manuelle,9 CV,5,Occasion,43000
+Volkswagen,Polo,2007,278 000 km,Essence,Manuelle,4 CV,5,Occasion,22000
+Peugeot,308,2025,141 000 km,Essence,Manuelle,6 CV,5,Occasion,28000
+Seat,Leon,2002,3 003 000 km,Diesel,Manuelle,7 CV,5,Occasion,20
+Mercedes,Classe C,2015,199 000 km,Essence,Automatique,8 CV,5,Occasion,70500
+Citroen,C3 PICASSO,2010,296 000 km,Essence,Manuelle,6 CV,5,Occasion,28500
+Peugeot,208,2017,146 km,Essence,Manuelle,5 CV,5,Occasion,26300
+Mazda,BT 50,2018,127 000 km,Diesel,Manuelle,9 CV,5,Occasion,60
+Ford,FIESTA,2012,200 000 km,Essence,Manuelle,5 CV,5,Occasion,25000
+Ssangyong,Actyon,2011,250 000 km,Diesel,Manuelle,7 CV,5,Occasion,32000
+MG,MG 5,2024,30 000 km,Essence,Automatique,9 CV,5,Occasion,68000
+Peugeot,Autres,2019,220 000 km,Essence,Manuelle,5 CV,5,Occasion,0
+Mahindra,KUV 100,2020,80 000 km,Essence,Manuelle,5 CV,5,Occasion,30000
+Renault,Megane,2008,364 km,Diesel,Manuelle,6 CV,5,Occasion,23
+Volkswagen,Golf,2017,102 282 km,Essence,Manuelle,6 CV,5,Occasion,75000
+Toyota,Yaris,2005,348 000 km,Essence,Manuelle,4 CV,5,Occasion,14500
+MG,MG 5,2024,25 000 km,Essence,Automatique,7 CV,5,Occasion,66000000
+Kia,PICANTO,2018,126 000 km,Essence,Manuelle,4 CV,5,Occasion,35000
+Opel,Corsa,2016,146 000 km,Essence,Manuelle,5 CV,5,Occasion,30000
+Fiat,500,2012,200 000 km,Essence,Manuelle,5 CV,5,Occasion,28
+Peugeot,106,1997,372 893 km,Essence,Manuelle,5 CV,5,Occasion,13000
+Hyundai,TUCSON,2021,99 000 km,Hybride,Automatique,10 CV,5,Occasion,110000
+Kia,PICANTO,2022,74 000 km,Essence,Manuelle,4 CV,5,Occasion,39500
+Volvo,S80,2012,353 215 km,Diesel,Automatique,9 CV,5,Occasion,37500
+Ford,FOCUS,2006,275 000 km,Essence,Manuelle,6 CV,5,Occasion,1
+Volkswagen,Tiguan,2021,125 000 km,Essence,Automatique,8 CV,5,Occasion,125000
+Opel,Corsa,2022,120 km,Essence,Manuelle,5 CV,5,Occasion,37
+Opel,Astra,2009,112 000 km,Essence,Manuelle,5 CV,5,Occasion,0
+Volkswagen,Polo,2013,302 km,Essence,Manuelle,4 CV,5,Occasion,19
+Isuzu,AUTRE,2000,570 000 km,Diesel,Manuelle,10 CV,3,Occasion,43000
+Volkswagen,Golf 6,2009,235 000 km,Essence,Manuelle,5 CV,3,Occasion,32000
+Skoda,Autres,2024,51 000 km,Essence,Automatique,6 CV,5,Occasion,72000
+Hyundai,I10,2021,107 000 km,Essence,Manuelle,4 CV,5,Occasion,37000
+Seat,Ateca,2024,41 000 km,Essence,Automatique,8 CV,5,Occasion,120000
+Nissan,Qashqai,2016,290 000 km,Diesel,Manuelle,5 CV,5,Occasion,51000
+Dacia,SANDERO,2015,190 000 km,Essence,Manuelle,5 CV,5,Occasion,36000
+Peugeot,2008,2015,195 000 km,Essence,Manuelle,5 CV,5,Occasion,39000
+Peugeot,206,2003,200 000 km,Essence,Manuelle,4 CV,5,Occasion,17800
+Mahindra,KUV 100,2021,62 800 km,Essence,Manuelle,5 CV,5,Occasion,26
+Volkswagen,Tiguan,2017,88 500 km,Essence,Automatique,8 CV,5,Occasion,99000
+Mercedes,Classe A,2019,56 000 km,Essence,Automatique,8 CV,5,Occasion,120000
+Ssangyong,Actyon,2014,260 000 km,Diesel,Manuelle,7 CV,5,Occasion,38500
+Volkswagen,Transporter,2011,585 000 km,Diesel,Manuelle,8 CV,3,Occasion,38000
+Geely,MK-GL,2019,74 000 km,Essence,Manuelle,6 CV,5,Occasion,30000
+Kia,RIO,2015,117 000 km,Essence,Manuelle,5 CV,5,Occasion,41000
+Chevrolet,AVEO,2005,-1 km,Essence,Manuelle,5 CV,5,Occasion,13
+Chevrolet,AVEO,2005,200 km,Essence,Manuelle,5 CV,5,Occasion,0
+Citroen,JUMPER,2011,40 000 000 km,Diesel,Manuelle,7 CV,3,Occasion,23000
+Citroen,XSARA PICASSO,2005,263 000 000 km,Essence,Manuelle,7 CV,5,Occasion,30000000
+Toyota,RAV4,2014,170 000 km,Essence,Automatique,9 CV,5,Occasion,67000
+Hyundai,I10,2024,60 456 km,Essence,Manuelle,5 CV,5,Occasion,48500
+Kia,SPORTAGE,2019,100 km,Essence,Automatique,10 CV,5,Occasion,125000
+Volkswagen,Jetta,2016,135 km,Essence,Manuelle,7 CV,5,Occasion,47
+Peugeot,407,2009,400 000 km,Diesel,Manuelle,6 CV,5,Occasion,23500
+Volkswagen,Golf 6,2011,252 000 km,Essence,Manuelle,5 CV,5,Occasion,0
+Renault,Megane,2005,290 000 km,Diesel,Manuelle,7 CV,5,Occasion,18000
+Mahindra,KUV 100,2018,93 000 km,Essence,Manuelle,5 CV,5,Occasion,24500
+Chevrolet,AUTRE,2007,297 000 km,Essence,Manuelle,6 CV,5,Occasion,18000
+Peugeot,3008,2021,220 000 km,Essence,Automatique,7 CV,5,Occasion,73000
+Ford,FIESTA,1993,0 km,Essence,Manuelle,5 CV,5,Occasion,9000
+Peugeot,206,2001,250 km,Essence,Manuelle,5 CV,5,Occasion,18
+Mercedes,Classe E,2011,120 000 km,Diesel,Automatique,14 CV,5,Occasion,79000
+Bmw,316,2012,179 000 km,Essence,Automatique,7 CV,5,Occasion,45000
+Citroen,C3,2004,199 000 km,Essence,Manuelle,4 CV,5,Occasion,22000
+Peugeot,208,2017,113 000 km,Essence,Manuelle,5 CV,5,Occasion,23500
+Hyundai,I20,2015,230 000 km,Essence,Manuelle,4 CV,5,Occasion,32500
+Ford,FOCUS,2006,290 km,Essence,Manuelle,6 CV,5,Occasion,18500
+MG,MG RX8,2020,80 000 km,Essence,Manuelle,7 CV,5,Occasion,56000

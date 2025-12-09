@@ -1,0 +1,2263 @@
+Marque,Modèle,Année,Kilométrage,Carburant,Boîte_vitesse,Puissance_fiscale,Nombre_portes,Etat_generale,Prix
+Abarth,500,2011,180000,Essence,Manuelle,8,5,occasion,42500
+Alfa Romeo,Giulietta,2018,146,Essence,Manuelle,7,5,occasion,39500
+Alfa Romeo,Giulietta,2018,85,Essence,Manuelle,7,5,occasion,51000
+Alfa Romeo,Giulietta,2018,80,Essence,Manuelle,7,5,occasion,49000
+Alfa Romeo,Giulietta,2018,80,Essence,Automatique,9,5,occasion,47000
+Alfa Romeo,Giulietta,2018,85,Essence,Automatique,9,5,occasion,44000
+Alfa Romeo,Mito,2010,245000,Essence,Manuelle,5,3,occasion,26000
+Alfa Romeo,Stelvio,2019,98000,Essence,Automatique,17,5,occasion,137000
+Audi,A1 Sportback,2012,270,Diesel,Automatique,5,3,occasion,39500
+Audi,A1 Sportback,2017,128,Essence,Manuelle,6,4,occasion,54900
+Audi,A1 Sportback,2017,128,Essence,Automatique,6,5,occasion,83000
+Audi,A1 Sportback,2012,199,Diesel,Automatique,5,5,occasion,37500
+Audi,A1 Sportback,2012,270,Essence,Manuelle,5,5,occasion,43000
+Audi,A1 Sportback,2017,95,Essence,Automatique,7,4,occasion,56000
+Audi,A3 Berline,2019,122,Essence,Automatique,6,4,occasion,69000
+Audi,A3 Berline,2014,156,Essence,Manuelle,6,5,occasion,55500
+Audi,A3 Berline,2019,122,Essence,Automatique,6,4,occasion,85000
+Audi,A3 Berline,2019,178,Essence,Automatique,6,4,occasion,81000
+Audi,A3 Berline,2015,200,Essence,Manuelle,5,4,occasion,52000
+Audi,A3 Berline,2015,200,Essence,Manuelle,5,4,occasion,55000
+Audi,A3 Berline,2014,156,Essence,Manuelle,10,4,occasion,49000
+Audi,A3 Berline,2017,156,Essence,Manuelle,6,4,occasion,65000
+Audi,A3 Berline,2017,156,Essence,Automatique,6,4,occasion,72000
+Audi,A3 Berline,2016,86,Essence,Manuelle,6,4,occasion,60000
+Audi,A3 Sportback,2014,194,Essence,Manuelle,6,5,occasion,57000
+Audi,A3 Sportback,2025,3,Essence,Automatique,8,5,occasion,135000
+Audi,A3 Sportback,2025,4,Hybride rechargeable essence,Automatique,8,4,occasion,175000
+Audi,A3 Sportback,2016,160,Essence,Manuelle,5,5,occasion,49500
+Audi,A3 Sportback,2025,3,Hybride rechargeable essence,Automatique,8,4,occasion,175000
+Audi,A3 Sportback,2020,93,Diesel,Manuelle,6,5,occasion,87000
+Audi,A3 Sportback,2021,158,Essence,Manuelle,6,5,occasion,99500
+Audi,A3 Sportback,2014,194,Diesel,Manuelle,6,5,occasion,37500
+Audi,A3 Sportback,2021,158,Hybride rechargeable essence,Automatique,8,5,occasion,129000
+Audi,A3 Sportback,2020,93,Essence,Manuelle,6,5,occasion,70000
+Audi,A3 Sportback,2022,98,Essence,Automatique,8,5,occasion,120000
+Audi,A3,2014,194,Essence,Automatique,5,5,occasion,45500
+Audi,A3,2014,243,Essence,Manuelle,5,5,occasion,52000
+Audi,A3,2014,194,Diesel,Manuelle,6,5,occasion,39000
+Audi,A3,2014,243,Diesel,Manuelle,6,5,occasion,57000
+Audi,A4,2011,218,Essence,Manuelle,7,4,occasion,37000
+Audi,A4,2017,215,Essence,Automatique,8,4,occasion,79000
+Audi,A4,2017,168,Essence,Automatique,8,4,occasion,69000
+Audi,A4,2018,126,Essence,Automatique,8,5,occasion,82000
+Audi,A4,2013,202,Essence,Manuelle,7,4,occasion,40000
+Audi,A4,2013,202,Essence,Manuelle,7,4,occasion,49000
+Audi,A4,2017,215,Essence,Automatique,8,4,occasion,70000
+Audi,A4,2016,220,Essence,Manuelle,7,4,occasion,55000
+Audi,A4,2012,177,Essence,Automatique,7,4,occasion,43000
+Audi,A4,2018,97,Essence,Automatique,8,4,occasion,68000
+Audi,A4,2011,233,Diesel,Automatique,7,5,occasion,22000
+Audi,A4,2012,180,Essence,Manuelle,7,4,occasion,38000
+Audi,A4,2018,97,Essence,Automatique,8,4,occasion,73000
+Audi,A4,2015,67,Essence,Automatique,8,5,occasion,69000
+Audi,A4,2014,178,Essence,Manuelle,7,4,occasion,34000
+Audi,A4,2012,180,Essence,Manuelle,7,4,occasion,42000
+Audi,A5 Cabriolet,2012,150000,Essence,Automatique,9,2,occasion,65000
+Audi,A5 Sportback,2021,160,Essence,Automatique,8,5,occasion,140000
+Audi,A5 Sportback,2018,98,Essence,Automatique,8,5,occasion,88500
+Audi,A5 Sportback,2015,140,Diesel,Automatique,8,4,occasion,67000
+Audi,A5 Sportback,2021,94,Essence,Automatique,8,5,occasion,95000
+Audi,A5 Sportback,2020,97,Essence,Automatique,8,5,occasion,123000
+Audi,A5 Sportback,2018,98,Essence,Automatique,8,5,occasion,119000
+Audi,A5 Sportback,2020,164,Essence,Automatique,8,5,occasion,138000
+Audi,A5 Sportback,2020,140,Essence,Automatique,8,4,occasion,129000
+Audi,A5 Sportback,2021,96,Essence,Automatique,8,4,occasion,175000
+Audi,A5 Sportback,2021,79,Essence,Automatique,8,5,occasion,128000
+Audi,A5 Sportback,2020,97,Essence,Automatique,8,5,occasion,115000
+Audi,A5 Sportback,2020,125,Essence,Automatique,8,5,occasion,97000
+Audi,A5 Sportback,2020,158,Essence,Automatique,8,4,occasion,118000
+Audi,A5 Sportback,2018,215,Essence,Automatique,10,4,occasion,59000
+Audi,A5 Sportback,2021,96,Essence,Automatique,8,4,occasion,158000
+Audi,A5 Sportback,2018,115,Essence,Automatique,8,4,occasion,118000
+Audi,A6,2011,240,Essence,Automatique,11,4,occasion,42000
+Audi,A6,2012,239,Essence,Automatique,10,4,occasion,46000
+Audi,A6,2011,240,Diesel,Manuelle,9,4,occasion,64000
+Audi,A6,2012,239,Essence,Automatique,10,4,occasion,75000
+Audi,E Tron Sportback,2020,32000,Electrique,Automatique,12,5,occasion,159000
+Audi,E Tron,2019,55,Electrique,Automatique,12,5,occasion,160000
+Audi,E Tron,2020,72,Electrique,Automatique,12,5,occasion,170000
+Audi,E Tron,2020,72,Electrique,Automatique,12,4,occasion,180000
+Audi,Q2,2021,38,Essence,Automatique,8,5,occasion,97000
+Audi,Q2,2021,38,Essence,Automatique,8,4,occasion,116000
+Audi,Q2,2021,59,Essence,Automatique,8,5,occasion,110000
+Audi,Q2,2021,46,Essence,Automatique,8,5,occasion,119000
+Audi,Q2,2021,59,Essence,Automatique,6,4,occasion,85000
+Audi,Q3 Sportback,2021,85,Essence,Automatique,9,4,occasion,135000
+Audi,Q3 Sportback,2020,120,Hybride léger essence,Automatique,8,4,occasion,145000
+Audi,Q3 Sportback,2021,70,Hybride rechargeable essence,Automatique,8,5,occasion,160000
+Audi,Q3 Sportback,2022,45,Hybride rechargeable essence,Automatique,8,5,occasion,159000
+Audi,Q3 Sportback,2020,68,Essence,Automatique,9,4,occasion,168000
+Audi,Q3 Sportback,2022,45,Hybride rechargeable essence,Automatique,8,5,occasion,158000
+Audi,Q3 Sportback,2021,122,Essence,Automatique,9,5,occasion,139000
+Audi,Q3 Sportback,2020,116,Diesel,Automatique,8,5,occasion,150000
+Audi,Q3 Sportback,2021,70,Hybride rechargeable essence,Automatique,8,5,occasion,162000
+Audi,Q3 Sportback,2020,116,Essence,Manuelle,8,5,occasion,125000
+Audi,Q3 Sportback,2020,62,Essence,Automatique,9,5,occasion,140000
+Audi,Q3,2016,121,Essence,Automatique,8,5,occasion,78000
+Audi,Q3,2015,141,Essence,Automatique,10,5,occasion,68000
+Audi,Q3,2021,104,Essence,Automatique,9,5,occasion,155000
+Audi,Q3,2020,45,Essence,Automatique,9,4,occasion,115000
+Audi,Q3,2017,190,Essence,Automatique,8,5,occasion,82500
+Audi,Q3,2019,112,Essence,Automatique,9,5,occasion,117000
+Audi,Q3,2017,215,Essence,Automatique,8,5,occasion,81000
+Audi,Q3,2018,160,Essence,Automatique,8,5,occasion,99000
+Audi,Q3,2019,112,Hybride léger essence,Automatique,9,4,occasion,150000
+Audi,Q3,2017,215,Essence,Automatique,8,5,occasion,98000
+Audi,Q3,2019,129,Essence,Automatique,9,4,occasion,118000
+Audi,Q3,2018,71,Essence,Automatique,8,5,occasion,80000
+Audi,Q3,2017,125,Essence,Automatique,8,5,occasion,85000
+Audi,Q3,2017,64,Essence,Automatique,8,5,occasion,79000
+Audi,Q3,2017,190,Essence,Automatique,8,5,occasion,65500
+Audi,Q3,2017,190,Essence,Automatique,8,5,occasion,75000
+Audi,Q3,2023,70,Essence,Automatique,9,5,occasion,115000
+Audi,Q4 E Tron,2022,40000,Electrique,Automatique,11,4,occasion,170000
+Audi,Q5,2008,370,Essence,Automatique,13,4,occasion,45000
+Audi,Q5,2014,32,Essence,Manuelle,14,4,occasion,59000
+Audi,Q5,2009,194,Diesel,Automatique,15,5,occasion,60000
+Audi,Q5,2020,149,Essence,Automatique,12,5,occasion,195000
+Audi,Q5,2016,112,Essence,Automatique,15,5,occasion,90000
+Audi,Q5,2014,260,Diesel,Automatique,10,5,occasion,72000
+Audi,Q5,2016,112,Essence,Automatique,13,4,occasion,95000
+Audi,Q5,2016,69,Diesel,Automatique,8,5,occasion,96000
+Audi,Q5,2020,149,Hybride rechargeable essence,Automatique,15,5,occasion,205000
+Audi,Q5,2020,74,Hybride léger essence,Automatique,16,4,occasion,225000
+Audi,Q5,2016,69,Diesel,Manuelle,8,5,occasion,135000
+Audi,Q5,2020,111,Hybride léger diesel,Automatique,9,5,occasion,158000
+Audi,Q5,2019,85,Diesel,Automatique,11,5,occasion,136000
+Audi,Q5,2013,258,Diesel,Manuelle,8,5,occasion,78000
+Audi,Q5,2014,230,Diesel,Manuelle,8,5,occasion,119000
+Audi,Q5,2018,256,Diesel,Automatique,11,5,occasion,229500
+Audi,Q7,2010,262,Diesel,Automatique,16,4,occasion,99000
+Audi,Q7,2007,248,Diesel,Automatique,16,5,occasion,58000
+Audi,Q7,2008,350,Diesel,Automatique,16,5,occasion,59000
+Audi,Q7,2019,175,Diesel,Automatique,15,5,occasion,230000
+Audi,Q7,2008,350,Diesel,Automatique,16,5,occasion,64000
+Audi,Q7,2019,84,Essence,Automatique,16,5,occasion,395000
+Audi,Q7,2019,84,Diesel,Automatique,15,4,occasion,260000
+Audi,Q8 E Tron,2023,26000,Electrique,Automatique,12,5,occasion,185000
+Audi,Q8 Sportback E Tron,2025,214,Electrique,Automatique,12,4,occasion,300000
+Audi,Q8,2021,22,Hybride léger essence,Automatique,23,5,occasion,360000
+Audi,Q8,2021,22,Hybride léger essence,Automatique,23,5,occasion,350000
+Audi,Q8,2021,71,Hybride léger diesel,Automatique,19,4,occasion,288000
+Audi,Q8,2021,22,Hybride léger essence,Automatique,23,5,occasion,350000
+Audi,Tt,2022,42000,Essence,Automatique,15,3,occasion,235000
+Baic Yx,Kenbo S3,2018,110000,Essence,Manuelle,7,4,occasion,38000
+Bmw,I4,2025,3,Electrique,Automatique,6,4,occasion,176000
+Bmw,I4,2023,7,Electrique,Automatique,7,5,occasion,220000
+Bmw,Ix,2023,32000,Electrique,Automatique,7,4,occasion,228000
+Bmw,Ix3,2022,48,Electrique,Automatique,6,4,occasion,165000
+Bmw,Ix3,2022,51,Electrique,Automatique,6,5,occasion,167000
+Bmw,Serie 1 3P,2010,182000,Essence,Manuelle,7,3,occasion,36000
+Bmw,Serie 1 5P,2016,47,Essence,Automatique,9,4,occasion,62000
+Bmw,Serie 1 5P,2012,137,Essence,Automatique,7,4,occasion,48000
+Bmw,Serie 1 5P,2018,114,Essence,Manuelle,7,4,occasion,72000
+Bmw,Serie 1 5P,2020,124,Essence,Automatique,8,5,occasion,106000
+Bmw,Serie 1 5P,2018,112,Essence,Manuelle,7,4,occasion,85000
+Bmw,Serie 1 5P,2010,180,Essence,Manuelle,7,5,occasion,38000
+Bmw,Serie 1 5P,2020,124,Essence,Automatique,8,5,occasion,111000
+Bmw,Serie 1 5P,2021,92,Essence,Automatique,6,5,occasion,93000
+Bmw,Serie 1 5P,2025,793,Essence,Automatique,6,5,occasion,138000
+Bmw,Serie 1 5P,2012,200,Diesel,Manuelle,6,5,occasion,46000
+Bmw,Serie 1 5P,2020,100,Essence,Automatique,8,5,occasion,99500
+Bmw,Serie 1 5P,2010,200,Essence,Manuelle,7,3,occasion,36500
+Bmw,Serie 1 5P,2020,100,Essence,Automatique,8,5,occasion,84000
+Bmw,Serie 1 5P,2012,200,Essence,Automatique,7,5,occasion,50000
+Bmw,Serie 1 5P,2021,43,Essence,Automatique,8,5,occasion,108000
+Bmw,Serie 1 5P,2010,200,Essence,Manuelle,8,5,occasion,32000
+Bmw,Serie 1 5P,2013,260,Essence,Manuelle,7,5,occasion,44000
+Bmw,Serie 1 5P,2024,13,Essence,Automatique,8,5,occasion,145000
+Bmw,Serie 1 5P,2017,150,Essence,Automatique,7,5,occasion,94000
+Bmw,Serie 1 5P,2020,119,Essence,Manuelle,7,5,occasion,75000
+Bmw,Serie 1 5P,2016,47,Essence,Manuelle,7,4,occasion,56000
+Bmw,Serie 1 5P,2013,180,Essence,Automatique,7,5,occasion,54500
+Bmw,Serie 1 5P,2020,110,Essence,Automatique,8,5,occasion,78000
+Bmw,Serie 1 5P,2012,208,Essence,Automatique,7,5,occasion,49000
+Bmw,Serie 1 5P,2012,200,Essence,Manuelle,7,4,occasion,47000
+Bmw,Serie 2 Gran Coupe,2021,77,Essence,Automatique,8,4,occasion,135000
+Bmw,Serie 2 Gran Coupe,2022,34,Essence,Automatique,8,4,occasion,136000
+Bmw,Serie 2 Gran Coupe,2021,77,Essence,Automatique,8,4,occasion,105000
+Bmw,Serie 2 Gran Coupe,2021,59,Essence,Automatique,7,5,occasion,132000
+Bmw,Serie 2 Gran Coupe,2022,69,Essence,Automatique,8,4,occasion,128000
+Bmw,Serie 3 Cabriolet,2010,126000,Essence,Manuelle,19,2,occasion,85000
+Bmw,Serie 3 Coupe,2008,180,Essence,Manuelle,7,2,occasion,39900
+Bmw,Serie 3 Coupe,2009,232,Essence,Manuelle,7,2,occasion,57000
+Bmw,Serie 3 Coupe,2009,232,Essence,Automatique,9,3,occasion,35000
+Bmw,Serie 3 Gt,2015,200000,Essence,Automatique,7,5,occasion,90000
+Bmw,Serie 3,2018,135,Essence,Automatique,7,4,occasion,78000
+Bmw,Serie 3,2024,50,Hybride rechargeable essence,Automatique,9,4,occasion,179000
+Bmw,Serie 3,2013,174,Essence,Automatique,7,4,occasion,59000
+Bmw,Serie 3,2014,148,Essence,Automatique,7,5,occasion,57000
+Bmw,Serie 3,2012,161,Diesel,Manuelle,6,5,occasion,52500
+Bmw,Serie 3,2013,220,Essence,Automatique,10,4,occasion,64000
+Bmw,Serie 3,2015,195,Essence,Automatique,7,4,occasion,59000
+Bmw,Serie 3,2016,152,Essence,Automatique,7,4,occasion,67000
+Bmw,Serie 3,2014,148,Essence,Automatique,7,4,occasion,67000
+Bmw,Serie 3,2016,152,Essence,Automatique,7,5,occasion,75000
+Bmw,Serie 3,2015,216,Essence,Automatique,7,4,occasion,69000
+Bmw,Serie 3,2018,177,Essence,Automatique,7,4,occasion,78000
+Bmw,Serie 3,2015,77,Essence,Automatique,7,4,occasion,63000
+Bmw,Serie 3,2015,195,Essence,Automatique,10,5,occasion,74000
+Bmw,Serie 3,2013,127,Essence,Automatique,15,5,occasion,68000
+Bmw,Serie 3,2008,200,Essence,Manuelle,7,5,occasion,30500
+Bmw,Serie 3,2015,195,Essence,Automatique,7,4,occasion,54000
+Bmw,Serie 3,2019,100,Essence,Automatique,10,4,occasion,118000
+Bmw,Serie 3,2020,130,Essence,Automatique,9,4,occasion,134000
+Bmw,Serie 3,2015,214,Essence,Automatique,7,5,occasion,58000
+Bmw,Serie 3,2020,130,Essence,Automatique,7,5,occasion,85000
+Bmw,Serie 3,2010,128,Essence,Manuelle,7,4,occasion,42500
+Bmw,Serie 3,2009,167,Essence,Manuelle,7,5,occasion,42500
+Bmw,Serie 3,2012,295,Essence,Automatique,7,5,occasion,45000
+Bmw,Serie 3,2012,295,Essence,Automatique,7,4,occasion,53000
+Bmw,Serie 3,2012,161,Essence,Automatique,7,4,occasion,60000
+Bmw,Serie 3,2008,159,Diesel,Manuelle,9,4,occasion,33000
+Bmw,Serie 3,2015,180,Essence,Automatique,7,4,occasion,65000
+Bmw,Serie 3,2015,216,Essence,Automatique,7,4,occasion,62000
+Bmw,Serie 3,2008,159,Essence,Manuelle,7,5,occasion,39000
+Bmw,Serie 3,2014,265,Essence,Manuelle,7,4,occasion,52500
+Bmw,Serie 3,2013,220,Essence,Automatique,7,4,occasion,63000
+Bmw,Serie 3,2023,49,Hybride rechargeable essence,Automatique,10,4,occasion,280000
+Bmw,Serie 3,2014,265,Essence,Automatique,7,4,occasion,59000
+Bmw,Serie 3,2008,200,Essence,Automatique,9,4,occasion,40500
+Bmw,Serie 3,2017,195,Essence,Automatique,7,4,occasion,69000
+Bmw,Serie 3,2017,169,Essence,Automatique,7,4,occasion,79000
+Bmw,Serie 3,2016,101,Essence,Automatique,7,4,occasion,85000
+Bmw,Serie 4 Coupe,2014,140,Essence,Automatique,10,3,occasion,99000
+Bmw,Serie 4 Coupe,2014,140,Essence,Automatique,10,2,occasion,73000
+Bmw,Serie 4 Coupe,2015,179,Essence,Automatique,10,2,occasion,88000
+Bmw,Serie 4 Coupe,2015,179,Essence,Automatique,7,4,occasion,99000
+Bmw,Serie 4 Gran Coupe,2019,90,Essence,Automatique,7,4,occasion,125000
+Bmw,Serie 4 Gran Coupe,2017,132,Essence,Automatique,7,5,occasion,95000
+Bmw,Serie 4 Gran Coupe,2017,108,Essence,Automatique,7,5,occasion,74000
+Bmw,Serie 4 Gran Coupe,2017,108,Essence,Automatique,10,4,occasion,127000
+Bmw,Serie 4 Gran Coupe,2019,90,Essence,Automatique,7,5,occasion,105000
+Bmw,Serie 4 Gran Coupe,2020,50,Essence,Automatique,10,5,occasion,225000
+Bmw,Serie 4 Gran Coupe,2015,130,Essence,Automatique,10,5,occasion,83000
+Bmw,Serie 4 Gran Coupe,2015,175,Essence,Automatique,10,5,occasion,95000
+Bmw,Serie 4 Gran Coupe,2020,50,Essence,Automatique,7,5,occasion,107000
+Bmw,Serie 4 Gran Coupe,2020,132,Essence,Automatique,7,5,occasion,128000
+Bmw,Serie 4 Gran Coupe,2019,99,Essence,Automatique,7,4,occasion,117000
+Bmw,Serie 5,2012,230,Essence,Automatique,10,4,occasion,79500
+Bmw,Serie 5,2021,18,Hybride léger diesel,Automatique,10,4,occasion,209000
+Bmw,Serie 5,2007,216,Diesel,Manuelle,10,5,occasion,57500
+Bmw,Serie 5,2020,140,Hybride rechargeable essence,Automatique,10,5,occasion,189000
+Bmw,Serie 5,2013,179,Diesel,Automatique,12,4,occasion,76000
+Bmw,Serie 5,2019,67,Essence,Automatique,10,4,occasion,134500
+Bmw,Serie 5,2019,47,Hybride rechargeable essence,Automatique,10,4,occasion,160000
+Bmw,Serie 5,2021,84,Essence,Automatique,10,4,occasion,195000
+Bmw,Serie 5,2021,53,Hybride rechargeable essence,Automatique,10,5,occasion,145000
+Bmw,Serie 5,2012,202,Essence,Automatique,10,4,occasion,59500
+Bmw,Serie 5,2022,80,Essence,Automatique,10,4,occasion,197000
+Bmw,Serie 5,2011,320,Essence,Automatique,10,4,occasion,70000
+Bmw,Serie 5,2021,18,Hybride rechargeable essence,Automatique,10,4,occasion,205000
+Bmw,Serie 5,2008,224,Essence,Automatique,13,5,occasion,42000
+Bmw,Serie 5,2008,224,Diesel,Automatique,10,4,occasion,42500
+Bmw,Serie 5,2019,129,Hybride rechargeable essence,Automatique,8,4,occasion,150000
+Bmw,Serie 5,2012,202,Diesel,Automatique,10,4,occasion,61000
+Bmw,Serie 5,2019,14,Essence,Automatique,10,4,occasion,160000
+Bmw,Serie 5,2019,14,Essence,Automatique,10,4,occasion,195000
+Bmw,Serie 6,2005,50,Essence,Automatique,24,3,occasion,120000
+Bmw,Serie 6,2005,50,Essence,Automatique,24,2,occasion,120000
+Bmw,Serie 7,2010,200,Diesel,Automatique,20,4,occasion,155500
+Bmw,Serie 7,2008,220,Essence,Automatique,32,5,occasion,85000
+Bmw,Serie 7,2008,220,Diesel,Automatique,15,5,occasion,45000
+Bmw,Serie 7,2012,200,Essence,Automatique,15,4,occasion,310000
+Bmw,Serie 7,2006,368,Essence,Automatique,36,4,occasion,25000
+Bmw,Serie 7,2006,368,Essence,Automatique,22,,occasion,55000
+Bmw,X1,2017,260,Essence,Automatique,7,5,occasion,81000
+Bmw,X1,2025,3,Hybride rechargeable essence,Automatique,8,4,occasion,238000
+Bmw,X1,2020,64,Essence,Automatique,8,5,occasion,119000
+Bmw,X1,2019,79,Essence,Automatique,7,5,occasion,97000
+Bmw,X1,2024,22,Essence,Automatique,9,5,occasion,188200
+Bmw,X1,2017,121,Diesel,Manuelle,6,5,occasion,60000
+Bmw,X1,2020,64,Essence,Automatique,7,5,occasion,105000
+Bmw,X1,2017,133,Essence,Automatique,9,5,occasion,57000
+Bmw,X1,2017,121,Essence,Automatique,7,4,occasion,72000
+Bmw,X2,2019,79,Essence,Automatique,7,5,occasion,132000
+Bmw,X2,2020,62,Diesel,Automatique,8,5,occasion,145000
+Bmw,X2,2020,70,Essence,Automatique,7,4,occasion,120000
+Bmw,X2,2020,70,Essence,Automatique,11,5,occasion,145000
+Bmw,X3,2013,200,Diesel,Automatique,13,4,occasion,52000
+Bmw,X3,2019,56,Essence,Automatique,15,4,occasion,92000
+Bmw,X3,2020,80,Essence,Automatique,15,5,occasion,250000
+Bmw,X3,2014,185,Diesel,Manuelle,10,5,occasion,75000
+Bmw,X3,2014,219,Diesel,Automatique,10,5,occasion,87000
+Bmw,X3,2019,56,Essence,Automatique,15,5,occasion,210000
+Bmw,X3,2021,18,Diesel,Automatique,8,5,occasion,170000
+Bmw,X3,2020,80,Diesel,Automatique,7,4,occasion,185000
+Bmw,X3,2019,72,Diesel,Automatique,11,5,occasion,185000
+Bmw,X3,2014,185,Essence,Automatique,9,5,occasion,75000
+Bmw,X4,2019,51000,Essence,Automatique,11,5,occasion,280000
+Bmw,X5,2007,270,Diesel,Automatique,16,4,occasion,52000
+Bmw,X5,2010,211,Diesel,Automatique,19,5,occasion,86000
+Bmw,X5,2017,105,Diesel,Automatique,14,4,occasion,265000
+Bmw,X5,2016,70,Diesel,Automatique,13,4,occasion,123000
+Bmw,X5,2007,295,Diesel,Automatique,15,5,occasion,55000
+Bmw,X5,2016,226,Essence,Automatique,48,5,occasion,297000
+Bmw,X5,2015,152,Diesel,Automatique,13,5,occasion,135000
+Bmw,X5,2016,70,Diesel,Automatique,13,5,occasion,185000
+Bmw,X5,2010,159,Diesel,Automatique,16,5,occasion,70000
+Bmw,X5,2015,185,Diesel,Automatique,13,5,occasion,123000
+Bmw,X5,2007,295,Diesel,Automatique,15,5,occasion,66000
+Bmw,X5,2007,362,Essence,Automatique,16,5,occasion,29000
+Bmw,X5,2010,159,Essence,Automatique,19,5,occasion,75000
+Bmw,X6,2011,193,Diesel,Automatique,15,4,occasion,109000
+Bmw,X6,2016,90,Diesel,Automatique,16,5,occasion,265000
+Bmw,X6,2019,90,Essence,Automatique,34,5,occasion,198000
+Bmw,X6,2011,195,Diesel,Automatique,15,5,occasion,99000
+Bmw,X6,2008,291,Essence,Automatique,22,5,occasion,89000
+Bmw,X6,2008,175,Diesel,Automatique,11,4,occasion,80000
+Bmw,Z4,2010,147000,Essence,Automatique,13,2,occasion,98000
+Byd,Sealion 7,2025,1,Electrique,Automatique,5,5,occasion,220000
+Byd,Sealion 7,2025,1,Electrique,Automatique,5,5,occasion,189000
+Byd,Song Plus,2025,10,Hybride rechargeable essence,Automatique,7,5,occasion,123500
+Byd,Song,2022,45000,Essence,Automatique,9,4,occasion,84000
+Byd,Tang,2023,44000,Essence,Automatique,11,5,occasion,97000
+Cadillac,Ats,2014,58000,Essence,Automatique,18,5,occasion,79000
+Cadillac,Escalade,2013,134000,Essence,Automatique,34,5,occasion,180000
+Chery,Arrizo 3,2019,130000,Essence,Manuelle,6,5,occasion,32000
+Chery,Arrizo 5,2024,22,Essence,Manuelle,7,4,occasion,51500
+Chery,Arrizo 5,2024,22,Essence,Automatique,7,4,occasion,79500
+Chery,Arrizo 5,2024,10,Essence,Manuelle,7,5,occasion,50500
+Chery,Tiggo 2,2020,88,Essence,Manuelle,6,4,occasion,39000
+Chery,Tiggo 2,2020,120,Essence,Manuelle,6,5,occasion,42000
+Chery,Tiggo 2,2020,88,Essence,Manuelle,6,5,occasion,41000
+Chery,Tiggo 2,2020,120,Essence,Manuelle,6,5,occasion,37000
+Chery,Tiggo 3X,2022,26,Essence,Automatique,6,5,occasion,52000
+Chery,Tiggo 3X,2023,5,Essence,Manuelle,6,5,occasion,61000
+Chery,Tiggo 3X,2022,68,Essence,Automatique,6,5,occasion,55000
+Chery,Tiggo 3X,2021,33,Essence,Automatique,6,5,occasion,54000
+Chery,Tiggo 3X,2023,5,Essence,Automatique,6,5,occasion,73000
+Chery,Tiggo 3X,2023,5,Essence,Automatique,6,5,occasion,64600
+Chery,Tiggo 3X,2022,43,Essence,Automatique,6,4,occasion,60000
+Chery,Tiggo 3X,2022,12,Essence,Automatique,6,4,occasion,46000
+Chery,Tiggo 3X,2021,29,Essence,Automatique,6,5,occasion,56000
+Chery,Tiggo 3X,2022,43,Essence,Automatique,6,5,occasion,57000
+Chery,Tiggo 4,2019,120000,Essence,Manuelle,9,5,occasion,58000
+Chery,Tiggo 7,2022,85,Essence,Automatique,9,5,occasion,79500
+Chery,Tiggo 7,2023,35,Essence,Automatique,9,5,occasion,113800
+Chery,Tiggo 7,2021,116,Essence,Automatique,9,5,occasion,56000
+Chery,Tiggo 7,2021,116,Essence,Automatique,9,5,occasion,74000
+Chery,Tiggo 7,2021,116,Essence,Automatique,9,5,occasion,77000
+Chery,Tiggo 7,2022,78,Essence,Automatique,9,5,occasion,75000
+Chery,Tiggo 7,2022,45,Essence,Automatique,9,5,occasion,85972
+Chery,Tiggo 7,2023,66,Essence,Automatique,9,5,occasion,82000
+Chery,Tiggo 7,2022,85,Essence,Automatique,9,5,occasion,65000
+Chery,Tiggo 8 Pro,2023,22,Essence,Automatique,11,5,occasion,87000
+Chery,Tiggo 8 Pro,2023,11,Essence,Automatique,11,5,occasion,82000
+Chery,Tiggo 8 Pro,2023,22,Essence,Automatique,11,5,occasion,91000
+Chery,Tiggo 8 Pro,2023,11,Essence,Automatique,11,5,occasion,95000
+Chevrolet,Aveo,2008,159,Essence,Manuelle,5,5,occasion,22000
+Chevrolet,Aveo,2008,159,Essence,Manuelle,5,5,occasion,22000
+Chevrolet,Camaro,2014,30,Essence,Manuelle,21,2,occasion,130000
+Chevrolet,Camaro,2015,135,Essence,Automatique,21,2,occasion,154600
+Chevrolet,Captiva,2022,140,Diesel,Manuelle,9,4,occasion,67000
+Chevrolet,Captiva,2023,18,Essence,Automatique,9,5,occasion,70000
+Chevrolet,Captiva,2023,23,Essence,Automatique,9,5,occasion,86000
+Chevrolet,Captiva,2023,18,Essence,Automatique,9,5,occasion,87000
+Chevrolet,Cruze,2018,150000,Essence,Manuelle,7,4,occasion,36000
+Chevrolet,Groove,2022,67000,Essence,Automatique,6,5,occasion,68000
+Chevrolet,Groove,2022,67,Essence,Automatique,6,5,occasion,103045
+Chevrolet,Sonic 4P,2016,133000,Essence,Manuelle,5,5,occasion,29000
+Chevrolet,Sonic,2020,188000,Essence,Manuelle,5,5,occasion,43000
+Chevrolet,Spark,2016,127000,Essence,Manuelle,5,5,occasion,26500
+Chrysler,300C,2008,153000,Essence,Automatique,17,5,occasion,55000
+Citroen,Berlingo Multispace,2020,57,Diesel,Automatique,7,4,occasion,85000
+Citroen,Berlingo Multispace,2018,150,Diesel,Manuelle,7,3,occasion,35000
+Citroen,Berlingo Multispace,2020,57,Diesel,Manuelle,5,5,occasion,56000
+Citroen,Berlingo Multispace,2021,75,Essence,Manuelle,6,5,occasion,80000
+Citroen,Berlingo Utilitaire,2018,338,Diesel,Manuelle,5,4,occasion,48000
+Citroen,Berlingo Utilitaire,2016,64,Diesel,Manuelle,6,4,occasion,28000
+Citroen,Berlingo Utilitaire,2016,64,Diesel,Manuelle,5,2,occasion,26500
+Citroen,Berlingo Van,2020,84,Diesel,Automatique,7,4,occasion,65000
+Citroen,Berlingo Van,2022,155,Diesel,Manuelle,5,5,occasion,51000
+Citroen,Berlingo Van,2022,92,Diesel,Manuelle,5,2,occasion,50000
+Citroen,Berlingo Van,2021,200,Diesel,Manuelle,5,4,occasion,55000
+Citroen,Berlingo Van,2022,155,Diesel,Manuelle,5,5,occasion,38000
+Citroen,Berlingo Van,2021,140,Diesel,Manuelle,5,4,occasion,44000
+Citroen,C Elysee,2014,158000,Essence,Manuelle,5,4,occasion,25500
+Citroen,C3 Aircross,2020,61000,Essence,Automatique,7,5,occasion,56000
+Citroen,C3,2019,81,Essence,Manuelle,4,5,occasion,44000
+Citroen,C3,2019,85,Essence,Manuelle,4,5,occasion,44000
+Citroen,C3,2018,80,Essence,Manuelle,4,5,occasion,35900
+Citroen,C3,2018,172,Essence,Manuelle,4,5,occasion,40900
+Citroen,C3,2017,72,Essence,Manuelle,4,4,occasion,36000
+Citroen,C3,2019,69,Essence,Manuelle,4,5,occasion,34000
+Citroen,C3,2018,80,Essence,Manuelle,4,4,occasion,35000
+Citroen,C3,2009,309,Essence,Manuelle,5,5,occasion,23000
+Citroen,C3,2019,80,Essence,Manuelle,4,5,occasion,39500
+Citroen,C3,2019,80,Essence,Manuelle,4,5,occasion,33000
+Citroen,C3,2018,84,Essence,Manuelle,4,5,occasion,40000
+Citroen,C3,2009,210,Essence,Manuelle,5,5,occasion,22500
+Citroen,C3,2009,309,Essence,Manuelle,4,5,occasion,19500
+Citroen,C3,2019,81,Essence,Manuelle,4,4,occasion,35000
+Citroen,C4 Cactus,2019,98,Diesel,Manuelle,5,4,occasion,58000
+Citroen,C4 Cactus,2016,125,Essence,Manuelle,5,4,occasion,37000
+Citroen,C4 Cactus,2019,98,Essence,Manuelle,5,4,occasion,41000
+Citroen,C4 Cactus,2016,125,Essence,Manuelle,5,5,occasion,35900
+Citroen,C4 Cactus,2019,148,Essence,Manuelle,5,5,occasion,42000
+Citroen,C4 Cactus,2016,125,Essence,Manuelle,5,5,occasion,33000
+Citroen,C4 Cactus,2016,124,Essence,Manuelle,5,5,occasion,31500
+Citroen,C4 Picasso,2013,145,Diesel,Manuelle,6,5,occasion,45000
+Citroen,C4 Picasso,2014,235,Diesel,Automatique,6,5,occasion,43000
+Citroen,C4 X,2021,142000,Diesel,Manuelle,6,4,occasion,69900
+Citroen,C4,2014,200,Diesel,Manuelle,6,4,occasion,39000
+Citroen,C4,2014,222,Essence,Manuelle,6,4,occasion,24000
+Citroen,C4,2014,222,Essence,Manuelle,6,5,occasion,25000
+Citroen,C4,2014,200,Diesel,Automatique,7,5,occasion,68000
+Citroen,C5 Aircross,2019,128,Diesel,Manuelle,7,5,occasion,70000
+Citroen,C5 Aircross,2019,200,Essence,Manuelle,7,5,occasion,59950
+Citroen,C5,2010,290,Diesel,Manuelle,6,4,occasion,31500
+Citroen,C5,2010,280,Diesel,Manuelle,6,4,occasion,30000
+Citroen,C5,2010,290,Diesel,Manuelle,6,5,occasion,28000
+Citroen,Ds5,2012,200,Diesel,Automatique,6,4,occasion,48500
+Citroen,Ds5,2013,263,Diesel,Automatique,9,4,occasion,11000
+Citroen,Jumper,2018,269000,Diesel,Manuelle,7,5,occasion,39900
+Citroen,Jumpy Combi,2020,160,Diesel,Manuelle,6,5,occasion,82000
+Citroen,Jumpy Combi,2018,124,Diesel,Manuelle,6,4,occasion,79000
+Citroen,Jumpy Fourgon,2020,120,Diesel,Manuelle,7,3,occasion,65000
+Citroen,Jumpy Fourgon,2021,64,Diesel,Manuelle,7,3,occasion,64000
+Citroen,Jumpy Fourgon,2019,170,Diesel,Manuelle,6,3,occasion,55000
+Citroen,Jumpy Fourgon,2022,123,Diesel,Manuelle,8,5,occasion,62700
+Citroen,Nemo,2013,330000,Diesel,Manuelle,6,4,occasion,23000
+Cupra,Formentor,2022,43,Hybride rechargeable essence,Automatique,8,4,occasion,125000
+Cupra,Formentor,2022,43,Hybride rechargeable essence,Automatique,8,4,occasion,129000
+Cupra,Formentor,2022,43,Essence,Automatique,11,5,occasion,137000
+Cupra,Formentor,2024,26,Essence,Automatique,11,5,occasion,125000
+Cupra,Formentor,2024,44,Essence,Automatique,11,5,occasion,135000
+Cupra,Formentor,2024,44,Essence,Automatique,11,5,occasion,135000
+Cupra,Leon,2023,80,Essence,Automatique,8,4,occasion,125000
+Cupra,Leon,2023,43,Essence,Automatique,8,5,occasion,127000
+Dacia,Dokker Van,2021,135,Diesel,Manuelle,5,3,occasion,29000
+Dacia,Dokker Van,2019,225,Diesel,Manuelle,6,4,occasion,29500
+Dacia,Dokker Van,2019,145,Diesel,Manuelle,6,4,occasion,27000
+Dacia,Dokker Van,2021,154,Diesel,Manuelle,6,4,occasion,35000
+Dacia,Dokker Van,2016,215,Diesel,Manuelle,6,4,occasion,27500
+Dacia,Dokker Van,2021,135,Diesel,Manuelle,6,4,occasion,34000
+Dacia,Dokker Van,2016,215,Diesel,Manuelle,6,4,occasion,26000
+Dacia,Dokker Van,2019,225,Diesel,Manuelle,6,4,occasion,26000
+Dacia,Duster,2015,78,Diesel,Manuelle,6,5,occasion,69000
+Dacia,Duster,2014,141,Essence,Manuelle,7,5,occasion,35900
+Dacia,Duster,2014,175,Essence,Manuelle,7,5,occasion,34000
+Dacia,Duster,2014,175,Essence,Automatique,9,5,occasion,40000
+Dacia,Duster,2014,141,Essence,Manuelle,7,5,occasion,40000
+Dacia,Lodgy,2024,6000,Diesel,Manuelle,5,5,occasion,69000
+Dacia,Logan Mcv,2012,161,Essence,Manuelle,5,5,occasion,38500
+Dacia,Logan Mcv,2015,187,Essence,Manuelle,5,5,occasion,42500
+Dacia,Logan Mcv,2015,187,Diesel,Manuelle,4,5,occasion,30000
+Dacia,Logan,2023,31,Essence,Manuelle,5,4,occasion,45000
+Dacia,Logan,2023,31,Essence,Manuelle,5,4,occasion,39500
+Dacia,Logan,2023,97,Essence,Manuelle,5,4,occasion,43500
+Dacia,Sandero Stepway,2021,98,Essence,Manuelle,5,5,occasion,43500
+Dacia,Sandero Stepway,2020,158,Essence,Manuelle,5,5,occasion,47500
+Dacia,Sandero,2014,184,Essence,Manuelle,5,5,occasion,39000
+Dacia,Sandero,2014,180,Essence,Manuelle,5,5,occasion,35500
+Dfsk,Glory 500,2025,3000,Essence,Automatique,7,5,occasion,73500
+Dfsk,Glory 580,2022,68000,Essence,Manuelle,8,5,occasion,77000
+Dfsk,K01H,2021,40,Essence,Manuelle,7,4,occasion,30000
+Dfsk,K01H,2018,27,Essence,Manuelle,6,2,occasion,26900
+Dongfeng,S50,2020,78,Essence,Manuelle,6,4,occasion,39500
+Dongfeng,S50,2019,24,Essence,Manuelle,6,4,occasion,46000
+Dongfeng,Sx3,2021,32,Essence,Manuelle,8,5,occasion,52000
+Dongfeng,Sx3,2021,43,Essence,Manuelle,8,5,occasion,56000
+Dongfeng,Sx3,2021,83,Essence,Manuelle,8,5,occasion,46900
+Dongfeng,Sx3,2021,32,Essence,Manuelle,8,5,occasion,52000
+Dongfeng,Sx3,2021,83,Essence,Manuelle,8,5,occasion,65000
+Dongfeng,T5 Evo,2024,19000,Essence,Automatique,9,5,occasion,154000
+Ds,3,2016,143,Essence,Manuelle,5,4,occasion,28500
+Ds,3,2013,147,Essence,Manuelle,5,3,occasion,33000
+Ds,7 Crossback,2020,144,Essence,Automatique,10,5,occasion,93000
+Ds,7 Crossback,2020,79,Essence,Automatique,10,5,occasion,90000
+Faw,Bestune T77,2022,48900,Essence,Automatique,9,5,occasion,131120
+Fiat,500 C,2020,20000,Essence,Manuelle,4,2,occasion,59000
+Fiat,500,2014,126,Essence,Manuelle,4,2,occasion,45500
+Fiat,500,2020,81,Hybride léger essence,Manuelle,4,2,occasion,53000
+Fiat,500,2017,39,Essence,Manuelle,4,2,occasion,31000
+Fiat,500,2021,79,Essence,Automatique,4,3,occasion,52000
+Fiat,500,2022,59,Essence,Automatique,4,3,occasion,55000
+Fiat,500,2020,81,Essence,Manuelle,4,3,occasion,43500
+Fiat,500,2021,79,Essence,Manuelle,4,4,occasion,44500
+Fiat,Doblo Combi,2021,51500,Essence,Manuelle,6,5,occasion,50500
+Fiat,Doblo Maxi,2021,90000,Diesel,Manuelle,5,3,occasion,35500
+Fiat,Doblo,2021,110,Diesel,Manuelle,5,5,occasion,43800
+Fiat,Doblo,2023,38,Diesel,Manuelle,5,2,occasion,33000
+Fiat,Doblo,2021,110,Diesel,Manuelle,5,4,occasion,18000
+Fiat,Ducato,2022,38000,Diesel,Manuelle,8,5,occasion,75000
+Fiat,Fiorino,2024,23,Diesel,Manuelle,5,2,occasion,61000
+Fiat,Fiorino,2020,200,Diesel,Manuelle,5,2,occasion,31000
+Fiat,Fiorino,2024,23,Diesel,Manuelle,5,2,occasion,38000
+Fiat,Fiorino,2021,123,Diesel,Manuelle,5,2,occasion,29000
+Fiat,Fiorino,2020,112,Diesel,Manuelle,6,2,occasion,34000
+Fiat,Fiorino,2022,62,Diesel,Manuelle,5,2,occasion,32500
+Fiat,Fiorino,2020,112,Diesel,Manuelle,5,2,occasion,27500
+Fiat,Fiorino,2023,47,Diesel,Manuelle,5,4,occasion,43000
+Fiat,Grande Punto,2010,207,Essence,Manuelle,5,5,occasion,22800
+Fiat,Grande Punto,2010,189,Essence,Manuelle,4,4,occasion,21500
+Fiat,Grande Punto,2017,143,Essence,Manuelle,4,4,occasion,32000
+Fiat,Grande Punto,2010,207,Essence,Manuelle,5,5,occasion,22500
+Fiat,Grande Punto,2018,190,Essence,Manuelle,4,5,occasion,28000
+Fiat,Panda City Cross,2022,83,Essence,Manuelle,4,5,occasion,39700
+Fiat,Panda City Cross,2022,97,Essence,Manuelle,4,5,occasion,39000
+Fiat,Panda City Cross,2022,97,Essence,Manuelle,4,5,occasion,40500
+Fiat,Panda,2021,90,Essence,Manuelle,4,5,occasion,34000
+Fiat,Panda,2021,90,Essence,Manuelle,4,5,occasion,36000
+Fiat,Panda,2017,61,Essence,Manuelle,4,5,occasion,29000
+Fiat,Panda,2021,90,Essence,Automatique,4,5,occasion,36000
+Fiat,Punto Easy,2017,93000,Essence,Manuelle,4,4,occasion,29000
+Fiat,Tipo Berline,2023,43,Essence,Manuelle,5,5,occasion,59500
+Fiat,Tipo Berline,2022,26,Essence,Manuelle,5,4,occasion,59000
+Fiat,Tipo,2023,32721,Essence,Manuelle,5,5,occasion,70000
+Ford,Ecosport,2023,42,Essence,Manuelle,7,4,occasion,73000
+Ford,Ecosport,2020,129,Essence,Manuelle,7,4,occasion,58000
+Ford,Ecosport,2019,67,Essence,Automatique,7,4,occasion,55000
+Ford,Ecosport,2020,49,Essence,Automatique,7,5,occasion,52000
+Ford,Ecosport,2021,99,Essence,Manuelle,7,4,occasion,58000
+Ford,Ecosport,2018,230,Essence,Manuelle,7,5,occasion,58000
+Ford,Ecosport,2021,99,Essence,Automatique,7,5,occasion,53000
+Ford,Ecosport,2020,129,Essence,Manuelle,7,5,occasion,58000
+Ford,Ecosport,2019,100,Essence,Automatique,7,5,occasion,60000
+Ford,Ecosport,2022,26,Essence,Manuelle,7,5,occasion,71000
+Ford,Ecosport,2019,67,Essence,Manuelle,7,5,occasion,68000
+Ford,Ecosport,2021,130,Essence,Automatique,7,5,occasion,59900
+Ford,Ecosport,2018,80,Essence,Automatique,7,5,occasion,43000
+Ford,Ecosport,2023,42,Essence,Manuelle,7,5,occasion,69900
+Ford,Ecosport,2021,54,Essence,Manuelle,7,5,occasion,57000
+Ford,Ecosport,2020,49,Essence,Manuelle,7,5,occasion,56000
+Ford,Fiesta,2020,78,Diesel,Manuelle,4,4,occasion,47000
+Ford,Fiesta,2020,78,Essence,Manuelle,4,5,occasion,43000
+Ford,Fiesta,2013,166,Essence,Manuelle,5,5,occasion,28500
+Ford,Fiesta,2020,109,Essence,Manuelle,4,5,occasion,42000
+Ford,Fiesta,2015,172,Essence,Manuelle,5,5,occasion,36500
+Ford,Fiesta,2020,59,Essence,Manuelle,4,5,occasion,36500
+Ford,Fiesta,2012,200,Essence,Manuelle,5,5,occasion,28000
+Ford,Fiesta,2014,199,Essence,Manuelle,5,5,occasion,32500
+Ford,Fiesta,2015,200,Essence,Manuelle,5,5,occasion,36500
+Ford,Fiesta,2015,172,Essence,Manuelle,5,5,occasion,30000
+Ford,Fiesta,2014,199,Essence,Manuelle,5,5,occasion,33500
+Ford,Fiesta,2020,180,Essence,Manuelle,4,5,occasion,40000
+Ford,Figo,2013,122000,Essence,Manuelle,5,5,occasion,25500
+Ford,Focus Berline,2023,33500,Essence,Automatique,7,4,occasion,83448
+Ford,Focus,2018,134,Essence,Automatique,7,4,occasion,50000
+Ford,Focus,2017,101,Essence,Automatique,7,5,occasion,46000
+Ford,Focus,2018,134,Essence,Automatique,7,5,occasion,39500
+Ford,Focus,2016,112,Essence,Manuelle,7,5,occasion,35000
+Ford,Focus,2018,132,Essence,Automatique,6,5,occasion,70000
+Ford,Focus,2017,101,Essence,Manuelle,6,6,occasion,40000
+Ford,Fusion,2021,27,Essence,Manuelle,9,5,occasion,57000
+Ford,Fusion,2021,27,Essence,Automatique,9,4,occasion,67000
+Ford,Fusion,2022,67,Essence,Automatique,9,4,occasion,98000
+Ford,Fusion,2021,27,Essence,Automatique,9,4,occasion,70000
+Ford,Kuga,2017,127,Essence,Automatique,11,5,occasion,65000
+Ford,Kuga,2017,208,Essence,Manuelle,8,6,occasion,56500
+Ford,Kuga,2019,172,Essence,Manuelle,8,5,occasion,75000
+Ford,Kuga,2022,78,Essence,Automatique,8,5,occasion,93900
+Ford,Kuga,2022,59,Essence,Automatique,10,5,occasion,90000
+Ford,Kuga,2019,87,Essence,Manuelle,8,5,occasion,62000
+Ford,Kuga,2019,87,Essence,Manuelle,8,5,occasion,72000
+Ford,Kuga,2019,172,Essence,Manuelle,8,5,occasion,56000
+Ford,Mondeo,2014,294400,Essence,Manuelle,7,4,occasion,34500
+Ford,Mustang,2016,36,Essence,Automatique,28,2,occasion,115000
+Ford,Mustang,2018,65,Essence,Automatique,21,3,occasion,160000
+Ford,Mustang,2018,65,Essence,Automatique,21,3,occasion,185000
+Ford,Mustang,2018,50,Essence,Automatique,19,3,occasion,175000
+Ford,Mustang,2017,57,Essence,Automatique,33,4,occasion,215000
+Ford,Ranger Raptor,2017,200,Diesel,Automatique,7,4,occasion,195000
+Ford,Ranger Raptor,2021,45,Diesel,Manuelle,7,4,occasion,115000
+Ford,Ranger,2015,180,Diesel,Automatique,7,4,occasion,68000
+Ford,Ranger,2015,180,Diesel,Automatique,7,5,occasion,140000
+Ford,Ranger,2014,191,Diesel,Manuelle,7,4,occasion,92500
+Ford,Ranger,2014,191,Diesel,Manuelle,7,4,occasion,85000
+Ford,Ranger,2013,230,Diesel,Manuelle,10,5,occasion,35500
+Ford,Transit Custom,2016,670800,Diesel,Manuelle,7,4,occasion,30000
+Foton,Aumark Tx 3511,2018,103000,Diesel,Manuelle,9,2,occasion,50000
+Foton,Tunland,2019,50000,Diesel,Manuelle,9,2,occasion,48000
+Geely,Azkara,2023,71300,Hybride essence,Automatique,9,5,occasion,90000
+Geely,Coolray,2024,17000,Essence,Automatique,10,5,occasion,80000
+Geely,Gc 6,2019,140000,Essence,Manuelle,6,5,occasion,28000
+Geely,Gx3,2021,73,Essence,Automatique,6,5,occasion,55000
+Geely,Gx3,2021,57,Essence,Manuelle,6,5,occasion,45000
+Geely,Gx3,2021,80,Essence,Manuelle,6,5,occasion,45000
+Geely,Gx3,2021,53,Essence,Manuelle,6,5,occasion,47000
+Geely,Gx3,2021,73,Essence,Automatique,6,5,occasion,52000
+Geely,Gx3,2021,78,Essence,Manuelle,6,5,occasion,45000
+Great Wall,H2,2020,142,Essence,Automatique,9,5,occasion,59000
+Great Wall,H2,2019,157,Essence,Automatique,9,5,occasion,59500
+Great Wall,H2,2020,142,Essence,Automatique,9,5,occasion,62000
+Great Wall,H5,2018,163000,Diesel,Manuelle,9,5,occasion,55000
+Great Wall,H6,2023,72,Essence,Automatique,8,4,occasion,126000
+Great Wall,H6,2021,96,Essence,Automatique,9,5,occasion,74000
+Great Wall,H6,2020,62,Essence,Automatique,9,4,occasion,78000
+Great Wall,H6,2022,50,Essence,Automatique,8,5,occasion,110000
+Great Wall,H6,2022,144,Essence,Automatique,8,5,occasion,94500
+Great Wall,H6,2023,120,Essence,Automatique,8,5,occasion,120000
+Great Wall,H6,2023,11,Hybride essence,Automatique,8,5,occasion,139000
+Great Wall,H6,2023,120,Essence,Automatique,8,5,occasion,115000
+Great Wall,H6,2020,95,Essence,Automatique,9,5,occasion,69000
+Great Wall,H6,2018,234,Essence,Automatique,9,5,occasion,61000
+Great Wall,H6,2022,80,Essence,Automatique,8,5,occasion,89000
+Great Wall,H6,2018,125,Essence,Automatique,9,5,occasion,52000
+Great Wall,H6,2022,50,Essence,Automatique,8,5,occasion,94500
+Great Wall,H6,2022,144,Essence,Automatique,8,5,occasion,105000
+Great Wall,H6,2020,116,Essence,Automatique,9,5,occasion,68900
+Great Wall,H6,2019,80,Essence,Automatique,9,5,occasion,74000
+Great Wall,H6,2022,22,Essence,Automatique,8,5,occasion,100000
+Great Wall,H6,2021,99,Essence,Automatique,9,5,occasion,79000
+Great Wall,H6,2021,96,Essence,Automatique,9,5,occasion,75000
+Great Wall,H6,2022,48,Essence,Automatique,8,5,occasion,89500
+Great Wall,H6,2022,40,Essence,Automatique,9,5,occasion,68000
+Great Wall,H6,2023,7,Essence,Automatique,8,5,occasion,85000
+Great Wall,H6,2020,116,Essence,Automatique,9,5,occasion,76000
+Great Wall,H6,2022,80,Essence,Automatique,8,5,occasion,90000
+Great Wall,H6,2019,79,Essence,Automatique,9,5,occasion,61000
+Great Wall,H6,2022,50,Essence,Automatique,8,5,occasion,89000
+Great Wall,H6,2019,79,Essence,Automatique,9,5,occasion,77000
+Great Wall,Jolion,2022,60,Essence,Automatique,9,5,occasion,81000
+Great Wall,Jolion,2022,72,Essence,Automatique,9,5,occasion,93200
+Great Wall,Jolion,2022,55,Essence,Automatique,9,5,occasion,79000
+Great Wall,Jolion,2021,64,Essence,Automatique,9,5,occasion,79000
+Great Wall,Jolion,2022,55,Essence,Automatique,9,5,occasion,78000
+Great Wall,Jolion,2022,60,Essence,Automatique,9,5,occasion,83000
+Great Wall,Jolion,2021,65,Essence,Automatique,9,4,occasion,76000
+Great Wall,Jolion,2021,64,Essence,Automatique,9,5,occasion,78000
+Great Wall,Jolion,2021,65,Essence,Automatique,9,5,occasion,75000
+Great Wall,Jolion,2021,65,Essence,Automatique,9,5,occasion,73500
+Great Wall,M4,2019,63,Essence,Manuelle,6,4,occasion,39500
+Great Wall,M4,2018,104,Essence,Manuelle,6,5,occasion,39000
+Great Wall,Poer At,2024,14,Diesel,Automatique,7,5,occasion,120000
+Great Wall,Poer At,2025,23,Diesel,Automatique,7,5,occasion,118000
+Great Wall,Poer,2021,23,Diesel,Manuelle,11,5,occasion,88000
+Great Wall,Poer,2023,100,Diesel,Manuelle,11,4,occasion,94000
+Great Wall,Wingle 5 Double Cabine,2018,190000,Diesel,Manuelle,7,5,occasion,47000
+Honda,Brio Amaze,2017,83000,Essence,Manuelle,5,4,occasion,31000
+Honda,Brio,2017,169000,Essence,Manuelle,5,5,occasion,26500
+Honda,City,2021,78000,Essence,Automatique,6,4,occasion,65000
+Honda,Civic,2019,40,Essence,Automatique,10,4,occasion,85000
+Honda,Civic,2020,75,Essence,Automatique,10,4,occasion,82000
+Honda,Cr V,2019,124,Essence,Automatique,11,5,occasion,99000
+Honda,Cr V,2021,110,Essence,Automatique,11,5,occasion,89000
+Honda,Hr V,2023,18,Essence,Automatique,7,5,occasion,86000
+Honda,Hr V,2020,70,Essence,Automatique,7,5,occasion,115000
+Honda,Hr V,2020,70,Essence,Automatique,19,4,occasion,47000
+Hummer,H3,2005,50,Essence,Automatique,19,4,occasion,100000
+Hummer,H3,2007,96,Essence,Manuelle,20,5,occasion,89000
+Hyundai,Accent,2022,68,Essence,Manuelle,6,4,occasion,69900
+Hyundai,Accent,2023,45,Essence,Automatique,6,4,occasion,65000
+Hyundai,Accent,2022,68,Essence,Manuelle,6,5,occasion,30000
+Hyundai,Autre,2019,381988,Essence,Manuelle,6,2,occasion,66000
+Hyundai,Creta,2017,56,Essence,Automatique,7,5,occasion,79000
+Hyundai,Creta,2020,125,Essence,Automatique,6,5,occasion,83000
+Hyundai,Creta,2021,23,Essence,Automatique,7,5,occasion,62000
+Hyundai,Creta,2019,35,Essence,Manuelle,7,5,occasion,66000
+Hyundai,Elantra,2018,100000,Essence,Automatique,9,5,occasion,78000
+Hyundai,Grand I10 Sedan,2022,100000,Essence,Manuelle,5,4,occasion,39500
+Hyundai,Grand I10,2022,101,Essence,Manuelle,5,5,occasion,42500
+Hyundai,Grand I10,2022,120,Essence,Manuelle,5,5,occasion,46000
+Hyundai,Grand I10,2021,57,Essence,Manuelle,5,5,occasion,44500
+Hyundai,Grand I10,2022,120,Essence,Automatique,5,5,occasion,47000
+Hyundai,Grand I10,2023,30,Essence,Manuelle,4,5,occasion,46500
+Hyundai,Grand I10,2015,121,Essence,Manuelle,5,4,occasion,30000
+Hyundai,Grand I10,2023,14,Essence,Manuelle,4,5,occasion,44900
+Hyundai,Grand I10,2023,60,Essence,Manuelle,5,5,occasion,43000
+Hyundai,Grand I10,2023,110,Essence,Manuelle,5,5,occasion,47500
+Hyundai,Grand I10,2022,103,Essence,Automatique,5,5,occasion,50000
+Hyundai,Grand I10,2021,89,Essence,Automatique,5,5,occasion,49800
+Hyundai,Grand I10,2015,115,Essence,Manuelle,5,5,occasion,35000
+Hyundai,Grand I10,2022,79,Essence,Manuelle,5,5,occasion,40500
+Hyundai,Grand I10,2022,103,Essence,Manuelle,5,5,occasion,38500
+Hyundai,I10,2017,94000,Essence,Manuelle,4,4,occasion,29000
+Hyundai,I20,2024,49,Essence,Automatique,5,4,occasion,76900
+Hyundai,I20,2022,103,Essence,Manuelle,5,5,occasion,53000
+Hyundai,I20,2021,62,Essence,Automatique,5,5,occasion,65000
+Hyundai,I20,2022,103,Essence,Manuelle,5,5,occasion,59000
+Hyundai,I20,2021,87,Essence,Automatique,5,5,occasion,63000
+Hyundai,I20,2021,88,Essence,Automatique,5,5,occasion,49000
+Hyundai,I20,2021,60,Essence,Manuelle,5,5,occasion,56500
+Hyundai,I20,2018,82,Essence,Manuelle,5,5,occasion,42700
+Hyundai,I20,2022,93,Essence,Manuelle,5,5,occasion,55500
+Hyundai,I20,2018,82,Essence,Manuelle,5,5,occasion,43500
+Hyundai,I20,2023,21,Essence,Automatique,5,5,occasion,76500
+Hyundai,I20,2021,116,Essence,Automatique,5,5,occasion,62000
+Hyundai,I20,2021,100,Essence,Manuelle,5,5,occasion,51500
+Hyundai,I20,2024,49,Essence,Manuelle,4,5,occasion,66500
+Hyundai,I20,2021,87,Essence,Manuelle,5,5,occasion,49000
+Hyundai,I20,2021,100,Essence,Automatique,5,5,occasion,60000
+Hyundai,I20,2018,82,Essence,Manuelle,4,5,occasion,31500
+Hyundai,I20,2021,62,Essence,Automatique,5,4,occasion,55000
+Hyundai,I30 Fastback,2022,88000,Essence,Automatique,7,4,occasion,70000
+Hyundai,I30,2021,102000,Essence,Automatique,7,5,occasion,72000
+Hyundai,Ioniq 5,2022,40000,Electrique,Automatique,4,4,occasion,119900
+Hyundai,Ix35,2012,220,Diesel,Manuelle,6,5,occasion,50000
+Hyundai,Ix35,2012,228,Diesel,Manuelle,7,5,occasion,49000
+Hyundai,Ix35,2012,228,Diesel,Automatique,11,5,occasion,43500
+Hyundai,Kona,2022,59,Hybride essence,Automatique,5,5,occasion,117000
+Hyundai,Kona,2025,14,Hybride léger essence,Manuelle,6,5,occasion,85000
+Hyundai,Palisade,2021,35774,Diesel,Automatique,12,5,occasion,250000
+Hyundai,Tucson,2021,92,Hybride léger diesel,Automatique,7,4,occasion,105000
+Hyundai,Tucson,2021,70,Hybride léger diesel,Automatique,7,5,occasion,125000
+Hyundai,Tucson,2020,130,Diesel,Automatique,7,5,occasion,98000
+Hyundai,Tucson,2022,40,Essence,Automatique,10,5,occasion,118000
+Hyundai,Tucson,2020,104,Diesel,Automatique,7,4,occasion,89000
+Hyundai,Tucson,2020,99,Diesel,Automatique,7,4,occasion,97000
+Hyundai,Tucson,2021,70,Diesel,Automatique,7,5,occasion,89000
+Hyundai,Tucson,2022,75,Essence,Automatique,9,5,occasion,98000
+Hyundai,Tucson,2020,104,Diesel,Automatique,7,5,occasion,93000
+Hyundai,Tucson,2023,28,Diesel,Manuelle,6,5,occasion,98000
+Hyundai,Tucson,2021,99,Hybride léger diesel,Automatique,7,5,occasion,130000
+Hyundai,Tucson,2022,75,Diesel,Automatique,7,5,occasion,113000
+Hyundai,Tucson,2020,130,Essence,Automatique,8,4,occasion,85000
+Hyundai,Tucson,2022,68,Hybride léger essence,Automatique,11,5,occasion,147000
+Hyundai,Tucson,2023,77,Essence,Automatique,10,5,occasion,116000
+Hyundai,Tucson,2020,80,Essence,Automatique,8,5,occasion,80000
+Hyundai,Tucson,2022,40,Hybride rechargeable essence,Automatique,10,5,occasion,140000
+Hyundai,Veloster,2017,158000,Essence,Automatique,8,4,occasion,42000
+Hyundai,Veloster,2017,158,Essence,Automatique,8,4,occasion,41000
+Infiniti,Fx,2008,190000,Essence,Automatique,20,4,occasion,52000
+Infiniti,Q30,2018,27000,Essence,Automatique,9,4,occasion,110000
+Isuzu,D Max Dc,2014,297,Diesel,Manuelle,8,4,occasion,115000
+Isuzu,D Max Dc,2013,244,Diesel,Manuelle,8,4,occasion,67000
+Isuzu,D Max Dc,2013,244,Diesel,Manuelle,12,4,occasion,80000
+Isuzu,D Max Dc,2014,297,Diesel,Automatique,9,5,occasion,157000
+Isuzu,D Max,2025,32,Diesel,Manuelle,10,2,occasion,130000
+Isuzu,D Max,2025,32,Diesel,Manuelle,8,2,occasion,63000
+Isuzu,D Max,2025,0,Diesel,Manuelle,8,2,occasion,125000
+Isuzu,D Max,2025,0,Diesel,Manuelle,7,2,occasion,130000
+Isuzu,Mu X,2017,38000,Diesel,Automatique,8,5,occasion,145000
+Isuzu,Nkr 66,2023,80000,Diesel,Manuelle,17,2,occasion,115000
+Iveco,Daily,2019,57,Diesel,Manuelle,10,2,occasion,101000
+Iveco,Daily,2020,61,Diesel,Manuelle,10,2,occasion,120000
+Iveco,Daily,2020,61,Diesel,Manuelle,10,2,occasion,110000
+Jaguar,E Pace,2020,120000,Essence,Automatique,12,4,occasion,155000
+Jaguar,F Pace,2018,159,Diesel,Automatique,10,5,occasion,139000
+Jaguar,F Pace,2016,200,Diesel,Manuelle,9,5,occasion,125000
+Jaguar,F Type,2017,12000,Essence,Automatique,19,2,occasion,245000
+Jaguar,X Type,2011,176000,Essence,Automatique,17,5,occasion,45000
+Jaguar,Xf,2018,108,Essence,Automatique,16,4,occasion,120000
+Jaguar,Xf,2017,42,Diesel,Automatique,9,4,occasion,148000
+Jaguar,Xf,2012,137,Essence,Automatique,17,5,occasion,59000
+Jaguar,Xf,2011,135,Diesel,Automatique,11,3,occasion,78000
+Jaguar,Xjl,2014,51,Essence,Automatique,16,4,occasion,120000
+Jaguar,Xjl,2014,163,Essence,Automatique,16,4,occasion,129000
+Jaguar,Xjl,2014,51,Essence,Automatique,16,5,occasion,110000
+Jeep,Commander,2008,200000,Diesel,Automatique,15,5,occasion,85000
+Jeep,Compass,2016,60,Diesel,Manuelle,8,4,occasion,53900
+Jeep,Compass,2021,45,Essence,Automatique,8,4,occasion,145000
+Jeep,Compass,2020,31,Essence,Manuelle,8,5,occasion,87000
+Jeep,Compass,2021,45,Diesel,Manuelle,8,5,occasion,100000
+Jeep,Compass,2020,31,Essence,Automatique,10,5,occasion,83000
+Jeep,Grand Cherokee,2018,140,Essence,Automatique,20,4,occasion,180000
+Jeep,Grand Cherokee,2018,140,Essence,Automatique,20,4,occasion,220000
+Jeep,Grand Cherokee,2002,317,Essence,Automatique,15,5,occasion,89000
+Jeep,Grand Cherokee,2016,132,Essence,Automatique,20,5,occasion,178000
+Jeep,Grand Cherokee,2005,170,Diesel,Automatique,11,5,occasion,44900
+Jeep,Grand Cherokee,2016,132,Diesel,Automatique,16,5,occasion,175000
+Jeep,Renegade,2019,150,Essence,Automatique,8,5,occasion,69000
+Jeep,Renegade,2020,43,Essence,Manuelle,8,5,occasion,83000
+Jeep,Renegade,2020,79,Essence,Automatique,8,4,occasion,64000
+Jeep,Renegade,2021,105,Essence,Automatique,8,5,occasion,125000
+Jeep,Renegade,2020,68,Essence,Manuelle,8,5,occasion,70000
+Jeep,Renegade,2020,68,Essence,Automatique,8,5,occasion,71000
+Jeep,Renegade,2021,105,Essence,Automatique,8,5,occasion,71000
+Jeep,Renegade,2021,135,Essence,Automatique,8,5,occasion,76000
+Jeep,Renegade,2019,150,Essence,Automatique,8,5,occasion,74800
+Jeep,Renegade,2021,85,Essence,Automatique,8,5,occasion,80000
+Jeep,Renegade,2017,101,Essence,Automatique,8,5,occasion,53000
+Jeep,Renegade,2020,105,Essence,Manuelle,8,5,occasion,65000
+Jeep,Renegade,2020,105,Essence,Automatique,8,5,occasion,72000
+Jeep,Renegade,2017,160,Essence,Manuelle,6,5,occasion,65000
+Jeep,Wrangler 2021,2022,23,Essence,Automatique,18,3,occasion,255000
+Jeep,Wrangler 2021,2014,105,Diesel,Automatique,13,3,occasion,125000
+Jeep,Wrangler 2021,2014,105,Diesel,Automatique,13,5,occasion,145000
+Jeep,Wrangler 2021,2021,51,Hybride rechargeable essence,Automatique,16,5,occasion,350000
+Jeep,Wrangler 2021,2015,150,Diesel,Manuelle,13,5,occasion,145000
+Jeep,Wrangler Unlimited,2021,132,Essence,Automatique,19,4,occasion,330000
+Jeep,Wrangler Unlimited,2022,17,Essence,Automatique,17,5,occasion,260000
+Jeep,Wrangler Unlimited,2021,132,Hybride rechargeable essence,Automatique,17,4,occasion,290000
+Kia,Ceed,2019,178000,Essence,Manuelle,6,5,occasion,52000
+Kia,Cerato Koup,2012,76,Essence,Automatique,7,2,occasion,32900
+Kia,Cerato Koup,2012,145,Essence,Manuelle,7,2,occasion,33000
+Kia,Cerato,2017,58000,Essence,Automatique,7,4,occasion,50000
+Kia,K2700,2013,120000,Diesel,Manuelle,8,2,occasion,44000
+Kia,Optima,2011,173,Essence,Automatique,10,4,occasion,51000
+Kia,Optima,2012,125,Essence,Manuelle,10,4,occasion,41500
+Kia,Picanto,2020,90,Essence,Automatique,5,5,occasion,42500
+Kia,Picanto,2024,50,Essence,Automatique,5,5,occasion,54000
+Kia,Picanto,2024,42,Essence,Automatique,4,5,occasion,54000
+Kia,Picanto,2022,72,Essence,Manuelle,5,5,occasion,45000
+Kia,Picanto,2021,31,Essence,Automatique,4,5,occasion,43000
+Kia,Picanto,2013,138,Essence,Automatique,5,5,occasion,32000
+Kia,Picanto,2018,79,Essence,Manuelle,4,5,occasion,35000
+Kia,Picanto,2018,126,Essence,Manuelle,5,5,occasion,39800
+Kia,Picanto,2024,50,Essence,Automatique,4,5,occasion,54500
+Kia,Picanto,2021,33,Essence,Automatique,4,5,occasion,49000
+Kia,Picanto,2025,117,Essence,Manuelle,5,5,occasion,56000
+Kia,Picanto,2022,59,Essence,Automatique,4,5,occasion,44500
+Kia,Picanto,2018,126,Essence,Manuelle,4,5,occasion,29500
+Kia,Picanto,2025,0,Essence,Manuelle,5,5,occasion,56000
+Kia,Picanto,2021,108,Essence,Automatique,4,5,occasion,45000
+Kia,Picanto,2022,59,Essence,Manuelle,5,5,occasion,40500
+Kia,Picanto,2020,83,Essence,Manuelle,4,5,occasion,39500
+Kia,Picanto,2021,63,Essence,Manuelle,4,5,occasion,41000
+Kia,Picanto,2021,33,Essence,Automatique,4,5,occasion,41500
+Kia,Picanto,2012,163,Essence,Manuelle,4,5,occasion,23500
+Kia,Picanto,2022,98,Essence,Manuelle,4,5,occasion,40500
+Kia,Picanto,2013,138,Essence,Manuelle,4,5,occasion,33000
+Kia,Picanto,2020,83,Essence,Manuelle,4,5,occasion,40000
+Kia,Picanto,2021,108,Essence,Automatique,4,5,occasion,41500
+Kia,Picanto,2022,72,Essence,Automatique,4,4,occasion,42000
+Kia,Picanto,2020,90,Essence,Manuelle,4,5,occasion,35000
+Kia,Picanto,2024,50,Essence,Manuelle,4,5,occasion,39900
+Kia,Picanto,2012,163,Essence,Automatique,5,5,occasion,32000
+Kia,Picanto,2022,66,Essence,Manuelle,4,5,occasion,38000
+Kia,Picanto,2018,79,Essence,Manuelle,4,5,occasion,35000
+Kia,Rio 5P,2019,72,Essence,Manuelle,5,4,occasion,54000
+Kia,Rio 5P,2021,71,Essence,Manuelle,5,4,occasion,57500
+Kia,Rio 5P,2020,162,Essence,Manuelle,5,5,occasion,59000
+Kia,Rio 5P,2019,68,Essence,Manuelle,5,4,occasion,54000
+Kia,Rio 5P,2022,93,Essence,Manuelle,5,5,occasion,61000
+Kia,Rio 5P,2022,130,Essence,Manuelle,5,5,occasion,52000
+Kia,Rio 5P,2020,80,Essence,Manuelle,5,5,occasion,55000
+Kia,Rio 5P,2022,84,Essence,Manuelle,5,5,occasion,52500
+Kia,Rio 5P,2021,100,Essence,Manuelle,5,5,occasion,59000
+Kia,Rio 5P,2021,85,Essence,Manuelle,5,5,occasion,49000
+Kia,Rio 5P,2022,75,Essence,Automatique,6,5,occasion,70000
+Kia,Rio 5P,2022,61,Essence,Manuelle,5,5,occasion,51000
+Kia,Rio 5P,2019,124,Essence,Manuelle,5,5,occasion,53000
+Kia,Rio 5P,2019,35,Essence,Manuelle,5,5,occasion,52000
+Kia,Rio 5P,2023,67,Essence,Automatique,6,5,occasion,72000
+Kia,Rio 5P,2020,120,Essence,Manuelle,5,5,occasion,46700
+Kia,Rio 5P,2022,120,Essence,Manuelle,5,5,occasion,54000
+Kia,Rio 5P,2022,10,Essence,Manuelle,5,5,occasion,48500
+Kia,Rio 5P,2013,140,Essence,Manuelle,5,5,occasion,35000
+Kia,Rio 5P,2022,119,Essence,Manuelle,5,5,occasion,46000
+Kia,Rio 5P,2023,45,Essence,Automatique,5,5,occasion,83000
+Kia,Rio 5P,2022,128,Essence,Manuelle,5,5,occasion,73000
+Kia,Rio 5P,2022,85,Essence,Manuelle,5,5,occasion,65000
+Kia,Rio 5P,2020,140,Essence,Manuelle,5,5,occasion,52000
+Kia,Rio 5P,2023,45,Essence,Manuelle,5,5,occasion,50000
+Kia,Rio 5P,2020,55,Essence,Manuelle,5,5,occasion,55000
+Kia,Rio 5P,2013,140,Essence,Manuelle,5,4,occasion,33000
+Kia,Rio 5P,2019,72,Essence,Manuelle,5,5,occasion,52000
+Kia,Rio 5P,2020,162,Essence,Manuelle,5,5,occasion,54000
+Kia,Rio 5P,2019,68,Essence,Manuelle,5,5,occasion,48000
+Kia,Rio 5P,2021,85,Essence,Manuelle,5,5,occasion,53800
+Kia,Rio 5P,2021,78,Essence,Manuelle,5,5,occasion,52000
+Kia,Rio 5P,2020,93,Essence,Manuelle,5,5,occasion,52000
+Kia,Rio 5P,2012,301,Essence,Manuelle,5,5,occasion,35000
+Kia,Rio 5P,2022,93,Essence,Manuelle,5,5,occasion,59500
+Kia,Rio,2019,89,Essence,Automatique,6,4,occasion,58000
+Kia,Rio,2020,87,Essence,Manuelle,6,4,occasion,47500
+Kia,Rio,2019,90,Essence,Manuelle,6,4,occasion,47000
+Kia,Rio,2019,90,Essence,Manuelle,6,4,occasion,47000
+Kia,Rio,2016,157,Essence,Manuelle,5,4,occasion,38500
+Kia,Rio,2020,87,Essence,Manuelle,6,4,occasion,41900
+Kia,Rio,2019,89,Essence,Automatique,6,4,occasion,49900
+Kia,Rio,2016,230,Essence,Manuelle,5,4,occasion,38000
+Kia,Rio,2016,230,Essence,Manuelle,5,4,occasion,38000
+Kia,Rio,2020,121,Essence,Automatique,6,4,occasion,51500
+Kia,Seltos,2024,1,Essence,Automatique,7,5,occasion,105000
+Kia,Seltos,2024,18,Essence,Automatique,8,5,occasion,115000
+Kia,Seltos,2021,82,Essence,Automatique,8,5,occasion,88500
+Kia,Seltos,2024,1,Essence,Automatique,8,5,occasion,145005
+Kia,Seltos,2020,71,Essence,Automatique,8,5,occasion,84500
+Kia,Seltos,2021,82,Essence,Automatique,8,5,occasion,77500
+Kia,Sonet,2023,74000,Essence,Automatique,6,5,occasion,94000
+Kia,Sorento,2015,424,Diesel,Automatique,12,5,occasion,69000
+Kia,Sorento,2010,207,Diesel,Automatique,12,5,occasion,45000
+Kia,Sorento,2010,356,Diesel,Automatique,12,5,occasion,46000
+Kia,Sorento,2014,295,Diesel,Automatique,12,5,occasion,60000
+Kia,Sorento,2015,210,Diesel,Automatique,12,5,occasion,62000
+Kia,Sorento,2014,295,Essence,Automatique,18,5,occasion,45000
+Kia,Sorento,2014,162,Essence,Automatique,12,4,occasion,45000
+Kia,Sorento,2010,207,Diesel,Manuelle,12,4,occasion,53000
+Kia,Sorento,2015,210,Diesel,Automatique,12,5,occasion,65000
+Kia,Sorento,2014,162,Diesel,Automatique,12,5,occasion,48000
+Kia,Sportage,2012,346,Diesel,Automatique,11,5,occasion,54000
+Kia,Sportage,2022,66,Essence,Automatique,10,5,occasion,148600
+Kia,Sportage,2020,69,Essence,Automatique,11,5,occasion,98000
+Kia,Sportage,2020,100,Essence,Automatique,8,5,occasion,80000
+Kia,Sportage,2013,275,Diesel,Automatique,11,5,occasion,46000
+Kia,Sportage,2021,126,Essence,Automatique,11,5,occasion,95000
+Kia,Sportage,2020,69,Essence,Automatique,8,5,occasion,84900
+Kia,Sportage,2019,102,Diesel,Automatique,8,5,occasion,92000
+Kia,Sportage,2017,103,Diesel,Automatique,10,5,occasion,87000
+Kia,Sportage,2019,95,Essence,Automatique,8,5,occasion,85000
+Kia,Sportage,2018,101,Essence,Automatique,8,5,occasion,65000
+Kia,Sportage,2013,275,Diesel,Automatique,11,5,occasion,44000
+Kia,Sportage,2019,173,Diesel,Automatique,7,5,occasion,90000
+Kia,Sportage,2020,112,Diesel,Manuelle,7,5,occasion,95000
+Kia,Sportage,2023,25,Essence,Automatique,10,5,occasion,136500
+Kia,Sportage,2019,134,Essence,Automatique,11,5,occasion,110000
+Kia,Sportage,2016,113,Essence,Automatique,8,5,occasion,69000
+Kia,Sportage,2021,113,Essence,Automatique,8,5,occasion,88000
+Kia,Sportage,2019,130,Essence,Automatique,8,5,occasion,84900
+Kia,Sportage,2020,95,Essence,Automatique,11,5,occasion,98000
+Kia,Sportage,2021,111,Essence,Automatique,8,5,occasion,77000
+Kia,Sportage,2016,218,Diesel,Automatique,10,5,occasion,85000
+Kia,Sportage,2010,280,Diesel,Manuelle,10,5,occasion,49000
+Kia,Sportage,2020,85,Essence,Automatique,11,5,occasion,95000
+Kia,Sportage,2023,25,Essence,Automatique,10,5,occasion,136000
+Kia,Sportage,2018,81,Diesel,Automatique,10,5,occasion,77000
+Kia,Sportage,2021,98,Essence,Automatique,8,5,occasion,92000
+Kia,Sportage,2021,118,Hybride léger diesel,Automatique,7,5,occasion,93000
+Kia,Sportage,2018,181,Essence,Automatique,8,5,occasion,78000
+Kia,Sportage,2018,90,Diesel,Automatique,7,5,occasion,85000
+Kia,Sportage,2019,95,Diesel,Manuelle,7,5,occasion,85000
+Kia,Sportage,2021,87,Essence,Automatique,8,5,occasion,80000
+Kia,Sportage,2016,236,Diesel,Manuelle,11,5,occasion,65000
+Kia,Sportage,2017,103,Essence,Manuelle,8,5,occasion,66000
+Kia,Sportage,2020,100,Essence,Automatique,11,5,occasion,94500
+Kia,Sportage,2021,49,Essence,Automatique,11,5,occasion,95000
+Kia,Sportage,2012,324,Essence,Manuelle,8,5,occasion,51000
+Kia,Sportage,2018,160,Diesel,Automatique,7,4,occasion,78500
+Kia,Sportage,2019,134,Essence,Automatique,11,5,occasion,95000
+Kia,Sportage,2021,88,Diesel,Automatique,7,5,occasion,105000
+Kia,Sportage,2023,17,Essence,Automatique,10,5,occasion,129000
+Kia,Sportage,2016,175,Diesel,Automatique,10,5,occasion,95000
+Kia,Sportage,2021,98,Essence,Automatique,11,5,occasion,100000
+Kia,Sportage,2021,113,Essence,Automatique,8,5,occasion,99000
+Kia,Sportage,2017,268,Diesel,Manuelle,6,5,occasion,68000
+Kia,Sportage,2023,119,Essence,Automatique,10,5,occasion,120000
+Kia,Sportage,2018,173,Essence,Automatique,8,5,occasion,68000
+Kia,Sportage,2018,226,Diesel,Automatique,10,5,occasion,103000
+Kia,Sportage,2018,173,Essence,Automatique,8,5,occasion,70000
+Kia,Sportage,2013,405,Diesel,Automatique,11,5,occasion,62000
+Kia,Sportage,2019,130,Diesel,Automatique,7,4,occasion,83000
+Kia,Sportage,2019,173,Essence,Automatique,8,5,occasion,87000
+Kia,Sportage,2023,65,Essence,Automatique,10,5,occasion,119000
+Kia,Sportage,2013,276,Diesel,Automatique,11,5,occasion,44500
+Kia,Sportage,2017,120,Essence,Automatique,8,5,occasion,71900
+Kia,Sportage,2022,39,Essence,Automatique,10,5,occasion,118000
+Kia,Sportage,2021,118,Diesel,Automatique,8,5,occasion,117000
+Kia,Sportage,2010,230,Diesel,Manuelle,10,4,occasion,44500
+Kia,Sportage,2016,218,Diesel,Manuelle,6,4,occasion,67000
+Kia,Sportage,2019,62,Diesel,Automatique,8,5,occasion,94000
+Kia,Sportage,2010,280,Diesel,Manuelle,10,5,occasion,43800
+Kia,Sportage,2017,120,Diesel,Manuelle,6,5,occasion,80000
+Kia,Sportage,2019,85,Essence,Automatique,10,5,occasion,81000
+Kia,Sportage,2020,70,Essence,Automatique,8,5,occasion,89000
+Kia,Sportage,2012,324,Diesel,Manuelle,5,5,occasion,48000
+Kia,Sportage,2018,149,Diesel,Automatique,10,5,occasion,110000
+Kia,Sportage,2018,181,Essence,Automatique,8,5,occasion,85000
+Kia,Stinger,2019,24000,Essence,Automatique,16,5,occasion,127000
+Kia,Stonic,2021,58,Hybride léger essence,Manuelle,6,4,occasion,69000
+Kia,Stonic,2021,73,Hybride léger essence,Automatique,6,4,occasion,79000
+Kia,Stonic,2021,91,Essence,Manuelle,5,5,occasion,74500
+Kia,Stonic,2021,56,Essence,Manuelle,5,5,occasion,67000
+Kia,Stonic,2021,56,Essence,Manuelle,6,5,occasion,65000
+Kia,Stonic,2021,91,Essence,Manuelle,5,5,occasion,79500
+Kia,Xceed,2022,84,Essence,Automatique,9,4,occasion,110000
+Kia,Xceed,2022,80,Essence,Automatique,9,5,occasion,95000
+Kia,Xceed,2022,80,Diesel,Automatique,7,5,occasion,88000
+Kia,Xceed,2022,99,Hybride rechargeable essence,Automatique,8,5,occasion,93000
+Lada,4X4,2019,30000,Essence,Manuelle,7,2,occasion,44000
+Lancia,Ypsilon,2015,76,Essence,Manuelle,4,2,occasion,28500
+Lancia,Ypsilon,2011,133,Essence,Manuelle,4,5,occasion,30000
+Land Rover,Defender,2015,103,Diesel,Manuelle,8,4,occasion,200000
+Land Rover,Defender,2015,70,Diesel,Automatique,12,4,occasion,295000
+Land Rover,Defender,2015,103,Diesel,Manuelle,10,5,occasion,185000
+Land Rover,Defender,2015,70,Diesel,Manuelle,7,4,occasion,185000
+Land Rover,Discovery Sport,2017,110,Diesel,Automatique,8,5,occasion,125000
+Land Rover,Discovery Sport,2016,190,Essence,Automatique,15,5,occasion,140000
+Land Rover,Discovery Sport,2015,50,Essence,Automatique,15,5,occasion,98000
+Land Rover,Discovery Sport,2015,170,Essence,Automatique,25,5,occasion,220000
+Land Rover,Discovery Sport,2021,48,Diesel,Automatique,8,5,occasion,243000
+Land Rover,Discovery Sport,2021,64,Diesel,Automatique,8,5,occasion,265000
+Land Rover,Discovery Sport,2017,177,Diesel,Automatique,8,5,occasion,99000
+Land Rover,Discovery Sport,2017,177,Diesel,Automatique,8,4,occasion,125000
+Land Rover,Discovery Sport,2015,203,Diesel,Automatique,11,5,occasion,120000
+Land Rover,Discovery Sport,2016,42,Diesel,Automatique,9,5,occasion,95000
+Land Rover,Discovery Sport,2015,170,Diesel,Automatique,9,5,occasion,98000
+Land Rover,Discovery,2019,3000,Diesel,Automatique,16,5,occasion,269000
+Land Rover,Freelander,2009,199000,Diesel,Automatique,11,5,occasion,59000
+Land Rover,Range Rover Evoque,2016,187,Diesel,Automatique,10,5,occasion,102000
+Land Rover,Range Rover Evoque,2015,188,Diesel,Automatique,10,4,occasion,139000
+Land Rover,Range Rover Evoque,2017,144,Diesel,Automatique,8,5,occasion,160000
+Land Rover,Range Rover Evoque,2020,49,Diesel,Automatique,9,5,occasion,179000
+Land Rover,Range Rover Evoque,2016,40,Diesel,Automatique,11,5,occasion,119000
+Land Rover,Range Rover Evoque,2021,29,Hybride rechargeable essence,Automatique,11,4,occasion,245000
+Land Rover,Range Rover Evoque,2016,160,Diesel,Automatique,8,5,occasion,89000
+Land Rover,Range Rover Evoque,2015,133,Essence,Automatique,15,5,occasion,98000
+Land Rover,Range Rover Evoque,2016,154,Essence,Automatique,16,3,occasion,185000
+Land Rover,Range Rover Evoque,2022,48,Hybride rechargeable essence,Automatique,11,5,occasion,179000
+Land Rover,Range Rover Evoque,2022,48,Hybride léger essence,Automatique,7,5,occasion,205000
+Land Rover,Range Rover Evoque,2015,130,Diesel,Automatique,8,5,occasion,90000
+Land Rover,Range Rover Evoque,2021,29,Hybride rechargeable essence,Automatique,11,4,occasion,159000
+Land Rover,Range Rover Evoque,2016,175,Diesel,Manuelle,8,5,occasion,79500
+Land Rover,Range Rover Evoque,2016,160,Essence,Automatique,15,5,occasion,84500
+Land Rover,Range Rover Evoque,2022,98,Diesel,Automatique,9,5,occasion,225000
+Land Rover,Range Rover Evoque,2013,150,Diesel,Automatique,11,5,occasion,90000
+Land Rover,Range Rover Evoque,2013,150,Diesel,Automatique,9,4,occasion,75000
+Land Rover,Range Rover Evoque,2014,153,Essence,Automatique,15,5,occasion,96000
+Land Rover,Range Rover Evoque,2014,177,Essence,Automatique,15,5,occasion,80000
+Land Rover,Range Rover Evoque,2020,94,Hybride léger essence,Automatique,11,5,occasion,165000
+Land Rover,Range Rover Evoque,2016,175,Diesel,Automatique,10,6,occasion,100000
+Land Rover,Range Rover Evoque,2013,160,Diesel,Automatique,9,5,occasion,83000
+Land Rover,Range Rover Evoque,2020,94,Hybride rechargeable essence,Automatique,11,5,occasion,175000
+Land Rover,Range Rover Evoque,2015,130,Diesel,Manuelle,8,5,occasion,75000
+Land Rover,Range Rover Evoque,2014,153,Essence,Automatique,15,5,occasion,84000
+Land Rover,Range Rover Sport,2019,82,Hybride rechargeable essence,Automatique,17,5,occasion,340000
+Land Rover,Range Rover Sport,2016,200,Diesel,Automatique,16,5,occasion,190000
+Land Rover,Range Rover Sport,2016,200,Diesel,Automatique,16,4,occasion,160000
+Land Rover,Range Rover Sport,2018,57,Diesel,Automatique,14,5,occasion,169000
+Land Rover,Range Rover Sport,2021,20,Essence,Automatique,25,5,occasion,320000
+Land Rover,Range Rover Sport,2016,164,Diesel,Automatique,19,5,occasion,150000
+Land Rover,Range Rover Sport,2018,185,Diesel,Automatique,21,5,occasion,350000
+Land Rover,Range Rover Sport,2016,164,Essence,Automatique,43,5,occasion,175000
+Land Rover,Range Rover Sport,2009,228,Essence,Automatique,32,5,occasion,54000
+Land Rover,Range Rover Sport,2019,104,Hybride rechargeable essence,Automatique,17,5,occasion,260000
+Land Rover,Range Rover Sport,2021,90,Hybride rechargeable essence,Automatique,19,4,occasion,280000
+Land Rover,Range Rover Sport,2019,82,Essence,Automatique,24,5,occasion,270000
+Land Rover,Range Rover Sport,2019,70,Diesel,Automatique,20,5,occasion,255000
+Land Rover,Range Rover Sport,2019,148,Diesel,Automatique,21,5,occasion,350000
+Land Rover,Range Rover Sport,2015,196,Essence,Automatique,43,5,occasion,265000
+Land Rover,Range Rover Sport,2021,90,Essence,Automatique,48,5,occasion,720000
+Land Rover,Range Rover Sport,2019,148,Hybride rechargeable essence,Automatique,19,4,occasion,249000
+Land Rover,Range Rover Sport,2008,250,Diesel,Automatique,13,5,occasion,68000
+Land Rover,Range Rover Sport,2015,80,Diesel,Automatique,17,5,occasion,145000
+Land Rover,Range Rover Sport,2019,47,Diesel,Automatique,16,4,occasion,249000
+Land Rover,Range Rover Sport,2018,170,Diesel,Automatique,16,4,occasion,190000
+Land Rover,Range Rover Sport,2018,57,Diesel,Automatique,14,5,occasion,167000
+Land Rover,Range Rover Sport,2019,130,Hybride rechargeable essence,Automatique,17,4,occasion,350000
+Land Rover,Range Rover Velar,2018,144,Diesel,Automatique,11,4,occasion,295000
+Land Rover,Range Rover Velar,2018,122,Diesel,Automatique,19,5,occasion,192000
+Land Rover,Range Rover Velar,2021,40,Essence,Automatique,16,5,occasion,307000
+Land Rover,Range Rover Velar,2022,49,Essence,Automatique,16,5,occasion,262000
+Land Rover,Range Rover Velar,2018,122,Diesel,Automatique,15,5,occasion,182000
+Land Rover,Range Rover Velar,2017,92,Diesel,Automatique,10,5,occasion,175000
+Land Rover,Range Rover,2019,116,Essence,Automatique,43,5,occasion,350000
+Land Rover,Range Rover,2017,52,Essence,Automatique,25,5,occasion,380000
+Lexus,Ls 430,2006,278000,Essence,Automatique,20,5,occasion,45000
+Mahindra,Kuv 100,2022,80,Essence,Manuelle,5,5,occasion,33000
+Mahindra,Kuv 100,2019,57,Essence,Manuelle,5,5,occasion,32000
+Mahindra,Kuv 100,2022,60,Essence,Manuelle,5,5,occasion,33000
+Mahindra,Kuv 100,2018,98,Essence,Manuelle,5,5,occasion,31000
+Mahindra,Kuv 100,2021,33,Essence,Manuelle,5,5,occasion,29000
+Mahindra,Kuv 100,2020,114,Essence,Manuelle,5,5,occasion,28500
+Mahindra,Kuv 100,2021,105,Essence,Manuelle,5,5,occasion,31000
+Mahindra,Kuv 100,2022,80,Essence,Manuelle,5,5,occasion,30000
+Mahindra,Kuv 100,2022,76,Essence,Manuelle,5,5,occasion,34000
+Mahindra,Kuv 100,2020,25,Essence,Manuelle,5,4,occasion,27000
+Mahindra,Pick Up Sc,2025,1,Diesel,Manuelle,7,2,occasion,19000
+Mahindra,Pick Up Sc,2014,275,Diesel,Manuelle,7,2,occasion,61500
+Mahindra,Scorpio Pick Up Dc,2014,1000,Diesel,Manuelle,8,4,occasion,10000
+Mahindra,Scorpio Suv,2013,328000,Diesel,Manuelle,8,4,occasion,29500
+Mazda,2 Sedan,2017,250,Essence,Manuelle,6,5,occasion,42000
+Mazda,2 Sedan,2017,146,Essence,Manuelle,6,5,occasion,39000
+Mazda,2,2019,175,Essence,Automatique,6,5,occasion,45000
+Mazda,2,2016,142,Essence,Automatique,6,5,occasion,40000
+Mazda,3 Sedan,2016,112,Essence,Manuelle,6,4,occasion,49000
+Mazda,3 Sedan,2016,112,Essence,Manuelle,6,4,occasion,39000
+Mazda,3 Sedan,2016,230,Essence,Manuelle,6,4,occasion,42000
+Mazda,3 Sedan,2017,190,Essence,Manuelle,6,4,occasion,64000
+Mazda,3,2017,230,Essence,Manuelle,6,5,occasion,40000
+Mazda,3,2017,230,Essence,Manuelle,6,5,occasion,49000
+Mazda,3,2018,212,Essence,Manuelle,6,5,occasion,47000
+Mazda,6,2015,190,Essence,Automatique,9,4,occasion,48000
+Mazda,6,2015,190,Essence,Automatique,9,5,occasion,41000
+Mazda,6,2015,190,Essence,Automatique,9,5,occasion,43000
+Mazda,6,2013,302,Essence,Automatique,9,5,occasion,28000
+Mazda,6,2012,170,Essence,Automatique,9,5,occasion,34000
+Mazda,6,2015,190,Essence,Automatique,9,5,occasion,51000
+Mazda,Bt 50,2015,178,Diesel,Manuelle,9,4,occasion,57000
+Mazda,Bt 50,2018,350,Diesel,Manuelle,9,4,occasion,96000
+Mazda,Bt 50,2014,248,Diesel,Manuelle,10,4,occasion,48500
+Mazda,Bt 50,2014,248,Diesel,Manuelle,9,4,occasion,55000
+Mazda,Bt 50,2021,53,Diesel,Manuelle,9,5,occasion,49500
+Mazda,Cx 3,2018,86,Essence,Automatique,9,4,occasion,85000
+Mazda,Cx 3,2018,82,Essence,Automatique,9,5,occasion,78000
+Mazda,Cx 5,2014,296,Essence,Automatique,9,5,occasion,54000
+Mazda,Cx 5,2014,134,Essence,Automatique,9,5,occasion,48000
+Mazda,Cx 5,2014,296,Essence,Automatique,9,5,occasion,78000
+Mazda,Cx 7,2013,345,Essence,Automatique,15,5,occasion,34000
+Mazda,Cx 7,2012,190,Essence,Automatique,15,5,occasion,23000
+Mazda,Cx 9,2021,64,Essence,Automatique,15,5,occasion,91000
+Mazda,Cx 9,2019,163,Essence,Automatique,15,5,occasion,128000
+Mazda,Cx 9,2019,163,Essence,Automatique,15,5,occasion,100000
+Mercedes Benz,Amg Gt,2021,57000,Hybride léger essence,Automatique,24,4,occasion,449000
+Mercedes Benz,Cla,2018,220,Essence,Automatique,7,4,occasion,99000
+Mercedes Benz,Cla,2021,80,Hybride rechargeable essence,Automatique,8,5,occasion,162000
+Mercedes Benz,Cla,2018,20,Diesel,Manuelle,5,5,occasion,78000
+Mercedes Benz,Cla,2021,65,Hybride rechargeable essence,Automatique,8,4,occasion,150000
+Mercedes Benz,Cla,2023,44,Hybride rechargeable essence,Automatique,8,4,occasion,182000
+Mercedes Benz,Cla,2018,20,Essence,Automatique,13,4,occasion,110000
+Mercedes Benz,Cla,2021,49,Hybride rechargeable essence,Automatique,8,4,occasion,157000
+Mercedes Benz,Cla,2023,24,Hybride rechargeable essence,Automatique,8,4,occasion,187000
+Mercedes Benz,Cla,2020,150,Essence,Automatique,7,4,occasion,120000
+Mercedes Benz,Cla,2020,50,Essence,Automatique,7,4,occasion,140000
+Mercedes Benz,Cla,2022,30,Hybride rechargeable essence,Automatique,8,5,occasion,188000
+Mercedes Benz,Cla,2014,289,Essence,Automatique,24,4,occasion,99000
+Mercedes Benz,Cla,2021,59,Hybride rechargeable essence,Automatique,8,5,occasion,147000
+Mercedes Benz,Cla,2023,44,Hybride rechargeable essence,Automatique,8,4,occasion,163000
+Mercedes Benz,Cla,2022,89,Hybride rechargeable essence,Automatique,8,5,occasion,145000
+Mercedes Benz,Cla,2014,130,Essence,Manuelle,7,5,occasion,72500
+Mercedes Benz,Cla,2013,143,Essence,Manuelle,6,4,occasion,71000
+Mercedes Benz,Cla,2022,80,Hybride rechargeable essence,Automatique,8,4,occasion,170000
+Mercedes Benz,Cla,2014,130,Essence,Automatique,7,4,occasion,55000
+Mercedes Benz,Cla,2021,65,Hybride rechargeable essence,Automatique,8,4,occasion,140000
+Mercedes Benz,Cla,2021,42,Essence,Automatique,7,4,occasion,127000
+Mercedes Benz,Cla,2013,76,Essence,Manuelle,7,5,occasion,66000
+Mercedes Benz,Cla,2020,150,Diesel,Automatique,8,5,occasion,112000
+Mercedes Benz,Cla,2022,33,Hybride rechargeable essence,Automatique,8,5,occasion,165000
+Mercedes Benz,Cla,2022,90,Hybride rechargeable essence,Automatique,9,4,occasion,185000
+Mercedes Benz,Cla,2021,86,Hybride rechargeable essence,Automatique,8,4,occasion,152000
+Mercedes Benz,Cla,2022,80,Hybride rechargeable essence,Automatique,8,5,occasion,153000
+Mercedes Benz,Cla,2021,69,Hybride rechargeable essence,Automatique,8,4,occasion,155000
+Mercedes Benz,Cla,2021,80,Essence,Automatique,8,5,occasion,145000
+Mercedes Benz,Cla,2022,30,Essence,Automatique,7,4,occasion,136000
+Mercedes Benz,Cla,2024,20,Electrique,Automatique,8,4,occasion,230000
+Mercedes Benz,Cla,2018,220,Essence,Automatique,7,4,occasion,85000
+Mercedes Benz,Cla,2019,129,Diesel,Automatique,8,4,occasion,138000
+Mercedes Benz,Cla,2014,289,Diesel,Automatique,9,5,occasion,95000
+Mercedes Benz,Cla,2021,86,Essence,Automatique,7,4,occasion,145000
+Mercedes Benz,Cla,2020,105,Diesel,Automatique,8,5,occasion,113000
+Mercedes Benz,Cla,2019,96,Essence,Automatique,7,5,occasion,128000
+Mercedes Benz,Cla,2019,96,Diesel,Automatique,6,4,occasion,139000
+Mercedes Benz,Cla,2021,3,Hybride rechargeable essence,Automatique,8,4,occasion,149999
+Mercedes Benz,Cla,2022,90,Hybride rechargeable essence,Automatique,11,5,occasion,165000
+Mercedes Benz,Cla,2021,3,Hybride rechargeable essence,Automatique,8,4,occasion,142000
+Mercedes Benz,Classe A Berline,2021,37,Essence,Manuelle,6,5,occasion,128000
+Mercedes Benz,Classe A Berline,2020,34,Essence,Automatique,7,4,occasion,105500
+Mercedes Benz,Classe A Berline,2021,37,Hybride rechargeable essence,Automatique,8,4,occasion,157000
+Mercedes Benz,Classe A Berline,2020,34,Diesel,Automatique,6,5,occasion,116000
+Mercedes Benz,Classe A Berline,2021,37,Essence,Automatique,7,4,occasion,120000
+Mercedes Benz,Classe A,2020,85,Essence,Automatique,7,4,occasion,119000
+Mercedes Benz,Classe A,2021,48,Hybride rechargeable essence,Automatique,8,5,occasion,114000
+Mercedes Benz,Classe A,2020,70,Essence,Automatique,7,5,occasion,139000
+Mercedes Benz,Classe A,2014,229,Essence,Manuelle,6,4,occasion,52000
+Mercedes Benz,Classe A,2023,6,Hybride léger essence,Automatique,8,4,occasion,169000
+Mercedes Benz,Classe A,2020,70,Essence,Automatique,8,5,occasion,138000
+Mercedes Benz,Classe A,2021,80,Hybride rechargeable essence,Automatique,8,5,occasion,128000
+Mercedes Benz,Classe A,2013,119,Essence,Automatique,6,4,occasion,54000
+Mercedes Benz,Classe A,2020,100,Essence,Automatique,7,4,occasion,89500
+Mercedes Benz,Classe A,2021,35,Hybride rechargeable essence,Automatique,8,5,occasion,129000
+Mercedes Benz,Classe A,2019,50,Diesel,Automatique,6,4,occasion,115000
+Mercedes Benz,Classe A,2019,70,Diesel,Automatique,6,5,occasion,115000
+Mercedes Benz,Classe A,2021,50,Diesel,Automatique,6,5,occasion,103000
+Mercedes Benz,Classe A,2017,169,Essence,Manuelle,6,5,occasion,63500
+Mercedes Benz,Classe A,2024,38,Hybride rechargeable essence,Automatique,8,4,occasion,179000
+Mercedes Benz,Classe A,2024,17,Hybride rechargeable essence,Automatique,8,5,occasion,169000
+Mercedes Benz,Classe A,2022,55,Hybride rechargeable essence,Automatique,8,5,occasion,134000
+Mercedes Benz,Classe A,2013,220,Essence,Manuelle,6,5,occasion,54000
+Mercedes Benz,Classe A,2019,86,Essence,Automatique,8,5,occasion,129000
+Mercedes Benz,Classe A,2021,55,Hybride rechargeable essence,Automatique,8,5,occasion,125000
+Mercedes Benz,Classe A,2021,37,Hybride rechargeable essence,Automatique,8,5,occasion,127000
+Mercedes Benz,Classe A,2018,59,Essence,Manuelle,9,4,occasion,79000
+Mercedes Benz,Classe A,2021,118,Hybride rechargeable essence,Automatique,8,4,occasion,145000
+Mercedes Benz,Classe A,2020,85,Hybride rechargeable essence,Automatique,8,4,occasion,137000
+Mercedes Benz,Classe A,2023,15,Hybride rechargeable essence,Automatique,8,4,occasion,175000
+Mercedes Benz,Classe A,2020,48,Hybride rechargeable essence,Automatique,8,4,occasion,120000
+Mercedes Benz,Classe A,2021,55,Essence,Automatique,7,5,occasion,129000
+Mercedes Benz,Classe A,2019,70,Diesel,Automatique,6,5,occasion,93500
+Mercedes Benz,Classe A,2013,119,Essence,Manuelle,7,5,occasion,61000
+Mercedes Benz,Classe A,2022,63,Essence,Automatique,7,5,occasion,130000
+Mercedes Benz,Classe A,2022,70,Essence,Automatique,19,4,occasion,185000
+Mercedes Benz,Classe A,2019,149,Diesel,Automatique,6,4,occasion,99000
+Mercedes Benz,Classe A,2019,50,Diesel,Automatique,6,5,occasion,112000
+Mercedes Benz,Classe A,2019,149,Essence,Automatique,7,5,occasion,120000
+Mercedes Benz,Classe A,2019,110,Essence,Automatique,9,5,occasion,109000
+Mercedes Benz,Classe A,2015,125,Essence,Manuelle,6,5,occasion,52000
+Mercedes Benz,Classe A,2019,189,Essence,Automatique,8,4,occasion,120000
+Mercedes Benz,Classe A,2017,169,Diesel,Manuelle,5,5,occasion,66000
+Mercedes Benz,Classe A,2018,122,Essence,Manuelle,8,5,occasion,112000
+Mercedes Benz,Classe A,2021,61,Essence,Automatique,9,5,occasion,130000
+Mercedes Benz,Classe A,2014,166,Essence,Automatique,6,5,occasion,53000
+Mercedes Benz,Classe A,2020,70,Essence,Automatique,7,5,occasion,97000
+Mercedes Benz,Classe A,2022,46,Essence,Automatique,7,5,occasion,128000
+Mercedes Benz,Classe A,2020,48,Essence,Automatique,9,5,occasion,125000
+Mercedes Benz,Classe A,2020,48,Hybride rechargeable essence,Automatique,7,4,occasion,113000
+Mercedes Benz,Classe A,2019,32,Essence,Automatique,7,5,occasion,102000
+Mercedes Benz,Classe A,2021,118,Hybride rechargeable essence,Automatique,8,4,occasion,125000
+Mercedes Benz,Classe A,2019,110,Diesel,Automatique,6,5,occasion,90000
+Mercedes Benz,Classe A,2019,123,Diesel,Automatique,7,5,occasion,98000
+Mercedes Benz,Classe A,2013,220,Essence,Manuelle,6,5,occasion,60000
+Mercedes Benz,Classe A,2021,50,Hybride rechargeable essence,Automatique,8,4,occasion,117000
+Mercedes Benz,Classe A,2014,229,Essence,Manuelle,7,4,occasion,54500
+Mercedes Benz,Classe A,2016,155,Essence,Manuelle,6,5,occasion,59900
+Mercedes Benz,Classe A,2015,201,Essence,Automatique,6,5,occasion,68000
+Mercedes Benz,Classe B,2016,190,Diesel,Manuelle,6,5,occasion,48900
+Mercedes Benz,Classe B,2016,190,Hybride rechargeable essence,Automatique,8,5,occasion,155000
+Mercedes Benz,Classe B,2015,198,Essence,Manuelle,7,5,occasion,44500
+Mercedes Benz,Classe C Coupe,2013,100,Essence,Manuelle,9,2,occasion,56000
+Mercedes Benz,Classe C Coupe,2016,88,Essence,Automatique,9,3,occasion,125000
+Mercedes Benz,Classe C Coupe,2013,100,Essence,Manuelle,8,5,occasion,59000
+Mercedes Benz,Classe C Coupe,2019,49,Hybride léger essence,Automatique,11,2,occasion,170000
+Mercedes Benz,Classe C Coupe,2013,170,Essence,Automatique,9,2,occasion,72000
+Mercedes Benz,Classe C Coupe,2020,39,Essence,Automatique,9,3,occasion,140000
+Mercedes Benz,Classe C Coupe,2016,96,Essence,Automatique,8,2,occasion,148000
+Mercedes Benz,Classe C Coupe,2016,88,Essence,Automatique,8,3,occasion,135000
+Mercedes Benz,Classe C,2022,90,Hybride léger essence,Automatique,9,4,occasion,220000
+Mercedes Benz,Classe C,2022,91,Hybride léger essence,Automatique,9,4,occasion,197000
+Mercedes Benz,Classe C,2019,147,Hybride léger essence,Automatique,10,4,occasion,145000
+Mercedes Benz,Classe C,2017,164,Essence,Automatique,8,4,occasion,135000
+Mercedes Benz,Classe C,2016,182,Diesel,Automatique,6,4,occasion,88000
+Mercedes Benz,Classe C,2017,200,Essence,Automatique,8,4,occasion,119000
+Mercedes Benz,Classe C,2019,18,Essence,Automatique,8,4,occasion,105000
+Mercedes Benz,Classe C,2021,38,Hybride léger essence,Automatique,10,4,occasion,185000
+Mercedes Benz,Classe C,2023,42,Hybride léger essence,Automatique,9,4,occasion,209000
+Mercedes Benz,Classe C,2017,194,Essence,Automatique,15,4,occasion,145000
+Mercedes Benz,Classe C,2022,6,Hybride léger essence,Automatique,12,4,occasion,258000
+Mercedes Benz,Classe C,2017,113,Essence,Automatique,8,4,occasion,94000
+Mercedes Benz,Classe C,2018,143,Essence,Automatique,9,4,occasion,124000
+Mercedes Benz,Classe C,2014,286,Essence,Manuelle,8,4,occasion,69900
+Mercedes Benz,Classe C,2012,135,Essence,Manuelle,9,5,occasion,85000
+Mercedes Benz,Classe C,2009,328,Diesel,Automatique,10,4,occasion,49000
+Mercedes Benz,Classe C,2023,16,Hybride léger essence,Automatique,9,4,occasion,195000
+Mercedes Benz,Classe C,2016,160,Essence,Automatique,8,4,occasion,98000
+Mercedes Benz,Classe C,2015,180,Essence,Automatique,8,5,occasion,99000
+Mercedes Benz,Classe C,2019,125,Diesel,Automatique,7,4,occasion,115000
+Mercedes Benz,Classe C,2007,281,Diesel,Automatique,8,5,occasion,37000
+Mercedes Benz,Classe C,2023,41,Hybride léger essence,Automatique,9,4,occasion,198000
+Mercedes Benz,Classe C,2017,105,Diesel,Automatique,6,5,occasion,107000
+Mercedes Benz,Classe C,2018,180,Diesel,Automatique,7,5,occasion,110000
+Mercedes Benz,Classe C,2019,130,Essence,Automatique,8,4,occasion,142200
+Mercedes Benz,Classe C,2020,125,Essence,Automatique,8,5,occasion,147000
+Mercedes Benz,Classe C,2018,125,Essence,Automatique,9,4,occasion,85000
+Mercedes Benz,Classe C,2020,93,Essence,Automatique,8,4,occasion,155000
+Mercedes Benz,Classe C,2024,38,Hybride léger essence,Automatique,9,4,occasion,197000
+Mercedes Benz,Classe C,2019,60,Essence,Automatique,9,4,occasion,170000
+Mercedes Benz,Classe C,2023,66,Hybride léger essence,Automatique,9,5,occasion,220000
+Mercedes Benz,Classe C,2023,55,Hybride léger essence,Automatique,9,4,occasion,234800
+Mercedes Benz,Classe C,2018,148,Essence,Automatique,8,5,occasion,110000
+Mercedes Benz,Classe C,2021,98,Diesel,Automatique,8,4,occasion,130000
+Mercedes Benz,Classe C,2015,217,Essence,Automatique,9,4,occasion,78000
+Mercedes Benz,Classe C,2014,164,Essence,Automatique,8,5,occasion,82000
+Mercedes Benz,Classe C,2017,194,Essence,Manuelle,8,4,occasion,91800
+Mercedes Benz,Classe C,2022,38,Hybride léger essence,Automatique,9,4,occasion,195000
+Mercedes Benz,Classe C,2021,38,Hybride léger essence,Automatique,9,5,occasion,170000
+Mercedes Benz,Classe C,2007,281,Diesel,Manuelle,7,4,occasion,29900
+Mercedes Benz,Classe C,2015,36,Essence,Automatique,8,4,occasion,120000
+Mercedes Benz,Classe C,2016,182,Essence,Automatique,9,4,occasion,85000
+Mercedes Benz,Classe C,2025,1,Hybride rechargeable essence,Automatique,11,4,occasion,245000
+Mercedes Benz,Classe C,2020,67,Essence,Automatique,9,4,occasion,129000
+Mercedes Benz,Classe C,2022,46,Hybride léger essence,Automatique,9,4,occasion,188000
+Mercedes Benz,Classe C,2019,71,Essence,Automatique,9,4,occasion,165000
+Mercedes Benz,Classe C,2010,286,Diesel,Manuelle,7,5,occasion,42000
+Mercedes Benz,Classe C,2015,225,Essence,Automatique,10,4,occasion,94900
+Mercedes Benz,Classe C,2022,5,Hybride léger essence,Automatique,12,5,occasion,255000
+Mercedes Benz,Classe C,2020,55,Essence,Automatique,8,4,occasion,129000
+Mercedes Benz,Classe C,2012,44,Essence,Automatique,11,5,occasion,67000
+Mercedes Benz,Classe C,2017,140,Essence,Automatique,8,4,occasion,110000
+Mercedes Benz,Classe C,2014,158,Essence,Automatique,8,4,occasion,75000
+Mercedes Benz,Classe C,2009,280,Essence,Manuelle,9,5,occasion,45000
+Mercedes Benz,Classe C,2022,29,Hybride léger essence,Automatique,9,4,occasion,179000
+Mercedes Benz,Classe C,2015,127,Essence,Automatique,8,4,occasion,90000
+Mercedes Benz,Classe C,2025,15,Hybride rechargeable essence,Automatique,12,4,occasion,299900
+Mercedes Benz,Classe C,2019,112,Hybride léger essence,Automatique,9,5,occasion,148000
+Mercedes Benz,Classe C,2013,221,Essence,Automatique,9,5,occasion,69000
+Mercedes Benz,Classe C,2012,300,Essence,Automatique,11,5,occasion,68000
+Mercedes Benz,Classe C,2014,137,Essence,Automatique,8,5,occasion,79000
+Mercedes Benz,Classe C,2021,98,Hybride léger essence,Automatique,10,5,occasion,155000
+Mercedes Benz,Classe C,2009,193,Essence,Automatique,9,5,occasion,38000
+Mercedes Benz,Classe C,2024,40,Hybride léger essence,Automatique,9,4,occasion,205000
+Mercedes Benz,Classe C,2021,120,Diesel,Automatique,8,5,occasion,133000
+Mercedes Benz,Classe C,2015,200,Essence,Manuelle,8,4,occasion,74500
+Mercedes Benz,Classe C,2016,160,Essence,Automatique,8,4,occasion,75000
+Mercedes Benz,Classe C,2016,98,Essence,Automatique,9,4,occasion,99000
+Mercedes Benz,Classe C,2025,15,Hybride léger essence,Automatique,9,4,occasion,249000
+Mercedes Benz,Classe C,2017,54,Essence,Automatique,8,4,occasion,85000
+Mercedes Benz,Classe C,2015,296,Essence,Manuelle,8,5,occasion,77000
+Mercedes Benz,Classe C,2015,213,Diesel,Automatique,7,5,occasion,81000
+Mercedes Benz,Classe C,2023,16,Hybride léger essence,Automatique,9,5,occasion,192000
+Mercedes Benz,Classe C,2014,137,Essence,Automatique,9,4,occasion,84000
+Mercedes Benz,Classe C,2020,90,Essence,Automatique,9,4,occasion,130000
+Mercedes Benz,Classe C,2018,56,Essence,Automatique,8,4,occasion,97500
+Mercedes Benz,Classe C,2019,60,Diesel,Automatique,9,5,occasion,148000
+Mercedes Benz,Classe C,2023,55,Hybride léger essence,Automatique,9,4,occasion,205000
+Mercedes Benz,Classe C,2020,116,Essence,Automatique,8,5,occasion,135000
+Mercedes Benz,Classe C,2010,386,Diesel,Manuelle,6,5,occasion,44500
+Mercedes Benz,Classe C,2018,148,Hybride léger essence,Automatique,10,4,occasion,150000
+Mercedes Benz,Classe C,2019,147,Diesel,Automatique,11,5,occasion,125000
+Mercedes Benz,Classe C,2015,217,Essence,Manuelle,8,4,occasion,72000
+Mercedes Benz,Classe C,2022,29,Hybride léger essence,Automatique,10,4,occasion,195000
+Mercedes Benz,Classe C,2009,193,Diesel,Manuelle,8,4,occasion,45000
+Mercedes Benz,Classe C,2015,105,Essence,Automatique,8,4,occasion,77000
+Mercedes Benz,Classe C,2015,168,Essence,Automatique,8,5,occasion,99500
+Mercedes Benz,Classe C,2015,200,Essence,Automatique,8,4,occasion,69000
+Mercedes Benz,Classe C,2014,164,Essence,Automatique,12,5,occasion,65000
+Mercedes Benz,Classe C,2015,180,Essence,Automatique,10,5,occasion,120000
+Mercedes Benz,Classe C,2012,44,Diesel,Manuelle,6,5,occasion,54000
+Mercedes Benz,Classe C,2024,19,Hybride léger essence,Automatique,9,4,occasion,218000
+Mercedes Benz,Classe C,2020,55,Essence,Automatique,8,4,occasion,135000
+Mercedes Benz,Classe C,2018,87,Diesel,Automatique,6,5,occasion,120000
+Mercedes Benz,Classe C,2021,73,Diesel,Automatique,9,5,occasion,148000
+Mercedes Benz,Classe C,2017,150,Essence,Automatique,8,5,occasion,95000
+Mercedes Benz,Classe C,2008,404,Essence,Manuelle,11,5,occasion,48000
+Mercedes Benz,Classe C,2017,105,Diesel,Manuelle,7,5,occasion,83500
+Mercedes Benz,Classe C,2024,20,Hybride léger essence,Automatique,9,4,occasion,243000
+Mercedes Benz,Classe C,2017,76,Diesel,Automatique,10,5,occasion,95000
+Mercedes Benz,Classe C,2023,37,Hybride léger essence,Automatique,9,4,occasion,210000
+Mercedes Benz,Classe C,2017,54,Diesel,Automatique,10,5,occasion,98000
+Mercedes Benz,Classe C,2021,80,Hybride léger essence,Automatique,9,4,occasion,147000
+Mercedes Benz,Classe C,2018,125,Essence,Automatique,9,4,occasion,119000
+Mercedes Benz,Classe E Coupe,2010,80,Essence,Automatique,19,3,occasion,62000
+Mercedes Benz,Classe E Coupe,2014,230,Essence,Automatique,10,2,occasion,91500
+Mercedes Benz,Classe E Coupe,2014,112,Essence,Automatique,10,4,occasion,70000
+Mercedes Benz,Classe E Coupe,2018,100,Essence,Automatique,10,3,occasion,198000
+Mercedes Benz,Classe E Coupe,2010,180,Essence,Automatique,12,3,occasion,65000
+Mercedes Benz,Classe E Coupe,2018,100,Essence,Automatique,10,2,occasion,197000
+Mercedes Benz,Classe E Coupe,2010,180,Essence,Automatique,11,3,occasion,55000
+Mercedes Benz,Classe E,2009,195,Essence,Automatique,11,4,occasion,55000
+Mercedes Benz,Classe E,2017,88,Essence,Automatique,9,4,occasion,105000
+Mercedes Benz,Classe E,2021,30,Essence,Automatique,9,4,occasion,248000
+Mercedes Benz,Classe E,2009,195,Diesel,Automatique,12,4,occasion,59000
+Mercedes Benz,Classe E,2022,55,Hybride léger essence,Automatique,11,4,occasion,335000
+Mercedes Benz,Classe E,2017,168,Essence,Automatique,9,4,occasion,85000
+Mercedes Benz,Classe E,2014,140,Essence,Automatique,10,4,occasion,79000
+Mercedes Benz,Classe E,2016,271,Essence,Automatique,10,5,occasion,118000
+Mercedes Benz,Classe E,2018,165,Essence,Automatique,9,4,occasion,129000
+Mercedes Benz,Classe E,2017,225,Essence,Automatique,9,4,occasion,123000
+Mercedes Benz,Classe E,2016,174,Essence,Automatique,10,5,occasion,115000
+Mercedes Benz,Classe E,2016,187,Essence,Automatique,10,4,occasion,139000
+Mercedes Benz,Classe E,2018,165,Essence,Automatique,9,4,occasion,128000
+Mercedes Benz,Classe E,2021,190,Hybride rechargeable essence,Automatique,12,4,occasion,218000
+Mercedes Benz,Classe E,2013,199,Essence,Automatique,11,5,occasion,59000
+Mercedes Benz,Classe E,2021,190,Essence,Automatique,9,4,occasion,129000
+Mercedes Benz,Classe E,2013,199,Essence,Automatique,15,4,occasion,50000
+Mercedes Benz,Classe E,2021,190,Hybride rechargeable essence,Automatique,12,4,occasion,225000
+Mercedes Benz,Classe E,2015,52,Essence,Automatique,10,4,occasion,79000
+Mercedes Benz,Classe E,2003,380,Diesel,Manuelle,9,5,occasion,34900
+Mercedes Benz,Classe E,2017,223,Essence,Automatique,9,4,occasion,118000
+Mercedes Benz,Classe E,2013,208,Essence,Automatique,11,5,occasion,75000
+Mercedes Benz,Classe E,2017,68,Essence,Automatique,10,4,occasion,120000
+Mercedes Benz,Classe E,2013,125,Essence,Automatique,10,5,occasion,69000
+Mercedes Benz,Classe E,2023,10,Hybride léger essence,Automatique,12,4,occasion,285000
+Mercedes Benz,Classe E,2014,140,Essence,Automatique,9,5,occasion,85000
+Mercedes Benz,Classe E,2017,150,Essence,Automatique,10,4,occasion,124000
+Mercedes Benz,Classe E,2012,247,Diesel,Automatique,8,5,occasion,68500
+Mercedes Benz,Classe E,2018,107,Essence,Automatique,9,4,occasion,130000
+Mercedes Benz,Classe E,2019,31,Essence,Automatique,9,4,occasion,114000
+Mercedes Benz,Classe E,2015,152,Essence,Automatique,10,4,occasion,95500
+Mercedes Benz,Classe E,2019,156,Diesel,Automatique,11,4,occasion,162000
+Mercedes Benz,Classe E,2010,340,Diesel,Automatique,10,5,occasion,68000
+Mercedes Benz,Classe E,2021,30,Hybride rechargeable essence,Automatique,10,4,occasion,195000
+Mercedes Benz,Classe E,2021,57,Hybride rechargeable essence,Automatique,12,4,occasion,220000
+Mercedes Benz,Classe E,2016,271,Essence,Automatique,12,5,occasion,120000
+Mercedes Benz,Classe E,2011,120,Essence,Automatique,11,5,occasion,49900
+Mercedes Benz,Classe E,2019,80,Diesel,Automatique,8,5,occasion,152000
+Mercedes Benz,Classe E,2002,275,Diesel,Manuelle,9,4,occasion,35000
+Mercedes Benz,Classe E,2010,190,Diesel,Automatique,10,5,occasion,51000
+Mercedes Benz,Classe E,2009,161,Diesel,Automatique,11,5,occasion,56000
+Mercedes Benz,Classe E,2019,80,Essence,Automatique,9,4,occasion,168000
+Mercedes Benz,Classe E,2022,15,Hybride rechargeable essence,Automatique,10,4,occasion,195000
+Mercedes Benz,Classe E,2011,297,Diesel,Automatique,14,5,occasion,79900
+Mercedes Benz,Classe E,2016,154,Essence,Automatique,10,5,occasion,119000
+Mercedes Benz,Classe E,2017,161,Essence,Automatique,9,4,occasion,98000
+Mercedes Benz,Classe E,2012,182,Essence,Automatique,11,5,occasion,57000
+Mercedes Benz,Classe E,2016,130,Essence,Automatique,10,4,occasion,128000
+Mercedes Benz,Classe E,2016,187,Diesel,Automatique,10,5,occasion,118000
+Mercedes Benz,Classe E,2021,190,Essence,Automatique,9,4,occasion,129000
+Mercedes Benz,Classe E,2017,252,Diesel,Automatique,10,4,occasion,140000
+Mercedes Benz,Classe E,2013,221,Essence,Automatique,10,4,occasion,89000
+Mercedes Benz,Classe E,2021,34,Diesel,Automatique,8,5,occasion,155000
+Mercedes Benz,Classe E,2016,140,Essence,Automatique,10,4,occasion,110000
+Mercedes Benz,Classe E,2003,380,Diesel,Manuelle,9,5,occasion,32000
+Mercedes Benz,Classe E,2014,140,Essence,Automatique,10,5,occasion,83500
+Mercedes Benz,Classe E,2020,110,Essence,Automatique,11,5,occasion,139000
+Mercedes Benz,Classe G,2017,44000,Diesel,Automatique,17,5,occasion,450000
+Mercedes Benz,Classe Gl,2016,94,Essence,Automatique,36,5,occasion,350000
+Mercedes Benz,Classe Gl,2019,44,Diesel,Automatique,16,5,occasion,180000
+Mercedes Benz,Classe S,2008,212,Essence,Automatique,19,4,occasion,95000
+Mercedes Benz,Classe S,2008,151,Essence,Automatique,18,4,occasion,102000
+Mercedes Benz,Classe S,2018,76,Hybride essence,Automatique,16,5,occasion,570000
+Mercedes Benz,Classe S,2008,169,Essence,Automatique,19,4,occasion,65000
+Mercedes Benz,Classe S,2014,50,Diesel,Automatique,17,5,occasion,259000
+Mercedes Benz,Classe S,2008,151,Essence,Automatique,29,4,occasion,69000
+Mercedes Benz,Classe S,2010,165,Diesel,Automatique,15,5,occasion,250000
+Mercedes Benz,Classe S,2008,212,Essence,Automatique,15,4,occasion,78000
+Mercedes Benz,Classe X,2018,158,Diesel,Automatique,8,4,occasion,155000
+Mercedes Benz,Classe X,2019,152,Diesel,Manuelle,8,4,occasion,135000
+Mercedes Benz,Cle Coupe,2024,15000,Essence,Automatique,12,2,occasion,316200
+Mercedes Benz,Cls,2013,281,Diesel,Automatique,11,4,occasion,78000
+Mercedes Benz,Cls,2013,281,Diesel,Automatique,11,4,occasion,155000
+Mercedes Benz,Cls,2011,230,Diesel,Automatique,11,4,occasion,85000
+Mercedes Benz,Eqa,2021,40,Electrique,Automatique,6,4,occasion,150000
+Mercedes Benz,Eqa,2021,40,Electrique,Automatique,8,5,occasion,147000
+Mercedes Benz,Eqa,2021,18,Electrique,Automatique,8,4,occasion,129500
+Mercedes Benz,Eqa,2022,50,Electrique,Automatique,7,5,occasion,185000
+Mercedes Benz,Eqb,2025,6,Electrique,Automatique,8,4,occasion,185000
+Mercedes Benz,Eqb,2023,9,Electrique,Automatique,7,5,occasion,175000
+Mercedes Benz,Eqs Berline,2022,53,Electrique,Automatique,8,4,occasion,350000
+Mercedes Benz,Eqs Berline,2022,51,Electrique,Automatique,8,4,occasion,310000
+Mercedes Benz,Gla,2016,185,Essence,Automatique,8,4,occasion,115000
+Mercedes Benz,Gla,2023,45,Hybride rechargeable essence,Automatique,8,4,occasion,218000
+Mercedes Benz,Gla,2021,63,Essence,Automatique,9,5,occasion,165000
+Mercedes Benz,Gla,2021,79,Hybride rechargeable essence,Automatique,8,5,occasion,156000
+Mercedes Benz,Gla,2015,97,Essence,Automatique,7,5,occasion,88000
+Mercedes Benz,Gla,2015,190,Essence,Automatique,8,5,occasion,89000
+Mercedes Benz,Gla,2017,150,Essence,Automatique,8,5,occasion,130000
+Mercedes Benz,Gla,2016,67,Diesel,Automatique,9,5,occasion,95000
+Mercedes Benz,Gla,2021,120,Hybride rechargeable essence,Automatique,8,5,occasion,163000
+Mercedes Benz,Gla,2021,44,Hybride rechargeable essence,Automatique,8,4,occasion,158000
+Mercedes Benz,Gla,2022,48,Essence,Automatique,7,5,occasion,155000
+Mercedes Benz,Gla,2021,44,Essence,Automatique,7,5,occasion,105000
+Mercedes Benz,Gla,2021,79,Hybride rechargeable essence,Automatique,6,4,occasion,175000
+Mercedes Benz,Gla,2021,72,Hybride rechargeable essence,Automatique,8,4,occasion,137800
+Mercedes Benz,Gla,2016,67,Essence,Automatique,8,5,occasion,84000
+Mercedes Benz,Gla,2020,139,Essence,Automatique,9,5,occasion,129000
+Mercedes Benz,Gla,2021,77,Diesel,Automatique,8,5,occasion,179000
+Mercedes Benz,Gla,2021,56,Hybride rechargeable essence,Automatique,8,4,occasion,155000
+Mercedes Benz,Gla,2021,61,Hybride rechargeable essence,Automatique,8,4,occasion,137000
+Mercedes Benz,Gla,2022,90,Hybride rechargeable essence,Automatique,8,5,occasion,169000
+Mercedes Benz,Gla,2022,35,Hybride rechargeable essence,Automatique,8,5,occasion,148000
+Mercedes Benz,Gla,2016,185,Essence,Automatique,9,4,occasion,95000
+Mercedes Benz,Gla,2015,97,Diesel,Manuelle,5,5,occasion,78000
+Mercedes Benz,Gla,2021,61,Hybride rechargeable essence,Automatique,8,4,occasion,161000
+Mercedes Benz,Gla,2021,72,Hybride rechargeable essence,Automatique,8,4,occasion,155000
+Mercedes Benz,Gla,2023,45,Hybride rechargeable essence,Automatique,8,5,occasion,170000
+Mercedes Benz,Gla,2023,45,Hybride rechargeable essence,Automatique,8,5,occasion,170000
+Mercedes Benz,Gla,2022,82,Hybride rechargeable essence,Automatique,8,5,occasion,164000
+Mercedes Benz,Glb,2022,30,Diesel,Automatique,8,4,occasion,188000
+Mercedes Benz,Glb,2023,16,Essence,Automatique,9,4,occasion,180000
+Mercedes Benz,Glc Coupe,2020,69,Hybride rechargeable essence,Automatique,10,4,occasion,198000
+Mercedes Benz,Glc Coupe,2021,38,Hybride rechargeable essence,Automatique,12,4,occasion,258000
+Mercedes Benz,Glc Coupe,2021,38,Hybride rechargeable essence,Automatique,12,4,occasion,232000
+Mercedes Benz,Glc Coupe,2021,41,Hybride rechargeable essence,Automatique,12,4,occasion,252000
+Mercedes Benz,Glc Coupe,2020,85,Hybride léger essence,Automatique,12,5,occasion,235000
+Mercedes Benz,Glc Coupe,2020,82,Hybride rechargeable essence,Automatique,10,4,occasion,225000
+Mercedes Benz,Glc Coupe,2020,69,Hybride rechargeable essence,Automatique,12,5,occasion,238000
+Mercedes Benz,Glc Coupe,2024,33,Hybride léger essence,Automatique,11,4,occasion,357000
+Mercedes Benz,Glc Coupe,2025,9,Hybride rechargeable essence,Automatique,11,5,occasion,380000
+Mercedes Benz,Glc Coupe,2021,33,Hybride rechargeable essence,Automatique,12,4,occasion,218000
+Mercedes Benz,Glc Coupe,2020,69,Hybride rechargeable essence,Automatique,12,5,occasion,209000
+Mercedes Benz,Glc Coupe,2025,4,Hybride léger essence,Automatique,11,4,occasion,380000
+Mercedes Benz,Glc Coupe,2018,39,Diesel,Automatique,11,5,occasion,185000
+Mercedes Benz,Glc Coupe,2021,38,Hybride rechargeable essence,Automatique,12,5,occasion,198000
+Mercedes Benz,Glc Coupe,2024,14,Hybride léger essence,Automatique,11,5,occasion,310000
+Mercedes Benz,Glc Coupe,2021,55,Hybride rechargeable essence,Automatique,12,4,occasion,265000
+Mercedes Benz,Glc Coupe,2021,39,Hybride rechargeable essence,Automatique,12,5,occasion,232000
+Mercedes Benz,Glc Coupe,2020,79,Hybride léger essence,Automatique,15,4,occasion,240000
+Mercedes Benz,Glc Coupe,2021,55,Hybride léger essence,Automatique,16,5,occasion,229000
+Mercedes Benz,Glc Coupe,2018,1,Diesel,Automatique,9,5,occasion,129000
+Mercedes Benz,Glc Coupe,2018,130,Essence,Automatique,13,5,occasion,195000
+Mercedes Benz,Glc Coupe,2020,79,Diesel,Automatique,12,5,occasion,220000
+Mercedes Benz,Glc Coupe,2024,33,Hybride léger essence,Automatique,12,5,occasion,310000
+Mercedes Benz,Glc Coupe,2018,150,Diesel,Automatique,9,5,occasion,220000
+Mercedes Benz,Glc Coupe,2018,1,Essence,Automatique,15,5,occasion,159000
+Mercedes Benz,Glc,2018,105,Hybride rechargeable essence,Automatique,10,5,occasion,178500
+Mercedes Benz,Glc,2020,94,Hybride rechargeable essence,Automatique,12,4,occasion,255000
+Mercedes Benz,Glc,2020,94,Hybride rechargeable essence,Automatique,10,4,occasion,225000
+Mercedes Benz,Glc,2018,105,Essence,Automatique,12,4,occasion,120000
+Mercedes Benz,Glc,2020,73,Hybride rechargeable essence,Automatique,12,5,occasion,169000
+Mercedes Benz,Glc,2021,59,Hybride rechargeable essence,Automatique,12,4,occasion,375000
+Mercedes Benz,Glc,2017,53,Essence,Automatique,12,5,occasion,145000
+Mercedes Benz,Glc,2021,56,Hybride léger essence,Automatique,12,4,occasion,250000
+Mercedes Benz,Glc,2020,76,Hybride rechargeable essence,Automatique,12,4,occasion,250000
+Mercedes Benz,Glc,2017,53,Essence,Automatique,12,5,occasion,119000
+Mercedes Benz,Glc,2017,150,Diesel,Automatique,9,5,occasion,149000
+Mercedes Benz,Gle Coupe,2021,40,Hybride rechargeable diesel,Automatique,11,5,occasion,360000
+Mercedes Benz,Gle Coupe,2022,17,Hybride rechargeable essence,Automatique,12,4,occasion,390000
+Mercedes Benz,Gle Coupe,2018,85,Diesel,Automatique,16,4,occasion,225000
+Mercedes Benz,Gle Coupe,2023,23,Hybride léger diesel,Automatique,17,4,occasion,385000
+Mercedes Benz,Gle Coupe,2021,40,Hybride rechargeable essence,Automatique,12,5,occasion,365000
+Mercedes Benz,Gle Coupe,2017,87,Essence,Automatique,26,4,occasion,225000
+Mercedes Benz,Gle Coupe,2024,18,Hybride rechargeable essence,Automatique,15,4,occasion,480000
+Mercedes Benz,Gle Coupe,2018,130,Diesel,Automatique,16,5,occasion,209000
+Mercedes Benz,Gle Coupe,2022,63,Hybride rechargeable essence,Automatique,12,4,occasion,375000
+Mercedes Benz,Gle Coupe,2022,63,Hybride léger diesel,Automatique,16,5,occasion,440000
+Mercedes Benz,Gle Coupe,2025,15,Hybride rechargeable essence,Automatique,15,5,occasion,468000
+Mercedes Benz,Gle Coupe,2021,45,Hybride rechargeable diesel,Automatique,16,4,occasion,420000
+Mercedes Benz,Gle Coupe,2021,45,Hybride rechargeable essence,Automatique,12,5,occasion,379000
+Mercedes Benz,Gle Coupe,2017,40,Essence,Automatique,23,5,occasion,260000
+Mercedes Benz,Gle Coupe,2024,18,Hybride rechargeable essence,Automatique,15,5,occasion,460000
+Mercedes Benz,Gle Coupe,2017,87,Essence,Automatique,26,5,occasion,310000
+Mercedes Benz,Gle Coupe,2017,138,Diesel,Automatique,16,4,occasion,225000
+Mercedes Benz,Gle,2020,95,Hybride léger essence,Automatique,12,5,occasion,290000
+Mercedes Benz,Gle,2021,109,Diesel,Automatique,14,5,occasion,335000
+Mercedes Benz,Glk,2009,71000,Essence,Automatique,16,5,occasion,80000
+Mercedes Benz,Ml,2007,350,Diesel,Automatique,15,4,occasion,65000
+Mercedes Benz,Ml,2011,253,Essence,Automatique,19,5,occasion,68000
+Mercedes Benz,Ml,2007,330,Diesel,Automatique,15,5,occasion,58000
+Mercedes Benz,Ml,2007,350,Diesel,Automatique,13,5,occasion,49000
+Mercedes Benz,Ml,2011,198,Diesel,Automatique,12,5,occasion,110000
+Mercedes Benz,Ml,2011,198,Diesel,Automatique,15,5,occasion,67000
+Mercedes Benz,Viano,2004,325000,Diesel,Manuelle,8,5,occasion,48000
+Mg,3,2021,96000,Essence,Automatique,7,5,occasion,45000
+Mg,5,2021,85,Electrique,Automatique,7,4,occasion,67000
+Mg,5,2020,168,Essence,Manuelle,6,4,occasion,43000
+Mg,5,2020,168,Essence,Manuelle,6,4,occasion,48500
+Mg,5,2021,85,Essence,Manuelle,6,4,occasion,38000
+Mg,6,2021,41000,Essence,Automatique,8,5,occasion,80000
+Mg,Gs,2017,128,Essence,Automatique,9,5,occasion,54000
+Mg,Gs,2017,202,Essence,Automatique,9,5,occasion,57000
+Mg,Gs,2017,128,Essence,Automatique,9,5,occasion,62000
+Mg,Gs,2017,202,Essence,Automatique,9,5,occasion,50000
+Mg,Gs,2017,220,Essence,Automatique,9,5,occasion,49500
+Mg,Gt,2023,20,Essence,Manuelle,6,4,occasion,35500
+Mg,Gt,2024,29,Essence,Automatique,7,4,occasion,74000
+Mg,Gt,2024,58,Essence,Automatique,7,4,occasion,82000
+Mg,Gt,2024,58,Essence,Automatique,9,4,occasion,80000
+Mg,Hs,2021,110,Essence,Automatique,10,5,occasion,77500
+Mg,Hs,2021,78,Essence,Automatique,10,4,occasion,79000
+Mg,Hs,2022,52,Essence,Automatique,15,5,occasion,98000
+Mg,Hs,2022,52,Essence,Automatique,9,5,occasion,87000
+Mg,Hs,2022,57,Essence,Automatique,9,5,occasion,80000
+Mg,Hs,2021,78,Essence,Automatique,10,5,occasion,80000
+Mg,Hs,2022,57,Essence,Automatique,9,5,occasion,93000
+Mg,One,2024,22,Essence,Automatique,9,5,occasion,70000
+Mg,One,2024,31,Essence,Automatique,10,5,occasion,132240
+Mg,Zs,2022,59,Essence,Automatique,7,5,occasion,73500
+Mg,Zs,2022,23,Essence,Automatique,7,5,occasion,69500
+Mg,Zs,2018,67,Essence,Automatique,7,5,occasion,49500
+Mg,Zs,2022,47,Essence,Automatique,7,5,occasion,70000
+Mg,Zs,2019,124,Essence,Manuelle,7,5,occasion,54000
+Mg,Zs,2019,182,Essence,Automatique,7,4,occasion,55500
+Mg,Zs,2022,47,Essence,Automatique,9,5,occasion,75000
+Mg,Zs,2020,80,Essence,Automatique,7,5,occasion,62000
+Mg,Zs,2019,165,Essence,Automatique,7,5,occasion,47500
+Mg,Zs,2020,114,Essence,Automatique,7,5,occasion,58800
+Mg,Zs,2020,114,Essence,Manuelle,7,5,occasion,53500
+Mg,Zs,2019,182,Essence,Manuelle,7,5,occasion,55000
+Mg,Zs,2020,68,Essence,Automatique,7,5,occasion,55000
+Mg,Zs,2022,23,Essence,Manuelle,7,5,occasion,67500
+Mg,Zs,2018,159,Essence,Manuelle,7,5,occasion,57000
+Mg,Zs,2020,80,Essence,Manuelle,7,5,occasion,53000
+Mg,Zs,2022,59,Essence,Automatique,9,5,occasion,80000
+Mg,Zs,2022,56,Essence,Automatique,7,5,occasion,72840
+Mini,3 Portes,2009,180,Essence,Manuelle,5,2,occasion,25500
+Mini,3 Portes,2009,297,Essence,Manuelle,4,3,occasion,35900
+Mini,3 Portes,2009,297,Essence,Manuelle,5,3,occasion,29000
+Mini,3 Portes,2009,180,Essence,Manuelle,5,3,occasion,32000
+Mini,5 Portes,2021,113000,Essence,Manuelle,5,5,occasion,65000
+Mini,Cooper S,2013,76400,Essence,Automatique,11,2,occasion,46000
+Mini,Countryman,2018,90000,Essence,Automatique,6,5,occasion,98000
+Mini,John Cooper Works,2010,220000,Essence,Manuelle,5,2,occasion,26500
+Mitsubishi,Asx,2015,198,Essence,Manuelle,9,5,occasion,46000
+Mitsubishi,Asx,2012,188,Essence,Manuelle,6,5,occasion,75000
+Mitsubishi,Attrage,2018,197000,Essence,Automatique,4,4,occasion,32000
+Mitsubishi,Attrage,2018,197,Essence,Manuelle,4,4,occasion,32000
+Mitsubishi,L200 Double Cabine,2024,23990,Diesel,Manuelle,8,4,occasion,135000
+Mitsubishi,L200 Sportero,2008,177,Diesel,Manuelle,8,5,occasion,65000
+Mitsubishi,L200 Sportero,2011,150,Diesel,Automatique,8,4,occasion,140000
+Mitsubishi,L200 Sportero,2011,150,Diesel,Manuelle,10,5,occasion,59000
+Mitsubishi,Lancer,2010,217000,Essence,Automatique,9,5,occasion,25000
+Mitsubishi,Pajero Sport,1999,510000,Diesel,Manuelle,9,4,occasion,45000
+Mitsubishi,Pajero,1993,310,Diesel,Manuelle,9,3,occasion,48000
+Mitsubishi,Pajero,2010,220,Diesel,Manuelle,11,5,occasion,135000
+Mitsubishi,Pajero,2010,220,Diesel,Manuelle,11,5,occasion,98000
+Mitsubishi,Pajero,1999,200,Diesel,Manuelle,10,5,occasion,35000
+Mitsubishi,Pajero,2010,157,Diesel,Manuelle,11,5,occasion,120000
+Nissan,Altima,2015,138000,Essence,Automatique,11,4,occasion,46000
+Nissan,Juke,2013,224,Essence,Automatique,6,5,occasion,47500
+Nissan,Juke,2013,150,Essence,Automatique,6,5,occasion,78000
+Nissan,Juke,2013,150,Essence,Manuelle,5,5,occasion,34900
+Nissan,Micra,2017,143,Essence,Manuelle,5,5,occasion,28500
+Nissan,Micra,2017,143,Essence,Manuelle,5,5,occasion,28500
+Nissan,Micra,2017,143,Essence,Manuelle,5,5,occasion,27900
+Nissan,Navara,2012,238,Diesel,Automatique,8,4,occasion,195000
+Nissan,Navara,2011,377,Diesel,Manuelle,10,4,occasion,46500
+Nissan,Navara,2012,238,Diesel,Manuelle,10,4,occasion,40000
+Nissan,Navara,2011,377,Diesel,Manuelle,10,4,occasion,41000
+Nissan,Navara,2009,430,Diesel,Automatique,8,4,occasion,53000
+Nissan,Patrol,2005,260,Diesel,Manuelle,12,5,occasion,52000
+Nissan,Patrol,1990,200,Diesel,Manuelle,11,2,occasion,37000
+Nissan,Patrol,2001,250,Diesel,Manuelle,12,5,occasion,75000
+Nissan,Patrol,2005,260,Diesel,Manuelle,15,5,occasion,64000
+Nissan,Patrol,1991,481,Diesel,Manuelle,11,2,occasion,33500
+Nissan,Patrol,2001,384,Diesel,Manuelle,11,5,occasion,58000
+Nissan,Patrol,2005,260,Diesel,Manuelle,15,5,occasion,64000
+Nissan,Qashqai,2024,11,Hybride essence,Automatique,8,4,occasion,150000
+Nissan,Qashqai,2017,150,Essence,Automatique,6,5,occasion,63000
+Nissan,Qashqai,2020,33,Essence,Automatique,6,5,occasion,76000
+Nissan,Qashqai,2015,53,Essence,Automatique,6,5,occasion,52000
+Nissan,Qashqai,2020,65,Essence,Automatique,6,5,occasion,68000
+Nissan,Qashqai,2015,175,Essence,Automatique,6,5,occasion,52100
+Nissan,Qashqai,2017,100,Essence,Automatique,6,5,occasion,62000
+Nissan,Qashqai,2020,111,Essence,Automatique,6,5,occasion,75000
+Nissan,Qashqai,2016,92,Essence,Automatique,6,5,occasion,49000
+Nissan,Qashqai,2015,138,Essence,Manuelle,6,5,occasion,50000
+Nissan,Qashqai,2025,7,Hybride léger essence,Automatique,7,5,occasion,139000
+Nissan,Qashqai,2015,142,Diesel,Manuelle,7,5,occasion,47500
+Nissan,Qashqai,2015,180,Essence,Manuelle,6,5,occasion,56000
+Nissan,Qashqai,2015,138,Essence,Manuelle,7,5,occasion,38000
+Nissan,Qashqai,2015,165,Diesel,Manuelle,7,5,occasion,64000
+Nissan,Qashqai,2020,33,Essence,Automatique,8,5,occasion,89000
+Nissan,Qashqai,2017,163,Essence,Manuelle,6,5,occasion,77000
+Nissan,Qashqai,2019,90,Essence,Automatique,6,5,occasion,79000
+Nissan,Qashqai,2016,134,Essence,Automatique,6,4,occasion,60000
+Nissan,Qashqai,2017,150,Diesel,Manuelle,5,5,occasion,65000
+Nissan,Terrano,2001,400000,Diesel,Manuelle,10,5,occasion,33000
+Nissan,X Trail,2004,357000,Diesel,Manuelle,9,5,occasion,35500
+Opel,Astra,2022,85,Essence,Manuelle,6,5,occasion,49900
+Opel,Astra,2022,85,Essence,Automatique,7,5,occasion,95000
+Opel,Astra,2021,95,Essence,Manuelle,8,5,occasion,31000
+Opel,Astra,2021,95,Diesel,Manuelle,5,5,occasion,65000
+Opel,Calibra,1994,76000,Essence,Manuelle,8,3,occasion,55000
+Opel,Campo,1996,570000,Diesel,Manuelle,10,5,occasion,45000
+Opel,Combo,2021,164,Diesel,Manuelle,5,3,occasion,45000
+Opel,Combo,2021,72,Diesel,Manuelle,5,3,occasion,40000
+Opel,Corsa,2021,121,Essence,Manuelle,5,5,occasion,33500
+Opel,Corsa,2022,171,Essence,Manuelle,5,5,occasion,40000
+Opel,Corsa,2022,115,Essence,Manuelle,5,5,occasion,39000
+Opel,Corsa,2022,115,Essence,Manuelle,5,5,occasion,35000
+Opel,Mokka,2022,67396,Essence,Automatique,7,4,occasion,72000
+Opel,Movano,2022,58000,Diesel,Manuelle,7,5,occasion,28810
+Opel,Vivaro,2010,82000,Diesel,Manuelle,7,2,occasion,42000
+Peugeot,108,2016,94000,Essence,Manuelle,4,5,occasion,33000
+Peugeot,2008,2017,98,Essence,Manuelle,5,5,occasion,50000
+Peugeot,2008,2020,100,Diesel,Automatique,6,5,occasion,89000
+Peugeot,2008,2021,11,Diesel,Manuelle,5,5,occasion,68500
+Peugeot,2008,2020,91,Essence,Automatique,7,5,occasion,62000
+Peugeot,2008,2018,127,Essence,Manuelle,5,5,occasion,37900
+Peugeot,2008,2016,128,Essence,Manuelle,5,5,occasion,38500
+Peugeot,2008,2018,104,Essence,Automatique,6,5,occasion,42000
+Peugeot,2008,2020,65,Essence,Manuelle,5,5,occasion,75500
+Peugeot,2008,2021,143,Essence,Automatique,5,5,occasion,57000
+Peugeot,2008,2020,112,Essence,Automatique,7,5,occasion,58000
+Peugeot,2008,2016,128,Essence,Manuelle,5,5,occasion,34000
+Peugeot,2008,2020,43,Essence,Manuelle,5,5,occasion,46000
+Peugeot,2008,2015,103,Essence,Manuelle,5,5,occasion,30000
+Peugeot,2008,2020,100,Essence,Manuelle,6,4,occasion,63000
+Peugeot,2008,2021,143,Diesel,Automatique,7,4,occasion,85000
+Peugeot,2008,2015,103,Essence,Manuelle,5,5,occasion,38000
+Peugeot,2008,2020,65,Essence,Manuelle,6,5,occasion,46000
+Peugeot,2008,2017,48,Essence,Manuelle,5,5,occasion,48500
+Peugeot,2008,2020,126,Essence,Manuelle,6,5,occasion,61000
+Peugeot,206 Plus,2012,120000,Diesel,Manuelle,4,5,occasion,16000
+Peugeot,206,2005,193,Essence,Manuelle,4,5,occasion,20500
+Peugeot,206,2004,300,Essence,Manuelle,4,5,occasion,19800
+Peugeot,206,2004,222,Essence,Manuelle,4,5,occasion,19500
+Peugeot,206,2005,300,Essence,Manuelle,4,4,occasion,18000
+Peugeot,208,2021,25,Essence,Manuelle,4,5,occasion,35500
+Peugeot,208,2022,58,Essence,Manuelle,4,5,occasion,44000
+Peugeot,208,2016,179,Essence,Manuelle,5,5,occasion,35000
+Peugeot,208,2022,29,Essence,Manuelle,5,5,occasion,49500
+Peugeot,208,2018,135,Essence,Manuelle,5,5,occasion,31500
+Peugeot,208,2018,135,Essence,Manuelle,5,5,occasion,33500
+Peugeot,208,2023,62,Essence,Manuelle,4,5,occasion,38900
+Peugeot,208,2022,70,Essence,Manuelle,5,5,occasion,44000
+Peugeot,208,2022,41,Essence,Manuelle,4,5,occasion,39500
+Peugeot,208,2022,69,Essence,Manuelle,4,5,occasion,43000
+Peugeot,208,2022,69,Essence,Manuelle,4,5,occasion,44000
+Peugeot,208,2015,235,Essence,Manuelle,5,5,occasion,32500
+Peugeot,208,2022,41,Essence,Manuelle,4,5,occasion,40000
+Peugeot,208,2020,78,Essence,Manuelle,5,5,occasion,42000
+Peugeot,208,2021,25,Diesel,Manuelle,5,5,occasion,43500
+Peugeot,208,2019,116,Essence,Manuelle,4,5,occasion,28500
+Peugeot,208,2020,115,Essence,Manuelle,4,5,occasion,29500
+Peugeot,208,2023,26,Essence,Manuelle,4,5,occasion,39000
+Peugeot,208,2019,166,Essence,Manuelle,4,5,occasion,27000
+Peugeot,208,2022,25,Essence,Manuelle,5,5,occasion,37500
+Peugeot,208,2018,75,Essence,Manuelle,4,4,occasion,29500
+Peugeot,208,2020,115,Essence,Manuelle,4,5,occasion,32000
+Peugeot,208,2021,119,Essence,Manuelle,6,5,occasion,55000
+Peugeot,208,2021,49,Essence,Manuelle,5,5,occasion,35000
+Peugeot,208,2021,119,Essence,Manuelle,5,5,occasion,46000
+Peugeot,208,2023,62,Essence,Manuelle,4,5,occasion,42500
+Peugeot,208,2022,67,Essence,Manuelle,5,5,occasion,46500
+Peugeot,208,2023,49,Essence,Manuelle,4,5,occasion,41500
+Peugeot,208,2019,116,Essence,Manuelle,4,5,occasion,26500
+Peugeot,208,2022,39,Electrique,Automatique,5,5,occasion,59000
+Peugeot,208,2016,106,Essence,Manuelle,5,5,occasion,32500
+Peugeot,208,2022,70,Essence,Manuelle,4,4,occasion,36000
+Peugeot,208,2016,179,Essence,Manuelle,5,5,occasion,24000
+Peugeot,3008,2018,117,Essence,Automatique,9,5,occasion,84900
+Peugeot,3008,2017,222,Essence,Manuelle,7,4,occasion,62000
+Peugeot,3008,2022,115,Essence,Automatique,9,5,occasion,78000
+Peugeot,3008,2022,140,Essence,Manuelle,6,5,occasion,76000
+Peugeot,3008,2017,222,Diesel,Manuelle,6,5,occasion,73500
+Peugeot,3008,2019,170,Essence,Manuelle,7,5,occasion,73000
+Peugeot,3008,2012,168,Essence,Manuelle,7,5,occasion,31000
+Peugeot,3008,2017,182,Essence,Automatique,9,4,occasion,74000
+Peugeot,3008,2020,164,Essence,Automatique,7,5,occasion,70000
+Peugeot,3008,2020,24,Diesel,Manuelle,6,4,occasion,73000
+Peugeot,3008,2017,182,Essence,Automatique,9,4,occasion,83000
+Peugeot,3008,2020,164,Essence,Automatique,9,5,occasion,91000
+Peugeot,3008,2020,169,Essence,Automatique,7,5,occasion,70000
+Peugeot,3008,2013,200,Essence,Manuelle,7,5,occasion,34000
+Peugeot,3008,2020,85,Diesel,Manuelle,6,5,occasion,75000
+Peugeot,3008,2020,85,Essence,Automatique,7,5,occasion,80000
+Peugeot,301,2019,220,Essence,Manuelle,5,4,occasion,38000
+Peugeot,301,2017,170,Essence,Manuelle,5,4,occasion,23000
+Peugeot,301,2016,160,Essence,Manuelle,5,4,occasion,25000
+Peugeot,301,2018,128,Essence,Manuelle,5,4,occasion,27500
+Peugeot,301,2017,170,Essence,Manuelle,5,4,occasion,26000
+Peugeot,301,2017,170,Essence,Manuelle,5,4,occasion,27900
+Peugeot,301,2018,128,Essence,Manuelle,5,4,occasion,25000
+Peugeot,307,2006,143,Essence,Manuelle,7,4,occasion,20000
+Peugeot,307,2004,274,Essence,Manuelle,6,4,occasion,25000
+Peugeot,308 Gt,2024,18300,Essence,Automatique,7,5,occasion,114990
+Peugeot,308,2018,36,Essence,Manuelle,6,5,occasion,4800
+Peugeot,308,2017,195,Essence,Manuelle,5,4,occasion,38000
+Peugeot,308,2020,33,Diesel,Manuelle,5,4,occasion,60000
+Peugeot,308,2020,60,Essence,Manuelle,6,5,occasion,52000
+Peugeot,308,2021,114,Diesel,Manuelle,6,5,occasion,53000
+Peugeot,308,2021,136,Essence,Manuelle,6,5,occasion,39500
+Peugeot,308,2022,75,Essence,Automatique,7,4,occasion,85000
+Peugeot,308,2017,184,Essence,Manuelle,6,5,occasion,37100
+Peugeot,308,2021,136,Diesel,Manuelle,5,5,occasion,52000
+Peugeot,308,2016,150,Essence,Manuelle,5,5,occasion,37500
+Peugeot,308,2017,195,Essence,Manuelle,5,5,occasion,35000
+Peugeot,308,2018,50,Essence,Manuelle,6,5,occasion,44600
+Peugeot,308,2022,75,Essence,Manuelle,6,5,occasion,46000
+Peugeot,308,2022,81,Essence,Automatique,7,5,occasion,94990
+Peugeot,4008,2014,157000,Essence,Manuelle,9,5,occasion,43500
+Peugeot,404,2017,103000,Diesel,Manuelle,7,4,occasion,40000
+Peugeot,407,2009,400,Diesel,Manuelle,6,5,occasion,35000
+Peugeot,407,2009,70,Diesel,Manuelle,6,5,occasion,24000
+Peugeot,407,2009,70,Diesel,Manuelle,6,5,occasion,22000
+Peugeot,5008,2021,152,Essence,Manuelle,7,5,occasion,130000
+Peugeot,5008,2021,152,Diesel,Automatique,7,5,occasion,150000
+Peugeot,5008,2021,180,Diesel,Automatique,7,5,occasion,125900
+Peugeot,5008,2021,180,Essence,Manuelle,7,4,occasion,79900
+Peugeot,508,2019,149,Diesel,Automatique,6,4,occasion,58000
+Peugeot,508,2011,254,Essence,Automatique,7,5,occasion,32500
+Peugeot,508,2013,200,Essence,Automatique,7,5,occasion,30000
+Peugeot,508,2013,170,Essence,Automatique,9,5,occasion,35000
+Peugeot,508,2011,229,Essence,Automatique,7,4,occasion,40000
+Peugeot,508,2011,254,Essence,Automatique,7,5,occasion,31000
+Peugeot,508,2011,229,Essence,Automatique,7,5,occasion,32000
+Peugeot,508,2017,171,Essence,Automatique,8,5,occasion,75900
+Peugeot,Bipper Tepee,2013,150000,Essence,Manuelle,5,5,occasion,34500
+Peugeot,Boxer,2020,129,Diesel,Manuelle,7,3,occasion,79000
+Peugeot,Boxer,2021,133,Diesel,Manuelle,7,2,occasion,70000
+Peugeot,Boxer,2021,133,Diesel,Manuelle,7,4,occasion,65000
+Peugeot,E 208,2021,40000,Electrique,Automatique,4,5,occasion,63000
+Peugeot,Expert Combi,2020,69000,Diesel,Automatique,9,4,occasion,74000
+Peugeot,Landtrek Double Cabine,2022,100,Diesel,Manuelle,6,4,occasion,97000
+Peugeot,Landtrek Double Cabine,2022,100,Diesel,Manuelle,6,4,occasion,77000
+Peugeot,Landtrek Double Cabine,2022,100,Diesel,Manuelle,6,4,occasion,84000
+Peugeot,Landtrek Double Cabine,2022,100,Diesel,Manuelle,6,4,occasion,72000
+Peugeot,Landtrek Simple Cabine,2023,133,Diesel,Manuelle,6,2,occasion,56500
+Peugeot,Landtrek Simple Cabine,2022,83,Diesel,Manuelle,6,2,occasion,53000
+Peugeot,Partner Origin Utilitaire,2020,200000,Diesel,Manuelle,5,4,occasion,52000
+Peugeot,Partner Tepee,2011,315000,Diesel,Manuelle,5,4,occasion,36200
+Peugeot,Partner,2021,150,Diesel,Manuelle,5,2,occasion,42000
+Peugeot,Partner,2020,200,Diesel,Manuelle,5,2,occasion,55000
+Peugeot,Partner,2021,150,Diesel,Manuelle,5,3,occasion,51000
+Peugeot,Partner,2020,289,Diesel,Manuelle,5,3,occasion,36000
+Peugeot,Partner,2021,261,Diesel,Manuelle,5,5,occasion,47500
+Peugeot,Partner,2021,128,Diesel,Manuelle,5,4,occasion,41990
+Peugeot,Partner,2020,289,Diesel,Manuelle,5,3,occasion,44000
+Peugeot,Partner,2020,200,Diesel,Manuelle,5,3,occasion,38000
+Peugeot,Partner,2020,87,Diesel,Manuelle,5,3,occasion,43540
+Peugeot,Partner,2021,139,Diesel,Manuelle,5,4,occasion,41900
+Peugeot,Partner,2021,115,Diesel,Manuelle,5,3,occasion,40900
+Peugeot,Rcz,2011,92000,Essence,Manuelle,9,2,occasion,39900
+Peugeot,Rifter,2020,122,Diesel,Manuelle,5,5,occasion,82000
+Peugeot,Rifter,2020,195,Diesel,Manuelle,5,4,occasion,75000
+Peugeot,Rifter,2020,122,Diesel,Manuelle,7,5,occasion,74000
+Peugeot,Rifter,2020,145,Diesel,Manuelle,6,3,occasion,70000
+Peugeot,Rifter,2020,195,Diesel,Manuelle,5,5,occasion,78500
+Porsche,Cayenne Coupe,2021,40000,Hybride rechargeable essence,Automatique,22,4,occasion,395000
+Porsche,Cayenne,2012,195,Diesel,Automatique,15,5,occasion,155000
+Porsche,Cayenne,2008,230,Essence,Automatique,21,5,occasion,85000
+Porsche,Cayenne,2012,195,Essence,Automatique,21,5,occasion,122000
+Porsche,Cayenne,2017,130,Diesel,Automatique,15,5,occasion,249000
+Porsche,Cayenne,2010,204,Essence,Automatique,21,5,occasion,105000
+Porsche,Cayenne,2012,195,Essence,Automatique,21,4,occasion,155000
+Porsche,Cayenne,2013,210,Essence,Automatique,21,4,occasion,129900
+Porsche,Cayenne,2011,150,Diesel,Automatique,15,5,occasion,122000
+Porsche,Cayenne,2012,236,Diesel,Automatique,28,4,occasion,185000
+Porsche,Cayenne,2008,184,Essence,Automatique,21,5,occasion,65500
+Porsche,Cayenne,2011,150,Essence,Automatique,21,5,occasion,119000
+Porsche,Cayenne,2017,130,Essence,Automatique,33,5,occasion,325000
+Porsche,Cayenne,2011,271,Essence,Automatique,30,5,occasion,112000
+Porsche,Cayenne,2018,89,Diesel,Automatique,28,5,occasion,185000
+Porsche,Cayenne,2008,230,Essence,Automatique,21,5,occasion,87000
+Porsche,Cayenne,2008,90,Essence,Automatique,20,5,occasion,53000
+Porsche,Cayenne,2008,184,Essence,Automatique,30,5,occasion,65000
+Porsche,Macan,2020,80,Essence,Automatique,17,5,occasion,350000
+Porsche,Macan,2017,38,Essence,Automatique,15,4,occasion,185000
+Porsche,Macan,2020,80,Essence,Automatique,16,5,occasion,215000
+Porsche,Macan,2022,23,Electrique,Automatique,9,5,occasion,289500
+Porsche,Macan,2020,100,Essence,Automatique,15,4,occasion,260000
+Porsche,Macan,2017,56,Essence,Automatique,15,5,occasion,183000
+Porsche,Panamera,2010,76,Essence,Automatique,30,5,occasion,190000
+Porsche,Panamera,2012,54,Essence,Automatique,20,5,occasion,130000
+Porsche,Panamera,2012,54,Diesel,Automatique,15,4,occasion,175000
+Porsche,Panamera,2010,140,Essence,Automatique,20,5,occasion,160000
+Porsche,Panamera,2013,151,Essence,Automatique,33,5,occasion,245000
+Porsche,Panamera,2012,70,Essence,Automatique,27,5,occasion,195000
+Renault,Alpine A110,2025,38000,Hybride rechargeable essence,Automatique,5,4,occasion,80000
+Renault,Captur,2015,96,Essence,Manuelle,5,5,occasion,36000
+Renault,Captur,2016,200,Essence,Manuelle,5,5,occasion,69000
+Renault,Captur,2015,186,Essence,Manuelle,5,5,occasion,39900
+Renault,Captur,2015,96,Essence,Manuelle,6,4,occasion,32800
+Renault,Clio Campus,2011,197000,Essence,Manuelle,4,5,occasion,29500
+Renault,Clio,2022,158,Essence,Manuelle,5,5,occasion,48500
+Renault,Clio,2022,95,Essence,Manuelle,5,5,occasion,46500
+Renault,Clio,2021,46,Essence,Manuelle,5,4,occasion,43000
+Renault,Clio,2021,89,Essence,Manuelle,5,4,occasion,50000
+Renault,Clio,2022,113,Essence,Manuelle,4,5,occasion,45000
+Renault,Clio,2021,67,Essence,Manuelle,5,5,occasion,37500
+Renault,Clio,2022,95,Essence,Manuelle,5,5,occasion,39900
+Renault,Clio,2020,160,Essence,Manuelle,5,5,occasion,51000
+Renault,Clio,2019,85,Essence,Manuelle,5,5,occasion,45900
+Renault,Clio,2019,114,Essence,Manuelle,5,5,occasion,39500
+Renault,Clio,2022,47,Essence,Manuelle,5,5,occasion,42000
+Renault,Clio,2004,285,Essence,Manuelle,5,5,occasion,23000
+Renault,Clio,2021,101,Essence,Manuelle,4,5,occasion,50000
+Renault,Clio,2017,214,Essence,Manuelle,5,5,occasion,32000
+Renault,Clio,2020,100,Essence,Manuelle,5,5,occasion,38800
+Renault,Clio,2006,279,Essence,Manuelle,4,5,occasion,22500
+Renault,Clio,2017,214,Essence,Manuelle,5,5,occasion,33500
+Renault,Clio,2019,77,Essence,Manuelle,5,5,occasion,39000
+Renault,Clio,2019,114,Essence,Manuelle,5,5,occasion,37500
+Renault,Clio,2021,46,Essence,Manuelle,5,5,occasion,40000
+Renault,Clio,2021,66,Essence,Manuelle,4,4,occasion,53500
+Renault,Clio,2017,167,Essence,Manuelle,5,5,occasion,32000
+Renault,Express Van,2024,75000,Diesel,Manuelle,5,3,occasion,48000
+Renault,Fluence,2012,290000,Essence,Manuelle,7,4,occasion,26500
+Renault,Kadjar,2018,213,Essence,Automatique,7,5,occasion,75000
+Renault,Kadjar,2018,112,Essence,Automatique,7,5,occasion,49500
+Renault,Kadjar,2018,213,Essence,Manuelle,7,5,occasion,55000
+Renault,Kadjar,2018,112,Essence,Manuelle,7,5,occasion,55000
+Renault,Koleos,2010,200000,Diesel,Automatique,10,4,occasion,29500
+Renault,Kwid,2022,28,Essence,Manuelle,4,5,occasion,33000
+Renault,Kwid,2024,5,Essence,Manuelle,4,5,occasion,35500
+Renault,Megane Coupe,2015,210,Essence,Manuelle,7,3,occasion,32000
+Renault,Megane Coupe,2010,116,Essence,Manuelle,7,3,occasion,35500
+Renault,Megane Sedan,2019,123,Essence,Manuelle,7,4,occasion,52000
+Renault,Megane Sedan,2020,112,Essence,Manuelle,7,4,occasion,44000
+Renault,Megane Sedan,2019,123,Essence,Manuelle,7,4,occasion,49000
+Renault,Megane,2009,254,Diesel,Manuelle,6,4,occasion,32000
+Renault,Megane,2020,189,Essence,Automatique,7,5,occasion,59000
+Renault,Megane,2020,127,Essence,Manuelle,7,5,occasion,49000
+Renault,Megane,2020,127,Diesel,Manuelle,5,5,occasion,57500
+Renault,Megane,2020,189,Essence,Manuelle,7,5,occasion,46000
+Renault,Megane,2021,94,Hybride rechargeable essence,Automatique,6,5,occasion,65000
+Renault,Megane,2011,336,Diesel,Manuelle,5,5,occasion,31000
+Renault,Megane,2009,309,Diesel,Manuelle,5,4,occasion,35500
+Renault,Megane,2020,86,Diesel,Manuelle,5,4,occasion,56000
+Renault,Megane,2011,271,Diesel,Manuelle,5,5,occasion,29900
+Renault,Megane,2011,271,Diesel,Manuelle,5,4,occasion,32000
+Renault,Megane,2020,98,Essence,Manuelle,7,5,occasion,52000
+Renault,Megane,2020,170,Essence,Automatique,7,4,occasion,54000
+Renault,Rafale,2025,3600,Hybride essence,Automatique,7,5,occasion,185000
+Renault,Scenic,2020,187889,Diesel,Automatique,6,4,occasion,63000
+Renault,Symbol,2011,145,Essence,Manuelle,5,4,occasion,23000
+Renault,Symbol,2012,275,Essence,Manuelle,5,4,occasion,32900
+Renault,Symbol,2011,145,Essence,Manuelle,5,4,occasion,28600
+Renault,Trafic,2018,300,Diesel,Manuelle,6,4,occasion,50000
+Renault,Trafic,2014,160,Diesel,Manuelle,7,4,occasion,78000
+Renault,Vel Satis,2003,280000,Diesel,Manuelle,7,5,occasion,18500
+Seat,Altea,2016,245000,Diesel,Manuelle,5,5,occasion,37000
+Seat,Arona,2023,100,Essence,Automatique,6,5,occasion,79500
+Seat,Arona,2023,100,Essence,Automatique,6,5,occasion,79000
+Seat,Arona,2022,151,Essence,Manuelle,6,5,occasion,68000
+Seat,Arona,2023,38,Essence,Automatique,6,5,occasion,83000
+Seat,Arona,2021,101,Essence,Automatique,6,4,occasion,78000
+Seat,Arona,2021,53,Essence,Manuelle,6,5,occasion,65000
+Seat,Arona,2022,39,Essence,Automatique,6,4,occasion,63500
+Seat,Arona,2021,53,Essence,Automatique,6,4,occasion,78000
+Seat,Arona,2023,90,Essence,Automatique,6,5,occasion,75000
+Seat,Arona,2023,27,Essence,Automatique,6,5,occasion,84000
+Seat,Arona,2021,53,Essence,Manuelle,6,5,occasion,62000
+Seat,Ateca,2020,75,Diesel,Manuelle,6,5,occasion,83000
+Seat,Ateca,2021,102,Essence,Automatique,8,5,occasion,105000
+Seat,Ateca,2021,34,Essence,Automatique,8,5,occasion,97000
+Seat,Ateca,2020,75,Essence,Automatique,8,5,occasion,112000
+Seat,Ateca,2021,34,Essence,Automatique,8,5,occasion,99500
+Seat,Ibiza,2021,28,Essence,Manuelle,4,5,occasion,45000
+Seat,Ibiza,2020,127,Essence,Manuelle,6,5,occasion,57500
+Seat,Ibiza,2020,125,Essence,Manuelle,6,5,occasion,59000
+Seat,Ibiza,2019,77,Essence,Manuelle,4,5,occasion,49000
+Seat,Ibiza,2021,105,Essence,Manuelle,4,5,occasion,61000
+Seat,Ibiza,2021,105,Essence,Manuelle,4,5,occasion,52000
+Seat,Ibiza,2020,125,Essence,Manuelle,4,4,occasion,42500
+Seat,Ibiza,2022,107,Essence,Automatique,6,5,occasion,68000
+Seat,Ibiza,2020,127,Essence,Manuelle,4,5,occasion,48500
+Seat,Ibiza,2020,125,Essence,Manuelle,4,5,occasion,51000
+Seat,Ibiza,2022,107,Essence,Automatique,6,5,occasion,55000
+Seat,Ibiza,2018,43,Essence,Manuelle,4,5,occasion,54000
+Seat,Ibiza,2020,145,Essence,Manuelle,4,5,occasion,44000
+Seat,Ibiza,2023,39,Essence,Automatique,6,4,occasion,59000
+Seat,Leon Sc,2016,228,Essence,Manuelle,6,3,occasion,42000
+Seat,Leon Sc,2016,163,Essence,Manuelle,6,3,occasion,44900
+Seat,Leon Sc,2017,158,Essence,Manuelle,6,3,occasion,47000
+Seat,Leon Sc,2016,163,Essence,Manuelle,6,3,occasion,43000
+Seat,Leon,2015,192,Essence,Automatique,6,5,occasion,52000
+Seat,Leon,2020,85,Essence,Manuelle,6,5,occasion,69000
+Seat,Leon,2021,59,Essence,Automatique,8,5,occasion,86000
+Seat,Leon,2021,182,Essence,Manuelle,6,5,occasion,79000
+Seat,Leon,2021,156,Essence,Automatique,8,5,occasion,98000
+Seat,Leon,2019,68,Essence,Manuelle,6,5,occasion,56500
+Seat,Leon,2020,115,Essence,Manuelle,6,5,occasion,69000
+Seat,Leon,2019,68,Essence,Manuelle,6,5,occasion,62000
+Seat,Leon,2020,103,Essence,Manuelle,6,5,occasion,65000
+Seat,Leon,2014,96,Essence,Manuelle,5,5,occasion,48000
+Seat,Leon,2017,80,Essence,Manuelle,6,5,occasion,62000
+Seat,Leon,2021,182,Essence,Automatique,8,5,occasion,81000
+Seat,Leon,2021,156,Essence,Automatique,7,5,occasion,74000
+Seat,Leon,2021,58,Essence,Automatique,8,5,occasion,83000
+Seat,Leon,2017,59,Essence,Manuelle,6,4,occasion,60000
+Seat,Leon,2013,200,Essence,Automatique,8,4,occasion,34500
+Seat,Leon,2017,59,Essence,Manuelle,6,2,occasion,50000
+Seat,Leon,2014,96,Essence,Automatique,6,5,occasion,42300
+Seat,Tarraco,2020,140000,Essence,Automatique,9,5,occasion,97000
+Skoda,Fabia,2022,115,Essence,Manuelle,4,5,occasion,42000
+Skoda,Fabia,2021,135,Essence,Manuelle,4,5,occasion,47000
+Skoda,Kamiq,2022,94,Essence,Manuelle,6,4,occasion,90000
+Skoda,Kamiq,2020,79,Essence,Automatique,6,4,occasion,70000
+Skoda,Octavia,2015,135,Essence,Automatique,8,4,occasion,39500
+Skoda,Octavia,2016,191,Essence,Automatique,7,4,occasion,40000
+Skoda,Octavia,2022,30,Diesel,Automatique,7,4,occasion,83000
+Skoda,Octavia,2016,173,Essence,Automatique,8,4,occasion,35000
+Skoda,Octavia,2019,132,Essence,Automatique,8,4,occasion,65000
+Skoda,Octavia,2019,132,Essence,Automatique,8,4,occasion,55000
+Skoda,Octavia,2019,132,Essence,Automatique,6,5,occasion,55000
+Skoda,Octavia,2022,30,Essence,Automatique,8,4,occasion,85000
+Skoda,Octavia,2019,132,Essence,Automatique,8,4,occasion,65000
+Skoda,Octavia,2021,135,Essence,Automatique,6,4,occasion,83000
+Skoda,Octavia,2017,214,Essence,Automatique,8,5,occasion,48000
+Skoda,Octavia,2021,135,Essence,Automatique,8,5,occasion,109000
+Skoda,Scala,2021,70,Essence,Automatique,6,5,occasion,73000
+Skoda,Scala,2024,48,Essence,Automatique,6,5,occasion,69000
+Skoda,Superb,2022,85,Essence,Automatique,8,5,occasion,125000
+Skoda,Superb,2021,60,Essence,Automatique,8,4,occasion,95000
+Skoda,Superb,2022,85,Essence,Automatique,8,5,occasion,130000
+Skoda,Yeti,2016,224000,Essence,Automatique,7,5,occasion,45000
+Smart,Fortwo,2016,44000,Essence,Automatique,4,2,occasion,45000
+Ssangyong,Actyon Sports,2014,260000,Diesel,Manuelle,7,4,occasion,36500
+Ssangyong,Chairman,2017,6000,Essence,Manuelle,17,5,occasion,94000
+Ssangyong,Rexton,2011,199000,Diesel,Automatique,11,5,occasion,49000
+Ssangyong,Tivoli,2018,184,Essence,Manuelle,7,5,occasion,51500
+Ssangyong,Tivoli,2021,90,Essence,Manuelle,6,5,occasion,66000
+Ssangyong,Tivoli,2018,88,Essence,Automatique,8,5,occasion,56000
+Ssangyong,Tivoli,2018,59,Essence,Manuelle,7,5,occasion,48000
+Ssangyong,Tivoli,2018,61,Essence,Manuelle,7,5,occasion,52000
+Ssangyong,Tivoli,2018,88,Essence,Automatique,7,5,occasion,49000
+Ssangyong,Tivoli,2022,59,Essence,Manuelle,6,5,occasion,64000
+Ssangyong,Tivoli,2022,85,Essence,Manuelle,6,5,occasion,71000
+Ssangyong,Tivoli,2022,60,Essence,Manuelle,6,5,occasion,69000
+Ssangyong,Tivoli,2022,60,Essence,Manuelle,6,5,occasion,64000
+Ssangyong,Tivoli,2021,90,Essence,Manuelle,6,5,occasion,55000
+Ssangyong,Tivoli,2018,61,Essence,Automatique,8,5,occasion,58000
+Ssangyong,Tivoli,2020,108,Essence,Manuelle,6,5,occasion,57000
+Ssangyong,Tivoli,2020,108,Essence,Manuelle,7,5,occasion,63000
+Suzuki,Baleno,2024,68000,Essence,Automatique,6,5,occasion,90000
+Suzuki,Celerio,2023,97,Essence,Automatique,4,5,occasion,43000
+Suzuki,Celerio,2023,34,Essence,Automatique,4,5,occasion,36500
+Suzuki,Celerio,2023,30,Essence,Manuelle,4,5,occasion,40900
+Suzuki,Celerio,2018,53,Essence,Manuelle,4,5,occasion,30000
+Suzuki,Celerio,2023,10,Essence,Manuelle,4,5,occasion,38500
+Suzuki,Celerio,2023,15,Essence,Manuelle,4,5,occasion,38500
+Suzuki,Celerio,2018,53,Essence,Manuelle,4,5,occasion,28000
+Suzuki,Celerio,2023,15,Essence,Manuelle,4,5,occasion,35500
+Suzuki,Celerio,2023,33,Essence,Manuelle,4,5,occasion,37500
+Suzuki,Celerio,2023,30,Essence,Manuelle,4,5,occasion,39500
+Suzuki,Celerio,2019,75,Essence,Automatique,4,5,occasion,37000
+Suzuki,Celerio,2017,139,Essence,Manuelle,4,5,occasion,31000
+Suzuki,Ciaz,2021,133,Essence,Manuelle,6,4,occasion,55000
+Suzuki,Ciaz,2020,96,Essence,Automatique,6,4,occasion,47000
+Suzuki,Ciaz,2020,112,Essence,Manuelle,6,5,occasion,43000
+Suzuki,Ciaz,2020,96,Essence,Manuelle,6,5,occasion,33000
+Suzuki,Ertiga,2021,153000,Essence,Automatique,6,5,occasion,49500
+Suzuki,Jimny 5P,2025,100,Essence,Automatique,6,3,occasion,115000
+Suzuki,Jimny 5P,2024,5,Essence,Automatique,6,5,occasion,119000
+Suzuki,Jimny,2023,24,Essence,Automatique,6,3,occasion,92000
+Suzuki,Jimny,2023,24,Essence,Automatique,6,3,occasion,87000
+Suzuki,Jimny,2023,51,Essence,Automatique,6,2,occasion,85000
+Suzuki,Jimny,2023,26,Essence,Automatique,6,3,occasion,95000
+Suzuki,S Presso,2021,46000,Essence,Manuelle,4,5,occasion,32500
+Suzuki,Swift,2021,132,Essence,Manuelle,5,5,occasion,38500
+Suzuki,Swift,2021,170,Essence,Manuelle,5,5,occasion,38500
+Suzuki,Swift,2022,136,Essence,Automatique,5,5,occasion,43500
+Suzuki,Swift,2021,170,Essence,Manuelle,5,5,occasion,39000
+Suzuki,Swift,2022,136,Essence,Automatique,5,4,occasion,38500
+Suzuki,Swift,2021,117,Essence,Automatique,5,5,occasion,42000
+Suzuki,Swift,2022,119,Essence,Manuelle,5,5,occasion,37500
+Suzuki,Swift,2022,80,Essence,Manuelle,5,5,occasion,43800
+Suzuki,Swift,2022,95,Essence,Manuelle,5,5,occasion,42500
+Suzuki,Sx4,2009,200000,Essence,Manuelle,7,5,occasion,28000
+Suzuki,Vitara,2017,299000,Essence,Automatique,6,5,occasion,47000
+Toyota,Agya,2022,93,Essence,Manuelle,5,5,occasion,35500
+Toyota,Agya,2023,33,Essence,Automatique,5,5,occasion,39800
+Toyota,Agya,2022,160,Essence,Manuelle,4,5,occasion,34000
+Toyota,Agya,2023,60,Essence,Automatique,5,5,occasion,43800
+Toyota,Agya,2023,33,Essence,Manuelle,4,5,occasion,33000
+Toyota,Aygo,2019,110,Essence,Manuelle,4,5,occasion,28500
+Toyota,Aygo,2018,154,Essence,Manuelle,4,5,occasion,31000
+Toyota,C Hr,2020,160,Hybride essence,Automatique,5,4,occasion,103000
+Toyota,C Hr,2021,30,Hybride essence,Automatique,5,4,occasion,110000
+Toyota,C Hr,2022,40,Essence,Automatique,6,5,occasion,93500
+Toyota,C Hr,2022,55,Essence,Automatique,6,5,occasion,89500
+Toyota,C Hr,2020,81,Essence,Automatique,6,5,occasion,69000
+Toyota,C Hr,2020,44,Essence,Automatique,6,5,occasion,74000
+Toyota,C Hr,2021,63,Essence,Automatique,6,5,occasion,90000
+Toyota,C Hr,2022,55,Essence,Automatique,6,5,occasion,87000
+Toyota,C Hr,2022,40,Essence,Automatique,6,5,occasion,89000
+Toyota,C Hr,2021,30,Essence,Automatique,6,5,occasion,88000
+Toyota,C Hr,2020,160,Essence,Automatique,6,5,occasion,65000
+Toyota,C Hr,2020,44,Essence,Automatique,6,5,occasion,69000
+Toyota,Corolla 5P,2020,80,Essence,Manuelle,6,5,occasion,75000
+Toyota,Corolla 5P,2020,84,Essence,Automatique,6,5,occasion,70000
+Toyota,Corolla 5P,2019,8,Essence,Manuelle,6,4,occasion,26000
+Toyota,Corolla 5P,2020,80,Essence,Automatique,6,4,occasion,61000
+Toyota,Corolla 5P,2020,84,Essence,Automatique,6,5,occasion,73000
+Toyota,Corolla 5P,2021,49,Essence,Automatique,6,5,occasion,64000
+Toyota,Fj,2017,32000,Essence,Automatique,18,5,occasion,230000
+Toyota,Gt86,2015,100,Essence,Automatique,12,2,occasion,109000
+Toyota,Gt86,2020,11,Essence,Automatique,12,3,occasion,78000
+Toyota,Hilux Simple Cabine,2023,50000,Diesel,Automatique,11,3,occasion,180000
+Toyota,Hilux,2024,3,Diesel,Automatique,8,5,occasion,231000
+Toyota,Hilux,2019,250,Diesel,Manuelle,8,4,occasion,149000
+Toyota,Hilux,2019,114,Diesel,Manuelle,8,5,occasion,113000
+Toyota,Hilux,2008,320,Diesel,Manuelle,11,4,occasion,33000
+Toyota,Hilux,2024,3,Diesel,Automatique,8,5,occasion,290000
+Toyota,Hilux,2020,217,Diesel,Manuelle,8,4,occasion,135000
+Toyota,Hilux,2016,36,Diesel,Manuelle,10,4,occasion,53000
+Toyota,Hilux,2018,120,Diesel,Manuelle,8,4,occasion,155000
+Toyota,Hilux,2019,250,Diesel,Automatique,8,4,occasion,140000
+Toyota,Hilux,2020,82,Diesel,Automatique,8,4,occasion,165000
+Toyota,Land Cruiser,1996,300,Diesel,Manuelle,17,5,occasion,67000
+Toyota,Land Cruiser,2008,400,Diesel,Automatique,17,5,occasion,129000
+Toyota,Land Cruiser,2007,216,Diesel,Automatique,12,4,occasion,135000
+Toyota,Land Cruiser,1996,506,Diesel,Manuelle,17,5,occasion,65000
+Toyota,Land Cruiser,2007,216,Diesel,Automatique,18,5,occasion,150000
+Toyota,Prado,2014,230,Essence,Manuelle,11,4,occasion,190000
+Toyota,Prado,1998,400,Diesel,Manuelle,11,5,occasion,79000
+Toyota,Prado,2019,140,Diesel,Automatique,11,5,occasion,245000
+Toyota,Prado,2005,300,Diesel,Manuelle,10,3,occasion,65000
+Toyota,Prado,2014,75,Diesel,Manuelle,11,5,occasion,145000
+Toyota,Prado,2019,215,Diesel,Automatique,11,5,occasion,240000
+Toyota,Rav 4,2018,10,Essence,Automatique,9,5,occasion,89900
+Toyota,Rav 4,2019,48,Hybride essence,Automatique,9,5,occasion,102000
+Toyota,Rav 4,2023,27,Hybride rechargeable essence,Automatique,9,5,occasion,147000
+Toyota,Rav 4,2022,100,Hybride essence,Automatique,9,5,occasion,133000
+Toyota,Rav 4,2022,71,Hybride essence,Automatique,9,5,occasion,30000
+Toyota,Rav 4,2017,171,Diesel,Manuelle,7,5,occasion,135000
+Toyota,Rav 4,2004,373,Diesel,Manuelle,8,5,occasion,36800
+Toyota,Rav 4,2015,163,Essence,Automatique,9,5,occasion,65000
+Toyota,Rav 4,2014,170,Diesel,Manuelle,8,5,occasion,65000
+Toyota,Rav 4,2015,163,Essence,Automatique,9,5,occasion,65000
+Toyota,Rav 4,2023,58,Hybride essence,Automatique,9,4,occasion,146000
+Toyota,Rav 4,2023,58,Hybride essence,Automatique,9,5,occasion,139500
+Toyota,Rav 4,2020,200,Essence,Automatique,9,5,occasion,125000
+Toyota,Rav 4,2015,272,Essence,Automatique,9,4,occasion,66000
+Toyota,Rav 4,2002,300,Diesel,Manuelle,8,4,occasion,29000
+Toyota,Rav 4,2023,58,Hybride essence,Automatique,9,5,occasion,138000
+Toyota,Rav 4,2020,200,Essence,Automatique,9,5,occasion,123000
+Toyota,Yaris Cross,2025,10000,Hybride essence,Automatique,5,5,occasion,109000
+Toyota,Yaris Sedan,2016,210000,Essence,Manuelle,5,4,occasion,39000
+Toyota,Yaris,2016,207,Essence,Manuelle,4,5,occasion,35000
+Toyota,Yaris,2017,80,Essence,Manuelle,4,5,occasion,33000
+Toyota,Yaris,2016,207,Essence,Automatique,6,5,occasion,27900
+Volkswagen,Amarok,2013,219,Diesel,Automatique,7,4,occasion,115000
+Volkswagen,Amarok,2013,219,Diesel,Manuelle,8,4,occasion,58500
+Volkswagen,Amarok,2021,165,Diesel,Automatique,7,4,occasion,125000
+Volkswagen,Amarok,2013,218,Diesel,Manuelle,8,6,occasion,65000
+Volkswagen,Amarok,2013,218,Diesel,Manuelle,8,4,occasion,56900
+Volkswagen,Amarok,2021,141,Diesel,Automatique,7,4,occasion,115000
+Volkswagen,Caddy,2020,97,Diesel,Manuelle,5,4,occasion,37000
+Volkswagen,Caddy,2020,238,Diesel,Manuelle,7,3,occasion,59000
+Volkswagen,Caddy,2020,238,Diesel,Manuelle,5,4,occasion,45000
+Volkswagen,Caddy,2020,97,Diesel,Manuelle,5,4,occasion,43500
+Volkswagen,Caddy,2014,445,Diesel,Manuelle,5,4,occasion,32000
+Volkswagen,Caddy,2014,237,Diesel,Manuelle,5,4,occasion,32000
+Volkswagen,Crafter,2009,300000,Diesel,Manuelle,8,2,occasion,38500
+Volkswagen,Golf 5,2007,190,Essence,Manuelle,5,5,occasion,35000
+Volkswagen,Golf 5,2007,192,Essence,Manuelle,5,5,occasion,35000
+Volkswagen,Golf 6,2011,292,Diesel,Automatique,5,4,occasion,41000
+Volkswagen,Golf 6,2012,220,Essence,Automatique,7,5,occasion,42000
+Volkswagen,Golf 6,2012,220,Diesel,Manuelle,6,5,occasion,46000
+Volkswagen,Golf 6,2010,200,Essence,Manuelle,7,4,occasion,37000
+Volkswagen,Golf 6,2010,180,Essence,Automatique,7,4,occasion,35500
+Volkswagen,Golf 6,2010,200,Essence,Manuelle,7,5,occasion,39900
+Volkswagen,Golf 6,2010,182,Essence,Manuelle,9,5,occasion,35000
+Volkswagen,Golf 6,2010,221,Essence,Manuelle,5,5,occasion,39900
+Volkswagen,Golf 6,2012,195,Essence,Manuelle,5,4,occasion,39000
+Volkswagen,Golf 6,2012,177,Essence,Manuelle,5,5,occasion,41500
+Volkswagen,Golf 6,2010,221,Diesel,Manuelle,5,5,occasion,38000
+Volkswagen,Golf 6,2011,280,Essence,Manuelle,5,5,occasion,41000
+Volkswagen,Golf 6,2011,295,Essence,Manuelle,7,5,occasion,42000
+Volkswagen,Golf 6,2012,206,Essence,Manuelle,5,5,occasion,41900
+Volkswagen,Golf 7,2018,118,Essence,Manuelle,6,4,occasion,58500
+Volkswagen,Golf 7,2017,122,Essence,Manuelle,5,4,occasion,68000
+Volkswagen,Golf 7,2019,150,Essence,Automatique,6,4,occasion,61000
+Volkswagen,Golf 7,2018,130,Essence,Automatique,6,5,occasion,65000
+Volkswagen,Golf 7,2019,175,Essence,Automatique,6,5,occasion,63000
+Volkswagen,Golf 7,2020,110,Essence,Automatique,6,5,occasion,69000
+Volkswagen,Golf 7,2019,150,Essence,Automatique,7,4,occasion,69500
+Volkswagen,Golf 7,2020,99,Essence,Automatique,6,5,occasion,71500
+Volkswagen,Golf 7,2015,153,Essence,Manuelle,5,5,occasion,58000
+Volkswagen,Golf 7,2013,230,Essence,Manuelle,5,3,occasion,57000
+Volkswagen,Golf 7,2020,107,Essence,Automatique,6,5,occasion,73000
+Volkswagen,Golf 7,2018,134,Essence,Automatique,6,5,occasion,62000
+Volkswagen,Golf 7,2016,160,Essence,Automatique,16,5,occasion,98000
+Volkswagen,Golf 7,2018,118,Essence,Automatique,6,5,occasion,70000
+Volkswagen,Golf 7,2019,62,Essence,Manuelle,6,5,occasion,69000
+Volkswagen,Golf 7,2018,146,Essence,Manuelle,6,5,occasion,63000
+Volkswagen,Golf 7,2016,160,Essence,Manuelle,5,5,occasion,60000
+Volkswagen,Golf 7,2014,220,Essence,Manuelle,5,5,occasion,54000
+Volkswagen,Golf 7,2020,99,Essence,Automatique,6,5,occasion,69000
+Volkswagen,Golf 7,2014,196,Essence,Automatique,5,4,occasion,58000
+Volkswagen,Golf 7,2019,169,Essence,Automatique,6,5,occasion,62000
+Volkswagen,Golf 7,2019,150,Essence,Automatique,6,5,occasion,61000
+Volkswagen,Golf 7,2017,102,Essence,Automatique,6,5,occasion,51000
+Volkswagen,Golf 7,2017,277,Essence,Manuelle,6,5,occasion,67000
+Volkswagen,Golf 7,2019,130,Essence,Automatique,6,5,occasion,93000
+Volkswagen,Golf 7,2014,196,Diesel,Manuelle,5,5,occasion,48000
+Volkswagen,Golf 7,2018,57,Essence,Manuelle,6,6,occasion,69500
+Volkswagen,Golf 7,2018,185,Essence,Automatique,6,5,occasion,56000
+Volkswagen,Golf 7,2020,120,Essence,Manuelle,6,5,occasion,65000
+Volkswagen,Golf 7,2017,102,Essence,Manuelle,6,5,occasion,64000
+Volkswagen,Golf 7,2015,220,Essence,Manuelle,5,5,occasion,56000
+Volkswagen,Golf 7,2019,130,Essence,Automatique,6,5,occasion,63000
+Volkswagen,Golf 7,2013,230,Essence,Automatique,5,4,occasion,47000
+Volkswagen,Golf 7,2019,130,Essence,Manuelle,6,5,occasion,69000
+Volkswagen,Golf 7,2016,67,Essence,Manuelle,5,5,occasion,54000
+Volkswagen,Golf 7,2019,62,Essence,Automatique,6,5,occasion,63000
+Volkswagen,Golf 7,2015,220,Essence,Manuelle,6,5,occasion,43000
+Volkswagen,Golf 7,2018,128,Essence,Manuelle,6,4,occasion,62500
+Volkswagen,Golf 7,2018,146,Diesel,Automatique,7,4,occasion,76000
+Volkswagen,Golf 7,2013,108,Essence,Automatique,5,5,occasion,40000
+Volkswagen,Golf 7,2020,107,Essence,Automatique,6,5,occasion,55000
+Volkswagen,Golf 7,2019,120,Essence,Manuelle,6,5,occasion,69000
+Volkswagen,Golf 7,2019,127,Essence,Automatique,6,5,occasion,62500
+Volkswagen,Golf 7,2018,152,Diesel,Automatique,6,5,occasion,87000
+Volkswagen,Golf 7,2017,53,Diesel,Manuelle,6,5,occasion,75000
+Volkswagen,Golf 8,2021,92,Hybride léger essence,Automatique,6,4,occasion,83500
+Volkswagen,Golf 8,2020,59,Essence,Automatique,7,5,occasion,128000
+Volkswagen,Golf 8,2022,38,Essence,Manuelle,6,5,occasion,81000
+Volkswagen,Golf 8,2021,71,Essence,Manuelle,6,5,occasion,97000
+Volkswagen,Golf 8,2020,59,Essence,Manuelle,6,4,occasion,78000
+Volkswagen,Golf 8,2021,137,Essence,Manuelle,5,5,occasion,78000
+Volkswagen,Golf 8,2023,51,Essence,Automatique,8,5,occasion,138000
+Volkswagen,Golf 8,2023,23,Essence,Automatique,8,5,occasion,107000
+Volkswagen,Golf 8,2023,63,Essence,Automatique,8,5,occasion,120000
+Volkswagen,Golf 8,2022,59,Essence,Automatique,19,5,occasion,230000
+Volkswagen,Golf 8,2021,71,Essence,Manuelle,6,5,occasion,80000
+Volkswagen,Golf 8,2023,63,Essence,Automatique,8,5,occasion,110000
+Volkswagen,Golf 8,2022,65,Essence,Automatique,19,5,occasion,178000
+Volkswagen,Golf 8,2024,2,Essence,Automatique,8,5,occasion,180000
+Volkswagen,Golf 8,2020,65,Essence,Manuelle,8,4,occasion,90000
+Volkswagen,Golf 8,2020,105,Hybride léger essence,Automatique,8,5,occasion,105000
+Volkswagen,Golf 8,2024,15,Essence,Automatique,8,5,occasion,121000
+Volkswagen,Golf 8,2023,42,Hybride rechargeable essence,Automatique,8,5,occasion,138000
+Volkswagen,Golf 8,2022,46,Hybride léger essence,Automatique,6,4,occasion,88000
+Volkswagen,Golf 8,2023,50,Essence,Manuelle,6,4,occasion,85000
+Volkswagen,Golf 8,2021,136,Hybride léger essence,Automatique,8,4,occasion,112000
+Volkswagen,Golf 8,2021,71,Essence,Manuelle,8,5,occasion,110000
+Volkswagen,Golf 8,2021,79,Essence,Manuelle,5,5,occasion,69500
+Volkswagen,Golf 8,2021,177,Essence,Automatique,6,5,occasion,76500
+Volkswagen,Golf 8,2021,153,Essence,Automatique,6,5,occasion,75000
+Volkswagen,Golf 8,2021,60,Hybride rechargeable essence,Automatique,8,5,occasion,120000
+Volkswagen,Golf 8,2023,55,Essence,Automatique,8,4,occasion,97000
+Volkswagen,Golf 8,2021,92,Hybride rechargeable essence,Automatique,8,4,occasion,118000
+Volkswagen,Golf 8,2020,50,Essence,Manuelle,7,4,occasion,111000
+Volkswagen,Golf 8,2024,15,Hybride léger essence,Automatique,6,5,occasion,104990
+Volkswagen,Golf Plus,2018,72000,Essence,Manuelle,6,4,occasion,79000
+Volkswagen,Jetta,2013,200,Essence,Manuelle,9,5,occasion,38000
+Volkswagen,Jetta,2013,175,Essence,Automatique,7,5,occasion,37500
+Volkswagen,Jetta,2010,300,Essence,Manuelle,7,4,occasion,32000
+Volkswagen,Jetta,2011,219,Essence,Manuelle,7,5,occasion,30000
+Volkswagen,Passat Cc,2011,384,Essence,Automatique,10,4,occasion,49500
+Volkswagen,Passat Cc,2014,191,Diesel,Automatique,8,4,occasion,48000
+Volkswagen,Passat,2019,157,Essence,Automatique,8,5,occasion,106000
+Volkswagen,Passat,2021,107,Essence,Automatique,8,4,occasion,89000
+Volkswagen,Passat,2017,102,Essence,Manuelle,6,4,occasion,63000
+Volkswagen,Passat,2019,157,Essence,Automatique,7,5,occasion,100000
+Volkswagen,Passat,2009,180,Diesel,Manuelle,5,4,occasion,43500
+Volkswagen,Passat,2015,231,Essence,Manuelle,7,4,occasion,50000
+Volkswagen,Passat,2019,60,Diesel,Automatique,6,5,occasion,99000
+Volkswagen,Passat,2021,190,Essence,Automatique,8,5,occasion,99000
+Volkswagen,Passat,2009,180,Essence,Manuelle,7,4,occasion,27500
+Volkswagen,Passat,2009,336,Essence,Manuelle,7,5,occasion,40000
+Volkswagen,Passat,2016,200,Essence,Manuelle,7,4,occasion,47000
+Volkswagen,Passat,2021,73,Hybride rechargeable essence,Automatique,8,5,occasion,98000
+Volkswagen,Passat,2016,200,Essence,Manuelle,7,4,occasion,49500
+Volkswagen,Passat,2017,102,Essence,Automatique,8,4,occasion,72000
+Volkswagen,Passat,2013,239,Diesel,Automatique,6,5,occasion,48000
+Volkswagen,Passat,2013,320,Diesel,Manuelle,5,4,occasion,48500
+Volkswagen,Passat,2017,104,Essence,Manuelle,7,4,occasion,67000
+Volkswagen,Passat,2021,112,Essence,Automatique,8,5,occasion,98000
+Volkswagen,Passat,2009,336,Diesel,Manuelle,6,4,occasion,36500
+Volkswagen,Passat,2021,190,Essence,Automatique,8,4,occasion,88000
+Volkswagen,Passat,2015,231,Diesel,Manuelle,5,5,occasion,58000
+Volkswagen,Polo Sedan,2022,102,Essence,Manuelle,5,4,occasion,51000
+Volkswagen,Polo Sedan,2022,81,Essence,Manuelle,5,5,occasion,51000
+Volkswagen,Polo Sedan,2022,102,Essence,Manuelle,5,4,occasion,43000
+Volkswagen,Polo Sedan,2022,102,Essence,Manuelle,5,4,occasion,43000
+Volkswagen,Polo Sedan,2022,83,Essence,Manuelle,5,4,occasion,56000
+Volkswagen,Polo Sedan,2022,80,Essence,Manuelle,5,4,occasion,49500
+Volkswagen,Polo Sedan,2014,222,Essence,Manuelle,5,4,occasion,38000
+Volkswagen,Polo Sedan,2017,245,Essence,Manuelle,5,4,occasion,34800
+Volkswagen,Polo Sedan,2022,74,Essence,Manuelle,5,4,occasion,49500
+Volkswagen,Polo Sedan,2022,143,Essence,Manuelle,5,4,occasion,44000
+Volkswagen,Polo,2020,56,Essence,Manuelle,4,5,occasion,65500
+Volkswagen,Polo,2022,117,Essence,Manuelle,6,5,occasion,63000
+Volkswagen,Polo,2019,197,Essence,Manuelle,4,5,occasion,43000
+Volkswagen,Polo,2020,70,Essence,Manuelle,4,5,occasion,59000
+Volkswagen,Polo,2022,142,Essence,Manuelle,4,5,occasion,48000
+Volkswagen,Polo,2022,157,Essence,Manuelle,4,5,occasion,68000
+Volkswagen,Polo,2021,110,Essence,Manuelle,4,5,occasion,45000
+Volkswagen,Polo,2008,172,Essence,Manuelle,4,4,occasion,19500
+Volkswagen,Polo,2021,88,Essence,Manuelle,4,5,occasion,45000
+Volkswagen,Polo,2022,157,Essence,Manuelle,4,4,occasion,45000
+Volkswagen,Polo,2022,95,Essence,Manuelle,4,5,occasion,45000
+Volkswagen,Polo,2022,80,Essence,Manuelle,4,4,occasion,45000
+Volkswagen,Polo,2022,142,Essence,Manuelle,4,4,occasion,45000
+Volkswagen,Polo,2012,218,Essence,Manuelle,5,4,occasion,32500
+Volkswagen,Polo,2022,121,Essence,Manuelle,4,4,occasion,45000
+Volkswagen,Polo,2022,114,Essence,Manuelle,4,4,occasion,45000
+Volkswagen,Polo,2021,110,Essence,Manuelle,4,5,occasion,61500
+Volkswagen,Polo,2020,96,Essence,Manuelle,4,5,occasion,60000
+Volkswagen,Polo,2022,157,Essence,Manuelle,4,5,occasion,58000
+Volkswagen,Polo,2019,93,Essence,Manuelle,4,5,occasion,39000
+Volkswagen,Polo,2012,218,Essence,Manuelle,4,5,occasion,33800
+Volkswagen,Polo,2022,87,Essence,Manuelle,4,5,occasion,43000
+Volkswagen,Polo,2020,95,Essence,Manuelle,4,5,occasion,59000
+Volkswagen,Polo,2011,268,Essence,Manuelle,5,5,occasion,32000
+Volkswagen,Polo,2008,172,Essence,Automatique,5,5,occasion,22000
+Volkswagen,Polo,2019,93,Essence,Manuelle,4,5,occasion,42000
+Volkswagen,Polo,2021,86,Essence,Manuelle,4,5,occasion,47000
+Volkswagen,Polo,2022,76,Essence,Manuelle,5,5,occasion,85000
+Volkswagen,Polo,2011,268,Essence,Manuelle,4,5,occasion,31500
+Volkswagen,Polo,2008,240,Essence,Manuelle,5,5,occasion,27500
+Volkswagen,Polo,2022,110,Essence,Manuelle,4,5,occasion,47800
+Volkswagen,Scirocco,2011,174000,Essence,Automatique,8,3,occasion,35000
+Volkswagen,T Cross,2023,94,Essence,Manuelle,5,5,occasion,84000
+Volkswagen,T Cross,2022,39,Essence,Manuelle,6,5,occasion,69500
+Volkswagen,T Cross,2023,94,Essence,Automatique,7,5,occasion,88000
+Volkswagen,T Cross,2022,39,Essence,Automatique,6,4,occasion,85000
+Volkswagen,T Roc,2021,79,Essence,Manuelle,6,5,occasion,79000
+Volkswagen,T Roc,2021,50,Essence,Manuelle,6,5,occasion,82000
+Volkswagen,T Roc,2021,21,Essence,Manuelle,6,3,occasion,102000
+Volkswagen,T Roc,2022,99,Essence,Manuelle,6,5,occasion,83500
+Volkswagen,T Roc,2020,170,Essence,Manuelle,6,5,occasion,69000
+Volkswagen,T Roc,2023,95,Essence,Manuelle,6,5,occasion,96500
+Volkswagen,T Roc,2020,85,Essence,Manuelle,6,4,occasion,83000
+Volkswagen,T Roc,2020,85,Essence,Manuelle,6,5,occasion,65000
+Volkswagen,T Roc,2023,95,Essence,Manuelle,6,5,occasion,95000
+Volkswagen,Taigo,2025,1,Essence,Manuelle,5,5,occasion,69500
+Volkswagen,Taigo,2022,95,Essence,Automatique,7,5,occasion,119000
+Volkswagen,Tiguan,2018,120,Essence,Automatique,7,5,occasion,90000
+Volkswagen,Tiguan,2018,124,Essence,Automatique,8,5,occasion,117000
+Volkswagen,Tiguan,2018,124,Diesel,Manuelle,8,5,occasion,120000
+Volkswagen,Tiguan,2018,104,Diesel,Manuelle,8,5,occasion,108000
+Volkswagen,Tiguan,2018,104,Diesel,Manuelle,6,5,occasion,94000
+Volkswagen,Tiguan,2023,90,Essence,Automatique,8,5,occasion,155000
+Volkswagen,Tiguan,2021,130,Hybride rechargeable essence,Automatique,8,5,occasion,157000
+Volkswagen,Tiguan,2014,299,Diesel,Automatique,9,5,occasion,64000
+Volkswagen,Tiguan,2015,71,Essence,Automatique,9,5,occasion,67000
+Volkswagen,Tiguan,2017,169,Essence,Automatique,8,5,occasion,71000
+Volkswagen,Tiguan,2020,138,Essence,Automatique,8,4,occasion,88000
+Volkswagen,Tiguan,2018,123,Essence,Automatique,12,5,occasion,89000
+Volkswagen,Tiguan,2024,42,Hybride léger essence,Automatique,8,5,occasion,200000
+Volkswagen,Tiguan,2020,84,Essence,Automatique,8,5,occasion,98000
+Volkswagen,Tiguan,2015,150,Essence,Automatique,9,5,occasion,72000
+Volkswagen,Tiguan,2010,184,Essence,Manuelle,11,5,occasion,42000
+Volkswagen,Tiguan,2010,158,Essence,Manuelle,12,5,occasion,38000
+Volkswagen,Tiguan,2018,60,Essence,Automatique,8,5,occasion,85000
+Volkswagen,Tiguan,2013,220,Diesel,Manuelle,8,5,occasion,66000
+Volkswagen,Tiguan,2022,50,Essence,Automatique,8,4,occasion,134000
+Volkswagen,Tiguan,2024,22,Essence,Automatique,8,5,occasion,168000
+Volkswagen,Tiguan,2016,180,Diesel,Automatique,8,5,occasion,100000
+Volkswagen,Tiguan,2021,130,Hybride rechargeable essence,Automatique,8,4,occasion,150000
+Volkswagen,Tiguan,2024,42,Essence,Automatique,8,5,occasion,153000
+Volkswagen,Tiguan,2021,19,Hybride rechargeable essence,Automatique,8,5,occasion,148000
+Volkswagen,Tiguan,2014,299,Essence,Automatique,9,5,occasion,63000
+Volkswagen,Touareg,2009,255,Diesel,Automatique,16,4,occasion,145000
+Volkswagen,Touareg,2015,108,Diesel,Automatique,17,5,occasion,38000
+Volkswagen,Transporter,2017,347,Diesel,Manuelle,7,4,occasion,67000
+Volkswagen,Transporter,2019,139,Diesel,Manuelle,7,4,occasion,54000
+Volkswagen,Virtus,2023,20000,Essence,Manuelle,6,4,occasion,62000
+Volvo,Ex30,2024,11000,Electrique,Automatique,5,5,occasion,105500
+Volvo,S60,2014,150000,Essence,Automatique,9,4,occasion,44200
+Volvo,S80,2012,353215,Diesel,Automatique,9,4,occasion,37500
+Volvo,Xc60,2022,19000,Hybride rechargeable essence,Automatique,20,5,occasion,286000
+Wallyscar,719,2023,67000,Essence,Manuelle,7,4,occasion,36500
+Wallyscar,Iris,2021,40,Essence,Manuelle,4,2,occasion,35000
+Wallyscar,Iris,2020,80,Essence,Manuelle,4,3,occasion,35000
