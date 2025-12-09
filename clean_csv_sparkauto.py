@@ -1,13 +1,17 @@
 import pandas as pd
+import numpy as np
 
-# Charger le CSV
 df = pd.read_csv("sparkauto.csv")
 
-# Remplacer les valeurs manquantes par 0 (ou une autre valeur si tu préfères)
-df['Puissance_fiscale'] = df['Puissance_fiscale'].fillna(0)
+def clean_puissance(x):
+    try:
+        # Extraire les chiffres si possible
+        return int(float(str(x).split()[0]))
+    except:
+        return np.nan
 
-# Convertir en entier
-df['Puissance_fiscale'] = df['Puissance_fiscale'].astype(int)
+df['Puissance_fiscale'] = df['Puissance_fiscale'].apply(clean_puissance)
 
-# Sauvegarder le CSV mis à jour
-df.to_csv("sparkauto_fixed.csv", index=False)
+df['Puissance_fiscale'] = df['Puissance_fiscale'].astype('Int64')
+
+df.to_csv("sparkauto_clean.csv", index=False)
