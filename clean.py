@@ -1,23 +1,20 @@
 import pandas as pd
 
-df = pd.read_csv("cars_dataset_cleaned_more.csv")
+def fix_kilometrage(df):
+    # convertir Etat_generale en minuscule
+    df["Etat_generale"] = df["Etat_generale"].astype(str).str.lower()
+    
+    # multiplier seulement *occasion*
+    mask = (df["Kilométrage"] < 1000) & (df["Etat_generale"] == "occasion")
+    df.loc[mask, "Kilométrage"] = df.loc[mask, "Kilométrage"] * 1000
 
-before = len(df)
+    return df
 
-# Supprimer prix = 0 ou prix null
-df = df[df['Prix'].notna()]
-df = df[df['Prix'] > 0]
 
-# Supprimer les valeurs irréalistes ( > 1 million DT )
-df = df[df['Prix'] <= 1_000_000]
+if __name__ == "__main__":
+    df = pd.read_csv("cars_dataset_cleaned_more_final.csv")
 
-after = len(df)
+    df = fix_kilometrage(df)
 
-print(f"Rows before: {before}")
-print(f"Rows after : {after}")
-print(f"Supprimés   : {before-after}")
-
-# Sauvegarde
-df.to_csv("cars_dataset_cleaned_more_fixed.csv", index=False)
-
-print("✔ prices cleaned & file saved.")
+    df.to_csv("cars_dataset_cleaned_more_final_v2.csv", index=False)
+    print("Kilométrage corrigé ✔")
