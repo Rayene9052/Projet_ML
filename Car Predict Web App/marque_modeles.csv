@@ -1,0 +1,63 @@
+﻿marque,modele
+Abarth,500
+Alfa Romeo,"159, Giulietta, Mito, Stelvio"
+Audi,"80, A1 Sportback, A2, A3, A3 Berline, A3 Sportback, A4, A4 35 Tfsi, A4 Allroad, A5, A5 Cabriolet, A5 S-Line, A5 Sportback, A6, A7, E Tron, E Tron Sportback, Q2, Q3, Q3 Sportback, Q4 E Tron, Q5, Q5 S-Line Quattro, Q7, Q8, Q8 E Tron, Q8 Sportback E Tron, Tt"
+Baic Yx,Kenbo S3
+Bmw,"116, 118, 120, 316, 318, 320, 518, 520, 525, I4, Ix, Ix3, Serie 1 3P, Serie 1 5P, Serie 1 Ii, Serie 2, Serie 2 Gran Coupe, Serie 3, Serie 3 Cabriolet, Serie 3 Coupe, Serie 3 Gt, Serie 3 Vi, Serie 4, Serie 4 Coupe, Serie 4 Gran Coupe, Serie 5, Serie 6, Serie 7, Série 1, Série 3 318I, Série 4 Gran Coupé, Série 4 Gran Coupé Pack M, Série 4 Grand Coupé, Série 5, X1, X2, X3, X4, X5, X6, Z4"
+Byd,"F1, F3, Sealion 7, Song, Song Plus, Tang"
+Cadillac,"Ats, Escalade"
+Chery,"A1, A3, A5, Arrizo 3, Arrizo 5, Qq, Tiggo, Tiggo 2, Tiggo 3X, Tiggo 4, Tiggo 7, Tiggo 8, Tiggo 8 Pro"
+Chevrolet,"Autre, Aveo, Camaro, Captiva, Cruze, Groove, Sonic, Sonic 4P, Spark, Trax"
+Chrysler,300C
+Citroen,"Autre, Ax, Berlingo, Berlingo Ii, Berlingo Multispace, Berlingo Utilitaire, Berlingo Van, C Elysee, C1, C15, C3, C3 Aircross, C3 Ii, C3 Picasso, C4, C4 Cactus, C4 Ii, C4 Picasso, C4 Picasso Ii, C4 X, C5, C5 Aircross, C5 Ii, C5 Tourer, Ds, Ds3, Ds4, Ds5, Jumper, Jumpy, Jumpy Combi, Jumpy Fourgon, Nemo, Saxo, Zx"
+Citroën,C3
+Cupra,"Formentor, Leon"
+Dacia,"Autre, Dokker, Dokker Van, Duster, Lodgy, Logan, Logan Mcv, Sandero, Sandero Stepway"
+Datsun,Autre
+Dfsk,"Glory 500, Glory 580, K01H"
+Dongfeng,"Autre, S50, Sx3, T5 Evo"
+Ds,"3, 7 Crossback, Ds3, Ds5"
+Faw,Bestune T77
+Fiat,"126, 500, 500 C, Autre, Bravo Ii, Doblo, Doblo Cargo, Doblo Combi, Doblo Maxi, Ducato, Fiorino, Fiorino Qubo, Freemont, Grande Punto, Palio Weekend, Panda, Panda City Cross, Punto, Punto Easy, Punto Evo, Scudo, Tipo, Tipo Berline, Uno"
+Ford,"Autre, C Max, Ecosport, Escort, Fiesta, Figo, Focus, Focus Berline, Fusion, Ka, Kuga, Mondeo, Mustang, Ranger, Ranger Raptor, Transit Custom"
+Foton,"Aumark Tx 3511, Tunland"
+Geely,"Azkara, Coolray, Gc 6, Gk-Gl, Gx3, Lc, Mk-Gl, Mk-Gs"
+Great Wall,"H2, H5, H6, Jolion, M4, Poer, Poer At, Wingle 5 Double Cabine"
+Haval,"H2, H6"
+Honda,"Acty, Autre, Brio, Brio Amaze, City, Civic, Cr V, Cr-V, Crv, Hr V, Hr-V"
+Hummer,H3
+Hyundai,"Accent, Autre, Creta, Elantra, Galloper, Grand I10, Grand I10 Sedan, I10, I20, I30, I30 1.0T, I30 Fastback, Ioniq 5, Ix35, Kona, Palisade, Sonata, Tucson, Veloster"
+Infiniti,"Fx, Q30"
+Isuzu,"Autre, D Max, D Max Dc, Mu X, Nkr 66, Pickup"
+Iveco,Daily
+Jaguar,"E Pace, F Pace, F Type, F-Pace, X Type, Xf, Xjl"
+Jeep,"Commander, Compass, Grand Cherokee, Patriot, Renegade, Wrangler 2021, Wrangler Unlimited"
+Kia,"Autre, Ceed, Cerato, Cerato Koup, K2700, Optima, Picanto, Rio, Rio 5P, Seltos, Sonet, Sorento, Soul, Sportage, Stinger, Stonic, Xceed"
+Lada,"110, 4X4, Niva 4X4"
+Lancia,Ypsilon
+Land Rover,"Defender, Discovery, Discovery Sport, Evoque, Freelander, Range Rover, Range Rover Evoque, Range Rover Sport, Range Rover Velar"
+Lexus,Ls 430
+Mahindra,"Kuv 100, Pick Up Sc, Scorpio Pick Up Dc, Scorpio Suv, Xuv 300"
+Mazda,"2, 2 Sedan, 3, 3 Sedan, 6, Bt 50, Cx 3, Cx 5, Cx 7, Cx 9, Cx-5, Mazda2, Mazda3, Mazda6"
+Mega,Autre
+Mercedes,"200, 230, 250, Amg Gt, Autres, Cla 180, Cla 250E, Classe A, Classe A 200, Classe A 35 Amg, Classe B, Classe C, Classe C 180, Classe C 220, Classe Cla, Classe Clk, Classe Cls, Classe E, Classe E 180, Classe E 200 Coupe, Classe E200, Classe Gl, Classe Gla, Classe M, Classe S, Classe V, Glc"
+Mercedes Benz,"Amg Gt, Cla, Classe A, Classe A Berline, Classe B, Classe C, Classe C Coupe, Classe E, Classe E Coupe, Classe G, Classe Gl, Classe S, Classe X, Cle Coupe, Cls, Eqa, Eqb, Eqs Berline, Gla, Glb, Glc, Glc Coupe, Gle, Gle Coupe, Glk, Ml, Viano"
+Mg,"3, 5, 6, Gs, Gt, Hs, Mg 5, Mg Rx8, Mg Zs, One, Zs"
+Mini,"3 Portes, 5 Portes, Autre, B, Cooper S, Countryman, John Cooper Works"
+Mitsubishi,"Asx, Attrage, Autres, Colt, L200 Double Cabine, L200 Sportero, Lancer, Montero, Pajero, Pajero Sport"
+Nissan,"Altima, Autres, Juke, Micra, Navara, Patrol, Qashqai, Terrano, X Trail, X-Trail"
+Opel,"Agila, Astra, Autres, Calibra, Campo, Combo, Combo Cargo, Corsa, Crossland X, Insignia, Kadett, Mokka, Mokka X, Movano, Vectra, Vivaro, Zafira"
+Peugeot,"106, 107, 108, 2008, 205, 206, 206 Plus, 207, 208, 3008, 301, 305, 306, 307, 308, 308 Gt, 309, 4008, 404, 407, 5008, 508, Autres, Bipper Tepee, Boxer, E 208, Expert, Expert Combi, Landtrek Double Cabine, Landtrek Simple Cabine, Partner, Partner Origin Utilitaire, Partner Tepee, Rcz, Rifter"
+Porsche,"Cayenne, Cayenne Coupe, Macan, Macan Electrique, Panamera"
+Renault,"Alpine A110, Autres, Captur, Clio, Clio Campus, Espace, Express, Express Van, Fluence, Kadjar, Kangoo, Koleos, Kwid, Megane, Megane Coupe, Megane Sedan, R19, R5, Rafale, Scenic, Symbol, Trafic, Twingo, Vel Satis"
+Seat,"Altea, Arona, Ateca, Autres, Ibiza, Leon, Leon Sc, Tarraco"
+Skoda,"105, Autres, Fabia, Kamiq, Octavia, Scala, Superb, Yeti"
+Smart,Fortwo
+Ssangyong,"Actyon, Actyon Sports, Chairman, Korando, Rexton, Tivoli"
+Ssangyoung,Tivoli
+Suzuki,"Alto, Autres, Baleno, Celerio, Ciaz, Ertiga, Jimny, Jimny 5P, S Presso, S-Presso, Samurai, Swift, Sx4, Vitara"
+Tata,"Tata Super Ace, Tata Xenon X2, Tata Xenon X2 Double Cabine"
+Toyota,"Agya, Autres, Aygo, C Hr, C-Hr, Corolla, Corolla 5P, Fj, Gt86, Hiace, Hilux, Hilux Simple Cabine, Land Cruiser, Land Cruiser Prado, Prado, Rav 4, Rav 4 Hybride, Rav4, Yaris, Yaris Cross, Yaris Sedan"
+Volkswagen,"Amarok, Beetle, Caddy, Cc, Crafter, Fox, Golf, Golf 2, Golf 4, Golf 5, Golf 6, Golf 7, Golf 8, Golf Plus, Jetta, Passat, Passat Cc, Polo, Polo Sedan, Scirocco, T Cross, T Roc, Taigo, Tiguan, Tiguan R Line, Touareg, Touran, Transporter, Up, Virtus"
+Volvo,"240, Ex30, S40, S60, S80, V60, Xc60"
+Wallyscar,"619, 719, Iris"
